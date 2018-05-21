@@ -41,6 +41,23 @@ class MDPenv(object):
                 elif list(self.policy[i][j]) == [0, 1]:
                     marks[i][j] = mark_set[3]
 
+        space_tmp = list(self.space)
+        tmp = np.zeros([10, 10])
+        for i in range(10):
+            for j in range(10):
+                tmp[i][j] = round(space_tmp[i][j], 2)
+        
+        plot0 = plt.table(cellText=tmp, loc=(0,0), cellLoc='center')
+        tc = plot0.properties()['child_artists']
+        for cell in tc: 
+            cell.set_height(1.0/10)
+            cell.set_width(1.0/10)
+
+        ax = plt.gca()
+        ax.set_xticks([])
+        ax.set_yticks([])
+        plt.show()
+
         ax1 = seaborn.heatmap(self.space, annot=True, linecolor='black', linewidth=1, cmap='viridis')
         plt.show()
         ax2 = seaborn.heatmap(self.space, annot=marks, fmt='s', linecolor='black', linewidth=1, cmap='viridis')

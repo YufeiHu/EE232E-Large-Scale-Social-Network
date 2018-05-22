@@ -185,7 +185,26 @@ class MDPenv(object):
         else:
             return 0.0
 
-
+    
+    def optimal_state_value2(self, current_state):
+        # initial
+        current_value = -float('inf')
+        current_policy = np.array([0, 0])
+        # computation
+        for action in self.action_set:
+            value_tmp = self.reward_function[current_state[0]][current_state[1]]
+            for move in np.array([[-1,0], [1,0], [0,-1], [0,1], [0,0]]):
+                next_state = current_state + move
+                if next_state[0] < 0 or next_state[0] > 9 or next_state[1] < 0 or next_state[1] > 9:
+                    continue 
+                prob = self.transition_prob(current_state, action, next_state)
+                value_tmp += prob * (self.discount_factor * self.space[next_state[0]][next_state[1]])
+            if value_tmp > current_value:
+                current_policy = action
+                current_value = value_tmp
+        return current_value, current_policy
+    
+    
     def optimal_state_value(self, current_state):
         # initial
         current_value = -float('inf')

@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import seaborn
 
 
-def compute_reward(lamb, gamma, Pa1, Pa):
+def compute_reward(lamb, gamma, Pa1, Pa, Rmax):
     
     C = [1] * 100
     C.extend([-lamb] * 100)
@@ -57,7 +57,7 @@ def compute_reward(lamb, gamma, Pa1, Pa):
     D = np.concatenate((D0, D1, D2, D3), axis=0)
     
     b = np.zeros((1, 1000))
-    b[0, 800:] = 1
+    b[0, 800:] = Rmax
     b = np.array(b)
     
     C_cvx = matrix(-C)
@@ -66,7 +66,7 @@ def compute_reward(lamb, gamma, Pa1, Pa):
     sol = solvers.lp(C_cvx, A_cvx, b_cvx)
     ans = list(sol['x'])
     R_hat = np.array(ans[200:])
-    R_hat = R_hat.reshape((10, 10))
+    R_hat = R_hat.reshape((10, 10)).T
     
     return R_hat
     
@@ -96,26 +96,31 @@ rf2 = np.array([[ 0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
 
 
 lamb_list = np.linspace(0, 5, 50)
-gamma = 0.8
+gamma_list = np.linspace(0.8, 0.95, 20)
 
 
-env1 = MDPenv(reward_function=rf1)
+env1 = MDPenv(reward_function=rf2)
 _, policy_optimal = env1.value_iter(epsilon=0.01)
 Pa1, Pa = env1.compute_probability_matrix()
 
 
-acc_total = list()
-for lamb in lamb_list:
-    reward_cur = compute_reward(lamb, gamma, Pa1, Pa)
-    env_cur = MDPenv(reward_function=reward_cur)
-    _, policy_cur = env_cur.value_iter(epsilon=0.01)
-    compare = 0
-    for i in range(10):
-        for j in range(10):
-            if list(policy_cur[i, j]) == list(policy_optimal[i, j]):
-                compare += 1
-    acc_cur = compare / 100.0
-    acc_total.append(acc_cur)
-plt.figure()
-plt.plot(lamb_list, acc_total)
-plt.show()
+acc_max_list = list()
+for gamma in gamma_list:
+    acc_total = list()
+    for lamb in lamb_list:
+        reward_cur = compute_reward(lamb, gamma, Pa1, Pa, 100)
+        env_cur = MDPenv(reward_function=reward_cur)
+        _, policy_cur = env_cur.value_iter(epsilon=0.01)
+        compare = 0
+        for i in range(10):
+            for j in range(10):
+                if list(policy_cur[i, j]) == list(policy_optimal[i, j]):
+                    compare += 1
+        acc_cur = compare / 100.0
+        acc_total.append(acc_cur)
+        
+    acc_max_list.append(max(acc_total))
+#plt.figure()
+#plt.plot(lamb_list, acc_total)
+#plt.show()
+#print(max(acc_total))

@@ -1,0 +1,2710 @@
+1		Sargent Creek, San Ardo		-120.788685		36.071629
+2		400 Northumberland Avenue, Redwood Oaks, Redwood City		-122.219406		37.469585
+3		18300 Sutter Boulevard, Morgan Hill		-121.660215		37.150476
+4		2700 Stoughton Way, Sheffield, Sacramento		-121.342846		38.573074
+5		3200 Huntsman Drive, Rosemont Park, Sacramento		-121.361714		38.554435
+6		100 Carlsbad Circle, Vacaville		-121.948432		38.366653
+7		Unnamed Road, Vacaville		-121.996104		38.325847
+8		700 Carlsbad Court, Petaluma		-122.644972		38.261877
+9		500 Hyde Street, Tenderloin, San Francisco		-122.416533		37.785703
+10		3200 Nightingale Drive, Modesto		-121.060020		37.694177
+11		0 Mesa Vista Court, San Ramon		-121.974941		37.764186
+12		Gate 1 Entrance Road, Calistoga		-122.578828		38.581276
+13		1400 Eureka Road, Lead Hill, Roseville		-121.241585		38.755070
+14		900 Crestview Street, Salinas		-121.613308		36.705455
+15		Unnamed Road, Soledad		-121.376707		36.473235
+16		600 9th Street, Pacific Grove		-121.921131		36.617643
+17		200 Vía Gayuba, Monterey		-121.909473		36.588169
+18		3800 Diamond Court, Rocklin		-121.261732		38.788599
+19		4500 Galbrath Drive, Kirkland Place, Sacramento		-121.356636		38.697742
+20		900 Sutter Street, Lower Nob Hill, San Francisco		-122.418912		37.787914
+21		3400 Pierce Street, Marina District, San Francisco		-122.439790		37.802459
+22		6400 South Green Valley Road, Cambria		-120.911762		35.479227
+23		300 East Bell Avenue, Fairfield		-122.031875		38.252900
+24		400 Cinnamon Way, Suisun City		-122.012479		38.249689
+25		400 Bowline Drive, Vacaville		-121.979635		38.343208
+26		Cornell Street, Sonoma		-122.487302		38.305744
+27		Entrada, Santa Rosa		-122.737504		38.467035
+28		9300 Lakewood Drive, Windsor		-122.801975		38.552739
+29		24800 West Jayne Avenue, Coalinga		-120.246742		36.130023
+30		2200 Central Avenue, Alameda		-122.246330		37.766349
+31		5900 San Diego Street, El Cerrito		-122.306018		37.901185
+32		200 North Mills Avenue, Lodi		-121.297575		38.139723
+33		0 North Crescent Avenue, Lodi		-121.281033		38.135976
+34		1600 Church Street, Lodi		-121.276140		38.108162
+35		100 North Garfield Avenue, Manteca		-121.210946		37.799210
+36		1900 Carnation Way, Manteca		-121.189472		37.799097
+37		1800 Newcastle Drive, South Los Altos, Los Altos		-122.070514		37.345506
+38		Unnamed Road, Mount Hamilton		-121.481191		37.205840
+39		Maxwell Al, Vallejo		-122.238454		38.105279
+40		1800 Blossom Avenue, Fairfield		-122.014473		38.263973
+41		1700 Felicia Lane, Concord		-122.014071		37.977436
+42		7400 Northland Avenue, San Ramon		-121.939187		37.732216
+43		1600 Folsom Avenue, San Pablo		-122.352594		37.961462
+44		1700 Egbert Avenue, Bayview, San Francisco		-122.398293		37.724754
+45		5100 Obyrnes Ferry Road, Jamestown		-120.538380		37.892049
+46		500 Chester Street, West Oakland, Oakland		-122.297235		37.807421
+47		9700 Birch Street, Cox, Oakland		-122.166514		37.746447
+48		2800 E Street, Central Sacramento, Sacramento		-121.469390		38.580378
+49		0 Saginaw Circle, North Sacramento, Sacramento		-121.491249		38.624170
+50		6900 Loheit Way, Andrea Boulevard Gold Run Avenue, Sacramento		-121.341265		38.691007
+51		7700 Claypool Way, Sunrise Farms, Citrus Heights		-121.258177		38.705969
+52		2800 Gay Avenue, East San Jose, San Jose		-121.835311		37.368068
+53		900 West 11th Street, Merced		-120.496933		37.298696
+54		1400 Lucy Way, Chico		-121.822643		39.769156
+55		6100 Plymouth Avenue, Richmond		-122.315471		37.945607
+56		Wildcat Marsh Trail, Richmond		-122.373623		37.961612
+57		1700 Bayo Vista Avenue, San Pablo		-122.321681		37.958479
+58		5600 Genoa Street, Santa Fe, Oakland		-122.273448		37.843259
+59		4900 Antioch Street, Union City		-122.073896		37.570100
+60		33900 Emilia Lane, Ardenwood, Fremont		-122.053654		37.571945
+61		5400 Ridgewood Drive, Ardenwood, Fremont		-122.050945		37.561700
+62		3500 Ellery Common, Central District, Fremont		-121.976886		37.545039
+63		39300 Wilford Street, Sundale, Fremont		-121.985571		37.539148
+64		5200 Selma Avenue, Centerville, Fremont		-122.008744		37.537299
+65		42600 Everglades Park Drive, Blacow, Fremont		-121.975871		37.519876
+66		4100 Piedmont Terrace, Vineyards - Avalon, Fremont		-121.896753		37.486344
+67		6900 65th Street, Sacramento		-121.439970		38.501998
+68		2500 Cooper Avenue, Merced		-120.510686		37.314167
+69		1100 Prospect Street, Seaside		-121.844578		36.601254
+70		500 Winchester Court, Maidu, Roseville		-121.242642		38.736379
+71		1600 Misty Wood Drive, Pleasant Grove, Roseville		-121.321950		38.778518
+72		800 Spur Court, Whitney Ranch, Rocklin		-121.274537		38.826131
+73		2100 Fieldcrest Avenue, Fairfield		-122.052162		38.292827
+74		300 West Humboldt Street, Central San Jose, San Jose		-121.881529		37.316002
+75		0 Napa Road, Sonoma		-122.464112		38.280860
+76		700 Lakeville Circle, Petaluma		-122.590615		38.239469
+77		2000 Harmil Way, Central San Jose, San Jose		-121.892778		37.294415
+78		1400 Thomas Avenue, Bayview, San Francisco		-122.387227		37.727739
+79		1500 California Street, Polk Gulch, San Francisco		-122.419425		37.790887
+80		0 Farren Street, Western Addition, San Francisco		-122.438227		37.781427
+81		0 Berkeley Way, Diamond Heights, San Francisco		-122.440061		37.740622
+82		2700 25th Street, Mission District, San Francisco		-122.406549		37.751951
+83		300 Mason Street, Healdsburg		-122.865238		38.610942
+84		9400 Kimbrough Court, Sherwoods Manor, Stockton		-121.355485		38.035538
+85		9100 North El Dorado Street, Bear Creek, Stockton		-121.319259		38.036026
+86		300 Ruth Avenue, Monta Loma, Mountain View		-122.101474		37.410095
+87		2200 Wyandotte Street, Mountain View		-122.096666		37.417600
+88		300 East 9th Street, Gilroy		-121.565490		37.002671
+89		100 Berry Street, Santa Cruz		-122.007871		36.984166
+90		300 Heathcliff Drive, Westview, Pacifica		-122.477017		37.650969
+91		700 Industrial Road, San Carlos		-122.255380		37.510766
+92		Lincoln Highway, West Sacramento		-121.524327		38.571689
+93		27200 Meadowbrook Drive, Old Willowbank, Davis		-121.705562		38.540049
+94		1100 Cornell Drive, Sycamore South, Davis		-121.764154		38.553113
+95		5900 Old Highway 53, Clearlake		-122.630334		38.937178
+96		2200 Bonar Street, Poets Corner, Berkeley		-122.286882		37.866036
+97		600 Hilldale Avenue, Berkeley Hills, Berkeley		-122.267186		37.900491
+98		500 10th Street, Downtown Oakland, Oakland		-122.276042		37.801698
+99		2400 19th Avenue, Highland Terrace, Oakland		-122.233726		37.794201
+100		3100 Overlook Way, Richmond		-122.330363		37.982257
+101		1300 17th Street, San Pablo		-122.353170		37.954599
+102		500 Mount Street, East Richmond, Richmond		-122.321602		37.938771
+103		35500 Ebro Court, Centerville, Fremont		-122.030026		37.562786
+104		4300 Baine Avenue, Centerville, Fremont		-122.009368		37.554594
+105		39000 State Street, Central District, Fremont		-121.985669		37.550963
+106		Bidwell Canyon Road, Oroville		-121.471474		39.529490
+107		1900 Sandcreek Way, Alameda		-122.258907		37.762258
+108		400 West Sunset Boulevard, Hayward		-122.110051		37.667794
+109		200 Ramona Avenue, El Cerrito		-122.291555		37.905108
+110		4300 Berkwood Court, El Dorado Hills		-121.059448		38.681609
+111		1000 Salmon Drive, Cirby Side, Roseville		-121.267826		38.735778
+112		3500 Sluice Box Road, Placerville		-120.778589		38.718980
+113		1200 Hayes Street, Western Addition, San Francisco		-122.437976		37.774865
+114		10400 South Austin Road, Manteca		-121.192465		37.854052
+115		3600 Farnham Court, Tracy		-121.444350		37.714509
+116		1000 Fulton Street, Roosevelt, Redwood City		-122.232740		37.476335
+117		100 Edgemar Street, Crocker, Daly City		-122.445028		37.705301
+118		1500 Sunnyslope Avenue, Belmont		-122.279749		37.513725
+119		1100 Rosewood Avenue, San Carlos		-122.257854		37.498402
+120		1900 Phillip Court, Weston Ranch, Stockton		-121.311273		37.910048
+121		11500 North Ham Lane, Lodi		-121.270532		38.074642
+122		Unnamed Road, Isleton		-121.690869		38.099109
+123		20000 Merritt Drive, Cupertino		-122.022649		37.333039
+124		1200 Castec Drive, Arden Park Vista, Sacramento		-121.376432		38.585839
+125		4300 Silva Court, Palo Alto		-122.115771		37.406539
+126		2300 Oak Harbour Drive, North Sacramento, Sacramento		-121.517735		38.608674
+127		2000 Waverley Street, Old Palo Alto, Palo Alto		-122.144917		37.435477
+128		1900 Stowe Avenue, Alum Rock, San Jose		-121.847208		37.355213
+129		7000 Brayton Avenue, Brook Tree North, Citrus Heights		-121.303845		38.671423
+130		5800 Bosco Way, Southeastern Sacramento, Sacramento		-121.419056		38.521628
+131		1100 South 8th Street, Central San Jose, San Jose		-121.870466		37.322872
+132		1000 Glenfinnan Drive, South San Jose, San Jose		-121.843947		37.320111
+133		2100 South 10th Street, South San Jose, San Jose		-121.856244		37.312766
+134		1100 Littleoak Circle, West San Jose, San Jose		-122.002371		37.299403
+135		100 Texas Street, Travis Air Force Base, Fairfield		-121.945629		38.278716
+136		5800 Leisure Town Road, Vacaville		-121.943478		38.332074
+137		700 Dellwood Court, Vacaville		-121.986257		38.378579
+138		0 Maria Drive, Petaluma		-122.618911		38.253544
+139		1300 West Canal Drive, Turlock		-120.862778		37.498465
+140		10900 Metteer Road, Live Oak		-121.639412		39.277771
+141		3500 Brooks Avenue, Santa Rosa		-122.707570		38.403855
+142		400 Steele Lane, West Junior College, Santa Rosa		-122.723555		38.460050
+143		1300 14th Street, Junior College Neighborhood Association, Santa Rosa		-122.706745		38.448416
+144		2000 Rose Avenue, Modesto		-120.967327		37.671779
+145		400 West Whitmore Avenue, Modesto		-121.003146		37.597876
+146		1500 Menlo Avenue, Napa		-122.301129		38.311181
+147		1000 Cunningham Street, Ukiah		-123.203101		39.135960
+148		1000 Drakeley Avenue, Atwater		-120.602718		37.346363
+149		1500 Dayton Road, Chico		-121.851834		39.712862
+150		36700 Z Line Road, Clarksburg		-121.582289		38.430722
+151		500 20th Street, Downtown Oakland, Oakland		-122.272491		37.808907
+152		10400 Lansdale Avenue, Cupertino		-122.022230		37.314915
+153		400 Giannini Drive, Santa Clara		-122.004135		37.330040
+154		800 Rattan Terrace, Ponderosa Park, Sunnyvale		-122.010273		37.358633
+155		400 North Mary Avenue, Sunnyvale West, Sunnyvale		-122.042815		37.390766
+156		Chynoweth Avenue, South San Jose, San Jose		-121.837372		37.257701
+157		100 Cheltenham Way, South San Jose, San Jose		-121.764681		37.223058
+158		1700 Klamath Drive, Salinas		-121.636385		36.710204
+159		600 San Jon Road, Salinas		-121.690300		36.717471
+160		Canyon Del Rey Boulevard, Del Rey Oaks		-121.839850		36.591849
+161		1500 Lees Lane, Auburn		-121.093593		38.854586
+162		7400 Jacinto Road, Southwestern Sacramento, Elk Grove		-121.418499		38.447746
+163		2700 Glen Arven Way, North Sacramento, Sacramento		-121.490616		38.617236
+164		6700 Bodine Circle, Southwestern Sacramento, Sacramento		-121.425438		38.467904
+165		2200 Franklin Street, Pacific Heights, San Francisco		-122.424495		37.794152
+166		1500 Kern Street, Newman		-121.029183		37.306315
+167		300 Stoakes Avenue, Farrelly Pond District, San Leandro		-122.166203		37.732166
+168		14700 Doolittle Drive, Marina Faire, San Leandro		-122.169867		37.685971
+169		900 Rose Street, North Hayward, Hayward		-122.094725		37.680699
+170		800 Downswood Court, South San Jose, San Jose		-121.834112		37.205076
+171		3300 Betty Lane, Lafayette		-122.105299		37.869004
+172		100 Zanzibar Drive, Aptos		-121.876368		36.962973
+173		3100 Garden Avenue, South San Jose, San Jose		-121.838655		37.288837
+174		2600 Sibelius Avenue, Evergreen, San Jose		-121.814746		37.318508
+175		500 North 7th Street, Central San Jose, San Jose		-121.893150		37.347300
+176		500 Hull Avenue, Central San Jose, San Jose		-121.897709		37.316102
+177		3500 Willow Road, Bethel Island		-121.616279		38.031307
+178		600 Sonoma Avenue, Livermore		-121.788652		37.672512
+179		4700 Orange Grove Avenue, Sacramento		-121.359019		38.647357
+180		5600 Miners Ranch Road, Oroville		-121.462605		39.490913
+181		3400 Richmond Boulevard, Oakland Ave - Harrison St, Oakland		-122.259368		37.816992
+182		1500 3rd Street, Napa		-122.288277		38.295941
+183		1900 East Oak Street, Park, Stockton		-121.267844		37.968190
+184		0 South Almaden Boulevard, Central San Jose, San Jose		-121.897125		37.327921
+185		500 West Lassen Avenue, Chico		-121.875786		39.753911
+186		1800 Vicente Street, Sunset District, San Francisco		-122.485341		37.737891
+187		300 Springpark Circle, South San Jose, San Jose		-121.846046		37.269976
+188		1500 4th Street, Central Sacramento, Sacramento		-121.506047		38.575897
+189		Paine Creek, Paicines		-121.094240		36.510431
+190		South San Joaquin Rocks Lookout Road, Coalinga		-120.524980		36.193351
+191		2600 Kelley Avenue, San Pablo		-122.351041		37.969480
+192		4700 Oak Ford Way, Hillsdale, Sacramento		-121.354577		38.679367
+193		700 Altino Boulevard, South San Jose, San Jose		-121.861159		37.289070
+194		600 Aileen Street, Upper Telegraph, Oakland		-122.265228		37.841628
+195		47400 Fernald Street, Warm Springs, Fremont		-121.919559		37.483042
+196		4800 Ganner Court, Pleasanton		-121.890209		37.680737
+197		Stag Point Trail, Meadow Valley		-120.932116		39.864328
+198		200 Hillcrest Avenue, Livermore		-121.752754		37.685250
+199		900 Jessica Drive, Livermore		-121.724956		37.689442
+200		2500 Kennedy Avenue, Chico		-121.879813		39.735065
+201		2000 East 20th Street, Chico		-121.799458		39.726155
+202		Unnamed Road, Coulterville		-120.140892		37.696522
+203		52000 North Highway 101, Westport		-123.561880		39.689627
+204		200 Chaparral Street, Salinas		-121.643945		36.703773
+205		Unnamed Road, Greenville		-120.972160		40.043836
+206		1300 15th Street, Mission District, San Francisco		-122.412964		37.768794
+207		1100 Guerrero Street, Mission District, San Francisco		-122.423099		37.751535
+208		600 Alabama Street, Mission District, San Francisco		-122.413803		37.761124
+209		300 Wilde Avenue, Visitacion Valley, San Francisco		-122.403419		37.716484
+210		100 Ramsell Street, Oceanview, San Francisco		-122.467498		37.713444
+211		200 16th Avenue, Richmond District, San Francisco		-122.475834		37.783677
+212		500 Washington Street, Financial District, San Francisco		-122.405081		37.795679
+213		600 North Church Street, Lodi		-121.278451		38.141307
+214		1700 Crom Street, Manteca		-121.243960		37.806448
+215		400 Martinelli Street, Watsonville		-121.754839		36.927335
+216		3700 Lake Ontario Drive, Lakes and Birds, Fremont		-122.057115		37.584145
+217		38100 Hastings Court, Centerville, Fremont		-121.990495		37.559055
+218		41700 Covington Drive, Mission Valley, Fremont		-121.943704		37.531829
+219		4500 Richmond Avenue, Centerville, Fremont		-121.997651		37.544909
+220		43500 Southerland Way, Cameron Hills, Fremont		-121.931398		37.522548
+221		Valley Avenue, Pleasanton		-121.899180		37.669291
+222		2700 Dublin Boulevard, Dublin		-121.859981		37.705908
+223		5500 Stockton Loop, Livermore		-121.741663		37.675342
+224		500 Fontonett Avenue, Livermore		-121.790100		37.663981
+225		1900 Roosevelt Avenue, Belding Woods, Richmond		-122.353309		37.941655
+226		Unnamed Road, Kyburz		-120.507021		38.852553
+227		3300 Fairway Drive, Cameron Park		-120.991411		38.683140
+228		7600 9N54, Somerset		-120.558879		38.613134
+229		14000 Jasper Street, Lathrop		-121.283197		37.833289
+230		300 Glenbriar Circle, Tracy		-121.423315		37.710680
+231		300 West Lowell Avenue, Tracy		-121.430584		37.746501
+232		1000 Beech Street, East Palo Alto		-122.128363		37.463764
+233		County Jail Road, San Bruno		-122.459590		37.627562
+234		100 Domestic Terminals Departures Level, San Francisco		-122.384759		37.620799
+235		300 East San Salvador Street, Central San Jose, San Jose		-121.880256		37.333022
+236		5900 Ellerslee Drive, Merrihill, Carmichael		-121.320020		38.664844
+237		300 Orchard Avenue, Lowlanders, Sunnyvale		-122.025384		37.385589
+238		100 Walk Circle, Santa Cruz		-122.034743		36.959011
+239		100 Elena Court, Scotts Valley		-122.031307		37.020663
+240		0 Mann Avenue, Watsonville		-121.784324		36.957450
+241		0 Pinheiro Circle, Novato		-122.572027		38.110578
+242		0 El Pavo Real Circle, San Rafael		-122.548045		37.998708
+243		0 Charlotte Drive, San Rafael		-122.506893		37.966734
+244		San Quentin Terrace, San Quentin		-122.491411		37.940305
+245		Unnamed Road, Willits		-123.380370		39.426295
+246		0 Conifer Square, Rohnert Park		-122.694319		38.347976
+247		0 Santa Barbara Avenue, Salinas		-121.669557		36.678213
+248		Unnamed Road, Tehama County, California, United States		-121.830710		40.281205
+249		Unnamed Road, Pinecrest		-119.988316		38.109747
+250		4700 Andy Wolf Road, Garden Valley		-120.767487		38.909064
+251		5900 Southview Drive, Edenvale, San Jose		-121.789547		37.250947
+252		1200 Rodriguez Street, Santa Cruz		-121.989619		36.982887
+253		1000 Shasta Street, Vallejo		-122.235993		38.116622
+254		200 Firethorn Drive, Rohnert Park		-122.700954		38.368102
+255		Unnamed Road, Cazadero		-123.152968		38.582017
+256		7000 Canevalley Circle, Antelope Woods, Citrus Heights		-121.307117		38.716250
+257		10700 Campana Way, Glenfaire, Rancho Cordova		-121.281977		38.612383
+258		9000 Williamson Court, Sunrise Homes, Sacramento		-121.363063		38.542715
+259		1100 Princess Drive, Bear Creek, Stockton		-121.327835		38.033870
+260		1800 East March Lane, Valley Oak, Stockton		-121.285823		38.002628
+261		14200 Beckman Road, Lodi		-121.261938		38.111000
+262		1000 Vallejo Street, Santa Rosa		-122.708977		38.435240
+263		8700 Crane Road, Oakdale		-120.867519		37.770327
+264		300 Irwin Street, San Rafael		-122.522406		37.960346
+265		900 California 128, Philo		-123.481984		39.116343
+266		3200 Heather Glen Lane, Atwater		-120.594531		37.366185
+267		6800 Red Maple Way, Citrus Heights		-121.267409		38.690686
+268		1100 Cedar Street, Santa Cruz		-122.029756		36.975937
+269		0 Banbury Way, Benicia		-122.156979		38.070672
+270		400 East Tabor Avenue, Fairfield		-122.029993		38.264830
+271		8200 White Sands Way, Scottsdale East, Sacramento		-121.402677		38.489945
+272		1300 Sundown Lane, Alum Rock, San Jose		-121.818529		37.347803
+273		400 Calero Avenue, South San Jose, San Jose		-121.823399		37.241336
+274		2300 Harper Street, Santa Cruz		-121.977066		36.977162
+275		2800 Florida Street, Vallejo		-122.223737		38.104305
+276		700 Monte Carlo Drive, Suisun City		-121.981194		38.257934
+277		500 El Paseo Drive, Sobrante Park, Oakland		-122.178081		37.728402
+278		800 East 19th Street, Chapmantown, Chico		-121.815572		39.721540
+279		1300 Portsmouth Street, Oakley		-121.731454		37.983647
+280		1600 Sutter Street, Concord		-122.036888		37.974648
+281		1000 Detroit Avenue, Concord		-122.028639		37.954402
+282		100 Valley Hill Drive, Moraga		-122.099005		37.845871
+283		6100 San Pablo Avenue, Paradise Park, Oakland		-122.283801		37.846826
+284		300 45th Street, Temescal, Oakland		-122.258969		37.829214
+285		1600 Maritime Street, Oakland		-122.304276		37.817830
+286		1000 10th Street, West Oakland, Oakland		-122.285008		37.805610
+287		2600 Logan Street, Meadow Brook, Oakland		-122.225176		37.789474
+288		14700 Wiley Street, Washington Manor - Bonaire, San Leandro		-122.157908		37.697371
+289		27000 Manon Avenue, Harder - Tennyson, Hayward		-122.073556		37.638255
+290		4200 Gemini Drive, Union City		-122.068416		37.585317
+291		0 Rollingwood Drive, San Rafael		-122.480200		37.984432
+292		5200 Alcott Drive, Southeastern Sacramento, Sacramento		-121.418751		38.528827
+293		5900 61st Street, Southeastern Sacramento, Sacramento		-121.435219		38.519816
+294		1800 Golden Gate Drive, Napa		-122.302667		38.260326
+295		0 Harrison Avenue, Napa		-122.307283		38.294333
+296		400 Cartagena Way, American Canyon		-122.239356		38.160168
+297		1400 Pembroke Way, Dixon		-121.833343		38.458443
+298		400 20th Century Boulevard, Turlock		-120.855328		37.506698
+299		Chinatown / North Beach Campus, Russian Hill, San Francisco		-122.415999		37.802103
+300		2000 Little Orchard Street, South San Jose, San Jose		-121.874243		37.305223
+301		2400 Grahn Drive, SOS, Santa Rosa		-122.697548		38.460411
+302		0 Bass Court, Bayview, San Francisco		-122.383927		37.733975
+303		Bay Trail, Sunnyvale		-121.981622		37.441517
+304		500 Zook Road, Mountain View		-122.054651		37.417280
+305		700 South Pilgrim Street, Park, Stockton		-121.274420		37.948536
+306		200 Silverlake Drive, Lakewood, Sunnyvale		-122.004857		37.396126
+307		2400 Rockefeller Drive, Ceres		-120.969037		37.593078
+308		600 Hans Avenue, Cuesta Park, Mountain View		-122.083500		37.378680
+309		Mimosa Way, South San Jose, San Jose		-121.762661		37.234738
+310		5500 Haskell Avenue, Arcade Terrace, Carmichael		-121.336299		38.649062
+311		200 Northgate Avenue, Westlake, Daly City		-122.485900		37.703545
+312		1800 41st Avenue, Capitola		-121.966630		36.974818
+313		800 West Street, Hollister		-121.403623		36.848219
+314		200 Alta Mesa Drive, Serra Highlands, South San Francisco		-122.446966		37.655692
+315		900 Veterans Boulevard, Redwood City		-122.230595		37.489397
+316		700 Kearney Street, Benicia		-122.171909		38.093974
+317		900 Barkley Street, West Davis Manor, Davis		-121.775189		38.553535
+318		800 Hudson Street, Davis		-121.784506		38.549932
+319		7500 Burch Road, Yuba City		-121.643263		39.021765
+320		0 Central Street, Orland		-122.177595		39.750272
+321		Nimitz Freeway, Downtown Oakland, Oakland		-122.265188		37.795480
+322		300 Warwick Avenue, Adams Point, Oakland		-122.253678		37.813633
+323		900 Embarcadero West, West Oakland, Oakland		-122.295348		37.797551
+324		100 Castro Lane, Kimber - Gomes, Fremont		-121.933644		37.561545
+325		41400 Mahoney Street, Irvington, Fremont		-121.962332		37.528754
+326		4500 De Silva Street, South Sundale, Fremont		-121.972681		37.531337
+327		1800 Merrill Road, Paradise		-121.574397		39.790341
+328		5000 Franklin Drive, Pleasanton		-121.910050		37.689188
+329		1400 Rhododendron Drive, Springtown, Livermore		-121.747760		37.709609
+330		2800 Waverley Way, Livermore		-121.765041		37.696215
+331		4500 Contractors Place, Livermore		-121.732419		37.696281
+332		0 North Court Street, Martinez		-122.140718		38.022778
+333		15900 Via Paro, San Lorenzo		-122.131423		37.681590
+334		1300 Dennis Circle, Concord		-122.022819		37.969863
+335		California Delta Highway, Antioch		-121.816741		38.000588
+336		10600 Mount Vernon Road, Auburn		-121.125033		38.916888
+337		13000 New Airport Road, Auburn		-121.048571		38.949366
+338		100 Hinman Road, Redwood City		-122.240406		37.554221
+339		2800 Fair Oaks Avenue, Redwood City		-122.208472		37.479883
+340		6100 Eaglecrest Way, Rocklin		-121.278233		38.799235
+341		2000 South Airport Way, Park, Stockton		-121.267485		37.932231
+342		10400 Trinity Parkway, Bear Creek, Stockton		-121.389085		38.048666
+343		1200 East Pine Street, Lodi		-121.262801		38.134837
+344		Unnamed Road, San Juan Bautista		-121.491111		36.832944
+345		400 Moffett Boulevard, Mountain View		-122.075149		37.401046
+346		2000 California Street, Mountain View		-122.097522		37.397443
+347		900 Sycamore Drive, Midtown, Palo Alto		-122.123051		37.437668
+348		5700 Hoffman Lane, Fair Oaks		-121.256125		38.670860
+349		6700 Moselle Drive, South San Jose, San Jose		-121.783835		37.229616
+350		Eggplant Alley, Central Sacramento, Sacramento		-121.491635		38.585930
+351		600 South 22nd Street, Central San Jose, San Jose		-121.866034		37.336863
+352		1600 Forman Avenue, South San Jose, San Jose		-121.909882		37.260320
+353		3000 Harvestwood Court, East San Jose, San Jose		-121.789592		37.327843
+354		6600 Hespera Way, Stock Ranch Residential, Citrus Heights		-121.297465		38.684823
+355		4400 Prodperine Place, Sacramento		-121.351368		38.542915
+356		9300 Emerald Vista Drive, Elk Grove		-121.384885		38.417345
+357		9000 Sheldon Road, Elk Grove		-121.365455		38.438858
+358		8000 Stutz Court, Vintage Park, Sacramento		-121.378315		38.464998
+359		7900 Iona Way, Sacramento		-121.403608		38.470590
+360		8600 Mackey Road, Elk Grove		-121.317021		38.429080
+361		300 Crescent Drive, Galt		-121.306990		38.268780
+362		Cosumnes River Boulevard, Southwestern Sacramento, Sacramento		-121.469919		38.462357
+363		9400 Soaring Oaks Drive, Elk Grove		-121.412387		38.416604
+364		5300 Laguna Park Drive, Elk Grove		-121.432935		38.429666
+365		1400 Laurel Glen Road, Soquel		-121.962972		37.040871
+366		Interstate 505, Vacaville		-121.938290		38.394929
+367		6100 Bodega Avenue, Petaluma		-122.735035		38.263132
+368		7600 Columbus Avenue, Hilmar		-120.900841		37.373890
+369		Ascot Parkway, Vallejo		-122.215349		38.128363
+370		100 Lakewood Avenue, Vallejo		-122.209783		38.104610
+371		1100 Benicia Road, Vallejo		-122.215347		38.093149
+372		100 San Marino Avenue, Vallejo		-122.237312		38.124844
+373		1300 Claratina Avenue, Modesto		-120.969507		37.697017
+374		3800 Longbridge Drive, Modesto		-121.023678		37.697018
+375		3800 Finney Road, Modesto		-121.080971		37.695917
+376		1500 Mount Vernon Drive, Modesto		-121.023962		37.675258
+377		0 Florence Place, Salinas		-121.629746		36.669638
+378		1700 Highland Street, Seaside		-121.829734		36.612553
+379		2200 Alabama Street, Atwater		-120.605306		37.356106
+380		2800 Moorpark Avenue, West San Jose, San Jose		-121.946207		37.317069
+381		900 Nord Avenue, Chico		-121.862753		39.729503
+382		Hickam Terrace, Irvington, Fremont		-121.961334		37.535702
+383		0 Marvin Circle, Chico		-121.813673		39.751163
+384		400 L Street, Davis		-121.737298		38.547477
+385		0 Valley View Road, Orinda		-122.179594		37.904007
+386		0 Sable Pointe, Alameda		-122.247304		37.741266
+387		2100 Manchester Road, San Leandro		-122.108182		37.705688
+388		1700 Doolittle Drive, Davis Tract, San Leandro		-122.190888		37.713527
+389		1000 Burkhart Avenue, Washington Manor - Bonaire, San Leandro		-122.140322		37.685601
+390		5600 Park Crest Drive, South San Jose, San Jose		-121.895936		37.235652
+391		900 Glenridge Drive, South San Jose, San Jose		-121.867686		37.269537
+392		27900 Ormond Avenue, Tennyson - Alquire, Hayward		-122.075780		37.624980
+393		30500 Whipple Road, Union City		-122.082832		37.596206
+394		3600 Page Street, Friendly Acres, Redwood City		-122.189928		37.481860
+395		300 Sequoia Avenue, Redwood City		-122.225293		37.453995
+396		500 North 21st Street, Central San Jose, San Jose		-121.880554		37.354671
+397		400 Cedar Street, Vallejo		-122.223272		38.094839
+398		0 Positive Place, Vallejo		-122.242603		38.149094
+399		2800 Miller Court, Fairfield		-122.066007		38.267015
+400		2000 Plum Tree Way, Fairfield		-122.041080		38.266743
+401		2200 Emerson Place, Fairfield		-122.008484		38.269872
+402		6100 Center Mall Way, Center Mall Estates, Sacramento		-121.427780		38.485084
+403		800 Pine Lane, San Rafael		-122.564002		38.017792
+404		2400 Canal Drive, Atwater		-120.622414		37.360448
+405		7100 Bonita Way, Citrus Heights		-121.280067		38.694514
+406		1000 Clearview Drive, Hollister		-121.380404		36.843973
+407		500 West Sargent Road, Lodi		-121.315768		38.133241
+408		1800 Hillside Boulevard, Colma		-122.449944		37.676268
+409		200 Nelson Avenue, Edgemar - Pacific Manor, Pacifica		-122.488651		37.652984
+410		Baquiano Trail, Pacifica		-122.467181		37.592435
+411		1000 Mangrove Avenue, Chico		-121.841543		39.742623
+412		1000 Bruce Lane, Chico		-121.820639		39.704190
+413		West Evans Reimer Road, Gridley		-121.811857		39.341007
+414		Fallman Road, Brentwood		-121.591670		37.933685
+415		5400 Imhoff Drive, Martinez		-122.082671		38.001005
+416		2700 Contra Costa Canal Trail, Walnut Creek		-122.054201		37.926322
+417		4400 Bell Avenue, Eastshore, Richmond		-122.322884		37.916784
+418		300 La Crosse Drive, Milpitas		-121.871209		37.433721
+419		4000 Moreland Way, West San Jose, San Jose		-121.967035		37.297426
+420		100 Dubois Street, Santa Cruz		-122.042612		36.987872
+421		800 Georgia Street, Vallejo		-122.248860		38.100717
+422		1200 Paru Street, West Alameda, Alameda		-122.258886		37.770576
+423		200 Locust Avenue, San Rafael		-122.507645		37.981922
+424		5100 61st Street, Southeastern Sacramento, Sacramento		-121.436602		38.529447
+425		6600 Golf View Drive, Southwestern Sacramento, Sacramento		-121.494691		38.507073
+426		1500 Hood Road, Sacramento		-121.413308		38.593746
+427		600 Bell Avenue, North Sacramento, Sacramento		-121.460158		38.649718
+428		2200 Club Center Drive, North Sacramento, Sacramento		-121.520212		38.673864
+429		2900 Peacekeeper Way, McClellan Park		-121.397382		38.665450
+430		8700 Sunset Avenue, Fair Oaks		-121.236523		38.649858
+431		Seaborg Road, Berkeley		-122.256090		37.873064
+432		19100 McKinley Avenue, Manteca		-121.277796		37.784313
+433		600 Vanessa Drive, Central San Mateo, San Mateo		-122.309338		37.558241
+434		1300 Franklin Street, Western Addition, San Francisco		-122.423317		37.787453
+435		32400 Joyce Way, Union City		-122.075196		37.578275
+436		1700 Los Gatos Almaden Road, Cambrian, San Jose		-121.914961		37.243266
+437		1000 Queen Anne Drive, West San Jose, San Jose		-122.009967		37.301835
+438		1000 Manet Drive, Sunnyvale		-122.022996		37.355618
+439		3000 Pecan Drive, Fairfield		-122.014242		38.284606
+440		0 Abbey Court, Napa		-122.328444		38.311569
+441		8100 San Remo Way, Valley Hi / North Laguna, Sacramento		-121.440300		38.464217
+442		21800 California 1, Fort Bragg		-123.800168		39.447364
+443		New Corona Heights Trail, The Castro, San Francisco		-122.440631		37.764784
+444		3400 Bouquet Court, Por Villages Of Zinfandel, Gold River		-121.274085		38.575292
+445		900 Divisadero Street, Western Addition, San Francisco		-122.438706		37.778322
+446		1000 El Centro Avenue, Glenview, Oakland		-122.228826		37.808437
+447		2600 Alvarado Street, Floresta Gardens - Bradrick, San Leandro		-122.142022		37.697347
+448		35800 Dering Place, Centerville, Fremont		-122.018253		37.570302
+449		6900 27th Street, Southeastern Sacramento, Sacramento		-121.479225		38.507544
+450		500 Russell Drive, Riata, Folsom		-121.106231		38.672219
+451		2900 Kachina Way, Cordova Rancho Estates, Rancho Cordova		-121.299925		38.587583
+452		1200 Green Street, Russian Hill, San Francisco		-122.420744		37.798361
+453		43000 Mosquito Ridge Road, Foresthill		-120.660040		39.065401
+454		300 Meadowhaven Way, Milpitas		-121.905073		37.438769
+455		3400 Mauricia Avenue, Santa Clara		-121.986216		37.327160
+456		1000 56th Street, Gaskill, Oakland		-122.280389		37.839058
+457		3100 West Street, Hoover - Foster, Oakland		-122.273536		37.820649
+458		900 Webster Street, Downtown Oakland, Oakland		-122.270937		37.800090
+459		1600 16th Avenue, Rancho San Antonio, Oakland		-122.241043		37.791305
+460		2000 Rosedale Avenue, Jefferson, Oakland		-122.211248		37.780731
+461		1000 85th Avenue, Highland, Oakland		-122.183491		37.751061
+462		1000 Shattuck Avenue, Berkeley Hills, Berkeley		-122.271804		37.888404
+463		2000 Bancroft Way, Downtown Berkeley, Berkeley		-122.268935		37.868077
+464		1600 Fairview Street, South Berkeley, Berkeley		-122.275273		37.850039
+465		20100 Marshall Street, Castro Valley		-122.063363		37.699602
+466		100 Pelton Center Way, Old San Leandro, San Leandro		-122.155250		37.723406
+467		16300 Helo Drive, San Leandro		-122.114103		37.698872
+468		700 Via Aires, San Lorenzo		-122.126273		37.671056
+469		1800 Southgate Street, Southgate, Hayward		-122.093812		37.635846
+470		32100 Lupe Court, Union City		-122.075976		37.587836
+471		1000 Amethyst Terrace, Union City		-122.012882		37.589721
+472		4300 Alder Avenue, Centerville, Fremont		-122.023150		37.557816
+473		40700 Chiltern Drive, Kimber - Gomes, Fremont		-121.950884		37.545785
+474		400 Orange Street, Chico		-121.508225		39.397260
+475		1500 Lacassie Avenue, Walnut Creek		-122.063474		37.905639
+476		1500 Nickerson Lane, Murphys		-120.471461		38.134301
+477		0 Tara Road, Northwood - Tara, Orinda		-122.167487		37.879806
+478		100 Eagle Court, Birds, Hercules		-122.264008		38.000107
+479		200 El Portal Drive, San Pablo		-122.333983		37.966564
+480		2800 Roosevelt Avenue, North & East, Richmond		-122.341577		37.939334
+481		700 Elm Street, El Cerrito		-122.302378		37.909730
+482		3400 Brittany Way, El Dorado Hills		-121.094163		38.698805
+483		Forest Route 7N09, Calaveras County, California, United States		-120.242140		38.386217
+484		State Highway 20, Williams		-122.356561		39.100596
+485		900 Outrigger Circle, Brentwood		-121.711430		37.940472
+486		2100 Saint Michaels Court, Sterling Pinnacle, Brentwood		-121.733707		37.952738
+487		2300 Dover Way, Pittsburg		-121.900056		38.013254
+488		0 Oak Gate Place, Pleasant Hill		-122.056073		37.938622
+489		4000 Little Lane, Concord		-122.001946		37.963411
+490		2600 Ogulin Canyon Road, Clearlake		-122.493050		38.971678
+491		Forest Route 18N17, Potter Valley		-122.890344		39.214301
+492		19500 Bartlett Springs Road, Stonyford		-122.577520		39.082756
+493		Harrington Flat Road, Cobb		-122.754221		38.857453
+494		21900 Saint Helena Creek Road, Middletown		-122.620294		38.786264
+495		4200 Shelter Creek Lane, San Bruno		-122.428483		37.619641
+496		2300 Edgewater Drive, Napa		-122.281078		38.317044
+497		600 Lawton Avenue, Kaseberg - Kingswood, Roseville		-121.300321		38.756742
+498		Unnamed Road, Madera		-120.378750		36.891255
+499		600 Throckmorton Avenue, Mill Valley		-122.559817		37.909511
+500		11900 Burris Lane, Potter Valley		-123.114569		39.391270
+501		1300 West Sandy Mush Road, Merced		-120.639467		37.173961
+502		Gastenbide Road, Los Banos		-121.044580		37.029550
+503		700 California Street, Salinas		-121.650558		36.665066
+504		17000 Meadow Way, Grass Valley		-120.879219		39.240691
+505		1000 2nd Street, Central Sacramento, Sacramento		-121.502172		38.582484
+506		2700 Marty Way, Southwestern Sacramento, Sacramento		-121.493902		38.556649
+507		1400 Potrero Way, Southwestern Sacramento, Sacramento		-121.504653		38.528317
+508		5000 McGlashan Street, Southeastern Sacramento, Sacramento		-121.451466		38.530278
+509		6500 46th Street, Sacramento		-121.446528		38.506028
+510		8600 Beauxart Circle, Florin Mobile Estates, Sacramento		-121.385624		38.489678
+511		3100 Northrop Avenue, Sacramento		-121.394227		38.580275
+512		2000 Adonis Way, Arden Oaks Vista, Sacramento		-121.355150		38.601521
+513		200 South Avenue, North Sacramento, Sacramento		-121.457398		38.633727
+514		700 M Street, Rio Linda		-121.447956		38.687963
+515		5000 Waterbury Way, San Juan Heights, Fair Oaks		-121.300636		38.657124
+516		7400 Summer Avenue, Citrus Heights		-121.297699		38.710521
+517		6400 Silkwood Way, Twin Creeks, Citrus Heights		-121.315906		38.695242
+518		8700 Baton Avenue, Orangevale Manor, Orangevale		-121.236874		38.671729
+519		7700 Tea Berry Way, Marialaina Downs, Sacramento		-121.383879		38.478960
+520		Appaloosa Way, Sacramento		-121.349004		38.459371
+521		300 West Elm Avenue, Galt		-121.318056		38.261439
+522		5400 Nectar Circle, Elk Grove		-121.441487		38.387294
+523		600 East Magnolia Street, Civic Center, Stockton		-121.291961		37.963945
+524		400 East Hampton Street, Pacific, Stockton		-121.293590		37.975146
+525		800 Flower Street, Stockton		-121.220367		37.962548
+526		3700 Wood Duck Circle, Lakeview, Stockton		-121.340973		37.995599
+527		700 Sutherland Drive, Valley Oak, Stockton		-121.303470		38.036358
+528		600 Lexington Way, Oak Grove Manor, Burlingame		-122.343335		37.585000
+529		100 36th Avenue, South San Mateo, San Mateo		-122.299115		37.532927
+530		400 Seventh Avenue, Fair Oaks, Menlo Park		-122.195237		37.474809
+531		800 Live Oak Avenue, Downtown Menlo Park, Menlo Park		-122.182190		37.448158
+532		200 Beach Street, North Beach, San Francisco		-122.411073		37.806529
+533		1400 Grant Avenue, North Beach, San Francisco		-122.407119		37.799623
+534		200 Walnut Street, Presidio Heights, San Francisco		-122.451807		37.788702
+535		0 Rossi Avenue, Richmond District, San Francisco		-122.456490		37.778492
+536		800 Franklin Street, Fillmore District, San Francisco		-122.422579		37.783096
+537		500 Webster Street, Western Addition, San Francisco		-122.429737		37.776021
+538		22700 North 99 Frontage Road, Acampo		-121.296250		38.193612
+539		15500 5th Street, Lathrop		-121.281423		37.820073
+540		2900 Buthmann Avenue, Tracy		-121.440447		37.757729
+541		200 San Fernando Way, St. Francis, Daly City		-122.478808		37.682160
+542		2200 Kenry Way, Westborough, South San Francisco		-122.451723		37.639566
+543		2500 Carmel Drive, San Bruno		-122.449681		37.633783
+544		1100 Magnolia Avenue, Central San Jose, San Jose		-121.914849		37.332326
+545		200 North 5th Street, Central San Jose, San Jose		-121.889367		37.341774
+546		1300 Glen Eyrie Avenue, Central San Jose, San Jose		-121.909871		37.309024
+547		4900 Jarvis Avenue, South San Jose, San Jose		-121.886627		37.256661
+548		1300 Santee Drive, South San Jose, San Jose		-121.849466		37.333482
+549		2600 Pacer Lane, South San Jose, San Jose		-121.849809		37.299699
+550		2100 Naida Avenue, Alum Rock, San Jose		-121.831312		37.339974
+551		1900 Margaret Street, Alum Rock, San Jose		-121.844989		37.349974
+552		0 Alexander Avenue, East San Jose, San Jose		-121.841366		37.365334
+553		3000 Balmoral Drive, North San Jose, San Jose		-121.859598		37.409368
+554		200 2nd Street, Sunnyvale		-122.004444		37.401960
+555		500 Aldo Avenue, Santa Clara		-121.948351		37.384604
+556		1100 White Drive, Santa Clara		-121.974166		37.346400
+557		18800 Devon Avenue, Quito Village, Saratoga		-122.000031		37.282186
+558		700 Cathedral Drive, Sunnyvale West, Sunnyvale		-122.045236		37.343869
+559		300 Pescadero Terrace, Sunnyvale West, Sunnyvale		-122.040824		37.375711
+560		1200 Coronado Drive, Sunnyvale West, Sunnyvale		-122.057003		37.379047
+561		100 Nancy Court, Old Mountain View, Mountain View		-122.074277		37.386139
+562		300 Tioga Court, Greenmeadow, Palo Alto		-122.111078		37.414880
+563		1200 Redmond Avenue, South San Jose, San Jose		-121.877191		37.230224
+564		5400 Eagles Lane, South San Jose, San Jose		-121.823628		37.255135
+565		7100 Vía Romera, South San Jose, San Jose		-121.771832		37.229921
+566		800 Calero Avenue, South San Jose, San Jose		-121.854840		37.243104
+567		17300 Lotus Way, Morgan Hill		-121.643684		37.134804
+568		8400 Diane Court, Gilroy		-121.583870		37.025680
+569		700 Eschenburg Drive, Gilroy		-121.577956		37.005504
+570		West Lake Drive, Vallejo		-122.208504		38.114036
+571		400 Wallace Avenue, Vallejo		-122.236921		38.096274
+572		700 East Atlantic Avenue, Fairfield		-122.014964		38.277251
+573		1100 Clay Street, Fairfield		-122.042261		38.254041
+574		600 East Whitmore Avenue, Modesto		-120.985238		37.599702
+575		1900 Walnut Avenue, Ceres		-120.959354		37.586107
+576		Evergreen Road, Groveland		-119.745038		37.907469
+577		Ridge Ranch Road, Geyserville		-122.809867		38.707893
+578		2700 Topeka Street, Riverbank		-120.950643		37.738096
+579		4000 Corte Bella, Modesto		-121.038825		37.699449
+580		1000 Tokay Avenue, Modesto		-120.984204		37.671770
+581		Virginia Corridor Trail, Modesto		-121.004149		37.657530
+582		7700 Orestimba Road, Newman		-121.286209		37.309441
+583		3000 Paseo Entrada Road, Turlock		-120.869410		37.533214
+584		600 Brown Avenue, Yuba City		-121.627396		39.133918
+585		2300 Lassen Place, Aspen, Davis		-121.780076		38.557164
+586		800 B Street, Central Davis, Davis		-121.745423		38.549548
+587		1300 East Beamer Street, Woodland		-121.765110		38.683981
+588		9700 West 31 Trail, Lucerne		-122.727380		39.174748
+589		14500 Pearl Avenue, Clearlake		-122.638950		38.957343
+590		300 Hanover Avenue, Cleveland Heights, Oakland		-122.251813		37.801687
+591		2500 10th Avenue, Bella Vista, Oakland		-122.237894		37.800580
+592		1600 29th Avenue, Fruitvale, Oakland		-122.226550		37.782303
+593		2000 36th Avenue, Harrington, Oakland		-122.215253		37.782953
+594		5200 Fleming Avenue, Maxwell Park, Oakland		-122.192947		37.777522
+595		200 Ghormley Avenue, Brookfield Village, Oakland		-122.184159		37.733979
+596		1000 Sterling Avenue, Berkeley Hills, Berkeley		-122.258927		37.891403
+597		1600 Eighth Street, Northwest Berkeley, Berkeley		-122.296828		37.874188
+598		3000 Colby Street, Elmwood, Berkeley		-122.257680		37.854117
+599		1800 Yale Drive, Alameda		-122.231158		37.763596
+600		800 Walnut Street, Alameda		-122.251248		37.760588
+601		3600 Parsons Court, Castro Valley		-122.084361		37.706221
+602		22000 Cameron Street, Castro Valley		-122.067788		37.686834
+603		20100 Western Boulevard, Hayward		-122.106996		37.682442
+604		24600 Dale Street, Jackson Triangle, Hayward		-122.079621		37.657844
+605		24500 Surrey Way, Santa Clara, Hayward		-122.095064		37.653973
+606		26200 Gamboa Street, Harder - Tennyson, Hayward		-122.079323		37.643709
+607		200 Goodrich Street, Whitman - Wocine, Hayward		-122.069976		37.644010
+608		700 11th Street, Oakland		-122.280089		37.804252
+609		700 19th Street, West Oakland, Oakland		-122.276492		37.810694
+610		1600 Webster Street, Downtown, Oakland		-122.266642		37.806959
+611		200 Park View Terrace, Adams Point, Oakland		-122.259132		37.811391
+612		500 El Dorado Avenue, Grand Lake, Oakland		-122.253219		37.822971
+613		3900 Fruitvale Avenue, Dimond, Oakland		-122.212733		37.805622
+614		3100 San Joaquin Way, Union City		-122.066859		37.593723
+615		2300 Mann Avenue, Union City		-122.017858		37.580847
+616		0 Placer Court, Bay Point		-121.946644		38.023958
+617		100 Elder Drive, Pacheco		-122.071926		37.981041
+618		2200 Floyd Lane, Concord		-122.034442		37.992988
+619		1700 Thornwood Drive, Concord		-121.986840		37.969493
+620		1300 Rae Anne Drive, Monument Corridor, Concord		-122.044509		37.956108
+621		1300 South Main Street, Walnut Creek		-122.058100		37.890587
+622		2900 Biddleford Drive, San Ramon		-121.949690		37.746736
+623		19200 San Ramon Valley Boulevard, San Ramon		-121.977243		37.745149
+624		3300 Beechwood Drive, Stanley, Lafayette		-122.103514		37.889475
+625		800 Sunnyview Drive, Pinole		-122.309156		38.002716
+626		Unnamed Road, Pioneer		-120.336819		38.520903
+627		800 Marin Road, El Sobrante		-122.309523		37.975335
+628		2300 Santa Clara Street, Richmond Annex, Richmond		-122.310044		37.907177
+629		100 Guerrero Street, Mission Dolores, San Francisco		-122.424682		37.768213
+630		Skyway, Magalia		-121.535694		39.944079
+631		2700 Bald Rock Road, Berry Creek		-121.429924		39.684089
+632		1200 Pomona Avenue, Oroville		-121.561085		39.508271
+633		1400 Lively Road, Gridley		-121.718223		39.380927
+634		Silver Mountain Road, Wilseyville		-120.434573		38.368071
+635		Unnamed Road, Williams		-122.425029		39.271713
+636		4700 Shetland Court, Antioch		-121.751650		37.973443
+637		2400 Wilbur Avenue, Antioch		-121.775081		38.011186
+638		0 12th East Street, Pittsburg		-121.895239		38.026998
+639		5500 Getta Way, Pilot Hill		-121.024316		38.837296
+640		Pack Saddle Pass Road, Kyburz		-120.295349		38.725781
+641		1400 Jackson Street, Nob Hill, San Francisco		-122.420030		37.794751
+642		600 Grant Avenue, Chinatown, San Francisco		-122.406195		37.793504
+643		200 Myrtle Street, Tenderloin, San Francisco		-122.419875		37.785467
+644		200 Jones Street, Tenderloin, San Francisco		-122.412849		37.784141
+645		1400 Chestnut Street, Marina District, San Francisco		-122.427651		37.802183
+646		500 Clayton Street, Haight-Ashbury, San Francisco		-122.447596		37.770458
+647		800 Ashbury Street, Ashbury Heights, San Francisco		-122.446041		37.765207
+648		3800 19th Street, Dolores Heights, San Francisco		-122.431283		37.759646
+649		1000 Diamond Street, Noe Valley, San Francisco		-122.439866		37.748408
+650		700 Rhode Island Street, Potrero Hill, San Francisco		-122.402451		37.761446
+651		2900 22nd Street, Mission District, San Francisco		-122.412287		37.755825
+652		300 Hale Street, Excelsior, San Francisco		-122.412511		37.732274
+653		600 Lisbon Street, Excelsior, San Francisco		-122.436023		37.718139
+654		7800 Bartley Court, Granite Bay		-121.197193		38.754751
+655		1700 Quail Circle, Sierra Gardens, Roseville		-121.262135		38.737304
+656		Booth Road, Roseville		-121.311020		38.739841
+657		3900 Creekstone Court, Roseville		-121.362281		38.737861
+658		2700 3rd Street, Lincoln		-121.325902		38.887215
+659		200 Staples Avenue, Outer Mission, San Francisco		-122.445066		37.729676
+660		1900 Lawton Street, Sunset District, San Francisco		-122.483669		37.760129
+661		Building F, Buckingham Way, Lakeshore, San Francisco		-122.480946		37.727433
+662		1300 46th Avenue, Sunset District, San Francisco		-122.506553		37.761670
+663		200 21st Avenue, Central Richmond, San Francisco		-122.481418		37.782858
+664		700 32nd Avenue, Richmond District, San Francisco		-122.492765		37.776484
+665		0 Brookdale Avenue, Visitacion Valley, San Francisco		-122.420818		37.710505
+666		1200 El Camino Del Mar, Sea Cliff, San Francisco		-122.502854		37.783204
+667		1200 East Lindsay Street, Civic Center, Stockton		-121.276868		37.962901
+668		900 Oxford Way, Pacific, Stockton		-121.310939		37.975025
+669		600 Rendon Avenue, Park, Stockton		-121.245050		37.954271
+670		3800 Fairburn Way, Sherwoods Manor, Stockton		-121.356327		38.039931
+671		1800 Crestwood Circle, Valley Oak, Stockton		-121.287897		38.033085
+672		700 Emerald Place, Manteca		-121.231405		37.805949
+673		900 Loose Horse Lane, Paso Robles		-120.785122		35.638762
+674		2500 Shandon San Juan Road, Shandon		-120.484436		35.571765
+675		200 Oriente Street, Bayshore Heights, Daly City		-122.415295		37.704428
+676		300 Citrus Avenue, Daly City		-122.466682		37.698256
+677		0 Ridgefield Avenue, St. Francis, Daly City		-122.485297		37.675084
+678		2500 Crestmoor Drive, San Bruno		-122.433879		37.617744
+679		800 Paloma Avenue, Burlingame Terrace, Burlingame		-122.364620		37.581387
+680		700 South Fremont Street, North Central, San Mateo		-122.319915		37.565379
+681		3900 Wilshire Avenue, South San Mateo, San Mateo		-122.305621		37.527955
+682		1300 South Norfolk Street, Shoreview, San Mateo		-122.303377		37.565852
+683		1100 Polynesia Drive, Foster City		-122.261848		37.561554
+684		1100 Vailwood Way, South San Mateo, San Mateo		-122.282889		37.531709
+685		1000 Porto Marino Drive, San Carlos		-122.276820		37.488703
+686		500 Hartnell Place, Central Sacramento, Sacramento		-121.415690		38.567050
+687		1000 University Avenue, Central San Jose, San Jose		-121.921881		37.340763
+688		200 South 14th Street, Central San Jose, San Jose		-121.874220		37.338714
+689		1600 E Street, Central Sacramento, Sacramento		-121.483935		38.583326
+690		5500 Spilman Avenue, Central Sacramento, Sacramento		-121.435621		38.579188
+691		6200 Sun River Drive, Southeastern Sacramento, Sacramento		-121.419619		38.513354
+692		1300 43rd Avenue, Southwestern Sacramento, Sacramento		-121.509536		38.512035
+693		7300 Bruno Way, Bandaccari Terrace, Sacramento		-121.419498		38.490414
+694		Jazz Alley, Central Sacramento, Sacramento		-121.472592		38.574294
+695		400 South Willard Avenue, Central San Jose, San Jose		-121.922073		37.319244
+696		1500 Santa Maria Avenue, Central San Jose, San Jose		-121.909482		37.300158
+697		2700 New Jersey Avenue, Cambrian Community, San Jose		-121.926248		37.273402
+698		2900 Cambridge Drive, Willow Glen South - Lincoln Glen, San Jose		-121.886712		37.277475
+699		Begonia Lane, South San Jose, San Jose		-121.854360		37.277845
+700		3700 McLaughlin Avenue, South San Jose, San Jose		-121.816406		37.293425
+701		3200 Alessandro Drive, Evergreen, San Jose		-121.781745		37.312322
+702		1800 Loyola Drive, East San Jose, San Jose		-121.833889		37.336091
+703		1800 Platinum Court, East San Jose, San Jose		-121.853975		37.358360
+704		2800 Becerra Way, Del Paso Manor, Sacramento		-121.375233		38.615368
+705		3600 Rio Loma Way, North Sacramento, Sacramento		-121.492711		38.631831
+706		1700 Tourney Way, North Sacramento, Sacramento		-121.502656		38.620147
+707		2400 Waters Edge Way, North Sacramento, Sacramento		-121.533143		38.608506
+708		400 Rafael Drive, Rancho Elverta, Elverta		-121.443319		38.717565
+709		3100 Q Street, North Highlands		-121.380305		38.697487
+710		5300 Hillsdale Boulevard, Sacramento		-121.368699		38.664108
+711		3200 Groveland Way, Antelope Vista, Antelope		-121.386345		38.722174
+712		6200 Pattypeart Way, Jamestree, Carmichael		-121.308409		38.631084
+713		4400 Marble Way, Barrett Hills, Carmichael		-121.321431		38.642035
+714		7500 Blackthorne Way, Antelope Meadows, Citrus Heights		-121.321468		38.703261
+715		500 Massar Avenue, East San Jose, San Jose		-121.834226		37.355121
+716		1500 Sierra Road, North San Jose, San Jose		-121.887838		37.378342
+717		2400 Greengate Drive, North San Jose, San Jose		-121.866192		37.393479
+718		2900 Capewood Lane, North San Jose, San Jose		-121.880690		37.409776
+719		1300 Cirolero Street, Milpitas		-121.902587		37.451399
+720		3400 Granada Avenue, Santa Clara		-121.987343		37.348241
+721		600 Hobart Terrace, Santa Clara		-121.984387		37.334056
+722		800 Hibiscus Lane, West San Jose, San Jose		-121.972113		37.312790
+723		0 South Milton Avenue, Downtown, Campbell		-121.955850		37.284442
+724		200 Kensington Way, Cambrian, Los Gatos		-121.934720		37.240194
+725		20000 Glasgow Drive, Saratoga		-122.022160		37.274638
+726		7600 Heatherington Way, Citrus Heights		-121.282045		38.684582
+727		800 Bluestone Circle, Folsom		-121.146322		38.662906
+728		300 Tobrurry Way, Folsom		-121.107270		38.653235
+729		8900 Cal Center Drive, Sacramento		-121.370412		38.557835
+730		Laguna Creek Trail, Elk Grove		-121.364456		38.417929
+731		9000 Pebble Field Way, Sacramento		-121.360391		38.459751
+732		8200 Short Road, Sacramento		-121.392673		38.459601
+733		9300 Healon Way, Elk Grove		-121.344958		38.402364
+734		9600 Sheldon Road, Elk Grove		-121.340215		38.437432
+735		0 Raindrop Court, Southwestern Sacramento, Sacramento		-121.433094		38.444473
+736		300 3rd Street, Represa, Folsom		-121.155271		38.694915
+737		1100 Jacqueline Drive, Hollister		-121.421189		36.847938
+738		1500 Riorden Terrace, Sunnyvale West, Sunnyvale		-122.036752		37.343831
+739		1700 Halford Avenue, Santa Clara		-121.999634		37.354856
+740		200 Leota Avenue, Sunnyvale West, Sunnyvale		-122.050880		37.378711
+741		1600 San Luis Avenue, Rex Manor, Mountain View		-122.083401		37.405530
+742		4200 Wilkie Way, Charleston Meadow, Palo Alto		-122.127707		37.416767
+743		400 Addison Avenue, Professorville, Palo Alto		-122.155827		37.443328
+744		Monte Bello Road (Trail), Cupertino		-122.113328		37.303928
+745		6600 Elwood Road, South San Jose, San Jose		-121.856379		37.213372
+746		4800 Poston Drive, Edenvale, San Jose		-121.825241		37.264039
+747		8500 Culp Drive, Gilroy		-121.591277		37.025199
+748		900 King Street, Santa Cruz		-122.040945		36.969952
+749		1400 Magazine Street, Vallejo		-122.224342		38.082731
+750		500 Sereno Drive, Vallejo		-122.258549		38.127716
+751		600 Windsor Drive, Benicia		-122.181088		38.079906
+752		5900 Leisure Town Road, Vacaville		-121.923984		38.345501
+753		300 Brookdale Drive, Vacaville		-121.966136		38.342005
+754		100 Feather River Circle, Vacaville		-121.975131		38.395381
+755		800 Knight Street, Sonoma		-122.452798		38.286891
+756		900 Wood Lane, Petaluma		-122.614852		38.238523
+757		600 Hoen Avenue, Memorial Hospital Neighborhood, Santa Rosa		-122.691277		38.443721
+758		800 Carr Avenue, Junior College Neighborhood Association, Santa Rosa		-122.712486		38.458170
+759		2800 Fowler Road, Ceres		-120.943042		37.603157
+760		4300 Prairie Creek Way, Modesto		-120.911557		37.665585
+761		3700 Oxford Street, Napa		-122.320559		38.322845
+762		200 Sheffield Way, American Canyon		-122.262588		38.160271
+763		7700 Cotton Creek Road, Hornitos		-120.094012		37.545888
+764		1300 Tuliptree Road, Santa Rosa		-122.748103		38.479854
+765		2200 Truckee Drive, Santa Rosa		-122.758131		38.440775
+766		Unnamed Road, Mariposa		-120.093264		37.429579
+767		400 Jane Drive, Windsor		-122.811624		38.554867
+768		8000 A Street, Windsor		-122.808826		38.545571
+769		Fort Bragg-Sherwood Road, Fort Bragg		-123.621307		39.454844
+770		11600 Orr Springs Road, Ukiah		-123.370069		39.251336
+771		Unnamed Road, Ukiah		-123.289135		39.112045
+772		1800 Duncan Springs Road, Hopland		-123.185935		38.976266
+773		6500 Cobble Drive, Winton		-120.618706		37.394672
+774		2200 North Buhach Road, Atwater		-120.578966		37.355603
+775		3300 Vernal Avenue, Merced		-120.459592		37.325102
+776		1000 Benito Avenue, Pacific Grove		-121.928150		36.603920
+777		22100 Puccioni Road, Healdsburg		-122.973336		38.614053
+778		300 Birdwell Street, Oakdale		-120.863981		37.752938
+779		2900 Creek Bend Court, Riverbank		-120.944385		37.723189
+780		1800 Pirates Cove, Modesto		-120.968621		37.684907
+781		26700 Taglio Road, Gustine		-120.901599		37.220248
+782		13100 South Ortigalita Road, Los Banos		-120.867719		37.049468
+783		400 Pueblo Drive, Salinas		-121.660448		36.703650
+784		200 Dennis Avenue, Salinas		-121.615994		36.675079
+785		48400 Reliz Canyon Road, Greenfield		-121.332329		36.178100
+786		Huckleberry Hill Loop, Monterey		-121.908038		36.604723
+787		1200 Vallejo Street, Seaside		-121.831540		36.604621
+788		0 Mortensen Avenue, Salinas		-121.603492		36.662226
+789		300 Porter Street, Woodland		-121.790913		38.681935
+790		Unnamed Road, King City		-120.961968		36.258075
+791		800 Laguna Street, Napa		-122.291928		38.317021
+792		41300 Palo Colorado Road, Big Sur		-121.692494		36.268766
+793		4700 Ingram Creek Road, Patterson		-121.265010		37.460317
+794		700 5th Street, Turlock		-120.841968		37.484839
+795		1100 Live Oak Boulevard, Yuba City		-121.625210		39.146697
+796		1200 Gerald Court, Yuba City		-121.626118		39.106349
+797		Forest Route 25N01, Red Bluff		-122.705408		40.205621
+798		4000 Redwood Road, Napa		-122.374969		38.291959
+799		16200 Cooper Road, Nevada City		-120.943966		39.303666
+800		Old Suisun Knoxville Road, Napa		-122.225039		38.437260
+801		2900 Pope Canyon Road, Saint Helena		-122.265993		38.626931
+802		21200 Ramkem Court, Smartsville		-121.188863		39.213342
+803		9900 Leyenda Way, La Grange		-120.420826		37.814457
+804		900 Westacre Road, West Sacramento		-121.532870		38.576369
+805		1400 San Rafael Street, Estudillo Estates - Glen, San Leandro		-122.142775		37.727338
+806		Jeep Trail Usgs, Brooks		-122.179757		38.760883
+807		5700 Wildwood Drive, Marysville		-121.549738		39.123697
+808		3000 Adeline Street, Clawson, Oakland		-122.280261		37.823622
+809		200 Santa Rosa Avenue, Grand Lake, Oakland		-122.248904		37.817374
+810		2700 Pleasant Street, School, Oakland		-122.215554		37.796008
+811		1000 66th Avenue, Coliseum, Oakland		-122.196363		37.758250
+812		2000 Francisco Street, North Berkeley, Berkeley		-122.269504		37.875328
+813		2500 Parker Street, Elmwood, Berkeley		-122.260054		37.863650
+814		1400 168th Avenue, San Leandro		-122.111531		37.692886
+815		2600 Oliver Drive, Glen Eden, Hayward		-122.102093		37.629540
+816		2600 El Charro Road, Pleasanton		-121.854746		37.684674
+817		400 Oxford Way, Belmont		-122.273064		37.526428
+818		700 Bay Road, Staumbaugh Heller, Redwood City		-122.213722		37.483866
+819		Bay Trail, Menlo Park		-122.111412		37.467585
+820		1500 Marcia Avenue, Central San Jose, San Jose		-121.889911		37.284316
+821		14200 Candler Avenue, Alum Rock, San Jose		-121.811033		37.354922
+822		200 Rodrigues Avenue, Milpitas		-121.881148		37.432092
+823		600 San Miguel Avenue, Santa Clara		-121.961754		37.338055
+824		900 West Parr Avenue, San Tomas, Campbell		-121.970212		37.264032
+825		2500 White Avenue, Chico		-121.849611		39.764243
+826		1700 Edgewood Drive, Oakley		-121.729283		37.998429
+827		700 Payne Avenue, Brentwood		-121.710345		37.907818
+828		4200 Amargosa Drive, Antioch		-121.768123		37.987489
+829		7800 Lilac Court, Cupertino		-122.038320		37.311431
+830		2200 California Street, Mountain View		-122.106445		37.401996
+831		1200 Chateau Drive, South San Jose, San Jose		-121.868997		37.211839
+832		5000 Massachusetts Drive, South San Jose, San Jose		-121.852394		37.261745
+833		200 El Cajon Avenue, Covell Park, Davis		-121.751544		38.564851
+834		7700 Lakeville Highway, Petaluma		-122.545345		38.218785
+835		800 Pendegast Street, Woodland		-121.769489		38.670386
+836		19000 Fort Ross Road, Jenner		-123.336386		38.618951
+837		800 Roselawn Avenue, Modesto		-121.003717		37.621575
+838		2300 Arabian Way, Turlock		-120.879516		37.520957
+839		Forest Route 1N01, Groveland		-120.106226		37.942666
+840		2100 West F Street, Napa		-122.313162		38.305491
+841		200 Andrew Road, American Canyon		-122.262165		38.172908
+842		Carriage Path, Central Sacramento, Sacramento		-121.475980		38.568252
+843		2400 Channing Way, Southside, Berkeley		-122.260483		37.866682
+844		Pitts Parkway, Point Arena		-123.499705		38.943951
+845		1400 Conestoga Drive, Loughborough, Merced		-120.495958		37.319182
+846		300 Homestead Avenue, Salinas		-121.664350		36.670510
+847		17400 Cachagua Road, Carmel Valley		-121.656896		36.398305
+848		100 Pearl Street, King City		-121.124864		36.212852
+849		0 Franklin Street, Napa		-122.289607		38.286831
+850		1300 Greenborough Drive, Cirby Ranch, Roseville		-121.274501		38.723297
+851		2200 22nd Avenue, Southeastern Sacramento, Sacramento		-121.490136		38.532813
+852		3500 52nd Avenue, Sacramento		-121.463412		38.503789
+853		2300 Cottage Way, Frontier Cottages, Sacramento		-121.408739		38.603039
+854		4200 Dry Creek Road, North Sacramento, Sacramento		-121.440700		38.642926
+855		4900 Walnut Avenue, Sacramento		-121.347604		38.657620
+856		5100 Romero Way, Greenridge Heights, Fair Oaks		-121.283625		38.658163
+857		Smith Lake Road, Graeagle		-120.691066		39.799785
+858		600 Geneva Avenue, Outer Mission, San Francisco		-122.442827		37.719487
+859		2200 24th Avenue, Sunset District, San Francisco		-122.480543		37.746890
+860		2300 Cabrillo Street, Richmond District, San Francisco		-122.483982		37.774660
+861		2400 Plumas Lake Street, Seaport, Stockton		-121.309900		37.923939
+862		300 West 6th Street, Tracy		-121.432066		37.733454
+863		2400 Filbert Street, McClymonds, Oakland		-122.281544		37.816489
+864		22400 Victory Drive, Longwood - Winton Grove, Hayward		-122.110475		37.661479
+865		2000 Pine Knoll Drive, Rossmoor, Walnut Creek		-122.079384		37.873238
+866		0 Bernard Street, Nob Hill, San Francisco		-122.414835		37.796279
+867		2200 Post Street, Western Addition, San Francisco		-122.435085		37.785085
+868		500 Diamond Street, Noe Valley, San Francisco		-122.438268		37.753339
+869		0 Holiday Lane, Concord		-121.957915		37.960723
+870		1800 Marshall Petaluma Road, Petaluma		-122.743326		38.142737
+871		2700 McCloud Way, Blue Oaks, Roseville		-121.335819		38.800339
+872		Unnamed Road, Placer County, California, United States		-120.781724		39.193759
+873		10300 Alderpoint Road, Garberville		-123.797493		40.268839
+874		8200 Burgundy Drive, Valley Oak, Stockton		-121.287898		38.025098
+875		2200 Waverly Avenue, Alum Rock, San Jose		-121.823598		37.331983
+876		4300 Sayoko Circle, South San Jose, San Jose		-121.835905		37.272141
+877		1600 Dewey Street, Vallejo		-122.270074		38.121989
+878		200 West Benjamin Holt Drive, Lakeview, Stockton		-121.315493		38.013073
+879		300 Mission Ridge Drive, Manteca		-121.225056		37.790420
+880		3300 6th Avenue, Southeastern Sacramento, Sacramento		-121.471315		38.548877
+881		3600 South Court, Fairmeadow, Palo Alto		-122.118828		37.420168
+882		Unnamed Road, Downieville		-120.754556		39.562958
+883		Skyline Court, Vallejo		-122.221998		38.118236
+884		1100 Olympia Avenue, Seaside		-121.840756		36.611216
+885		6300 Colby Street, Upper Telegraph, Oakland		-122.257797		37.847519
+886		4400 Telegraph Avenue, Temescal, Oakland		-122.263901		37.830677
+887		1300 Santa Fe Avenue, Northwest Berkeley, Berkeley		-122.289664		37.881290
+888		300 Annette Lane, Santa Clara, Hayward		-122.102309		37.663257
+889		4300 Fairwood Street, Grimmer, Fremont		-121.961771		37.517075
+890		300 Rio Lindo Avenue, Chico		-121.865252		39.764491
+891		1900 Railroad Avenue, Pittsburg		-121.895200		38.021427
+892		2700 Ascot Drive, San Ramon		-121.950806		37.755062
+893		1600 Miner Avenue, San Pablo		-122.346700		37.975055
+894		700 Powell Creek Road, Redway		-123.965619		40.199065
+895		4100 Paige Court, Rocklin		-121.237659		38.782450
+896		Unnamed Road, Salinas		-121.576016		36.678518
+897		0 La Mesa Way, La Mesa Military Housing Complex, Monterey		-121.877257		36.582573
+898		3200 38th Avenue, Southeastern Sacramento, Sacramento		-121.470673		38.519677
+899		7800 Tierra Glen Way, Southeastern Sacramento, Sacramento		-121.420148		38.501147
+900		2200 University Avenue, Central Sacramento, Sacramento		-121.393828		38.571653
+901		5700 Sorento Road, North Natomas, Sacramento		-121.491991		38.664835
+902		2600 Bravado Drive, Sunnyvale, Rancho Cordova		-121.317671		38.587965
+903		8800 White Peacock Court, Elk Grove		-121.387520		38.431661
+904		400 North Fernwood Circle, Snail, Sunnyvale		-122.022217		37.391152
+905		1000 Pine Street, Lower Nob Hill, San Francisco		-122.414176		37.790575
+906		2700 Octavia Street, Cow Hollow, San Francisco		-122.431825		37.797351
+907		2500 Turk Street, Richmond District, San Francisco		-122.447480		37.778544
+908		1200 18th Street, Potrero Hill, San Francisco		-122.395632		37.762710
+909		1400 40th Avenue, Sunset District, San Francisco		-122.499488		37.757067
+910		700 La Playa Street, Richmond District, San Francisco		-122.507207		37.777043
+911		500 East Weber Avenue, Civic Center, Stockton		-121.285058		37.953484
+912		4400 Amador Place, Pacific, Stockton		-121.309068		37.990738
+913		1100 West Century Boulevard, Lodi		-121.285168		38.108140
+914		1300 Wimbledon Court, Manteca		-121.238958		37.819644
+915		300 Dolores Way, Sunshine Gardens, South San Francisco		-122.434938		37.666381
+916		1200 Willowhaven Drive, Central San Jose, San Jose		-121.921865		37.303243
+917		2100 Canoas Garden Avenue, South San Jose, San Jose		-121.878364		37.298621
+918		3100 Capewood Lane, North San Jose, San Jose		-121.863531		37.417293
+919		2900 Cabrillo Avenue, Santa Clara		-121.982305		37.360626
+920		100 Whisman Station Drive, Mountain View		-122.060040		37.390950
+921		5900 Pala Mesa Drive, Edenvale, San Jose		-121.813026		37.240332
+922		800 Crinella Drive, Petaluma		-122.608841		38.244514
+923		1300 North Carpenter Road, Modesto		-121.033325		37.656769
+924		600 Perfidia Street, Modesto		-120.980958		37.620572
+925		1300 Via Colonna Terrace, Cottages North, Davis		-121.704334		38.558566
+926		Uptown Alley, Central Sacramento, Sacramento		-121.492668		38.565141
+927		800 Aspen Way, Palo Verde, Palo Alto		-122.109207		37.426213
+928		9200 Road 95, Woodland		-121.805730		38.794743
+929		3100 Ruskin Drive, North San Jose, San Jose		-121.855269		37.402777
+930		400 Northlake Drive, West San Jose, San Jose		-121.964162		37.319741
+931		10300 North Stelling Road, Cupertino		-122.044575		37.329747
+932		1300 Hartley Way, Broadstone, Folsom		-121.131897		38.652111
+933		7900 Pedrick Street, Southwestern Sacramento, Sacramento		-121.441091		38.469113
+934		16400 Indiana Ranch Road, Dobbins		-121.196988		39.415867
+935		1600 Maddux Drive, Woodside Plaza, Redwood City		-122.234074		37.456430
+936		1500 Wawona Drive, Willow Glen South - Lincoln Glen, San Jose		-121.906279		37.277824
+937		600 Cornell Avenue, Albany		-122.297361		37.894427
+938		19900 Kings Creek Road, Boulder Creek		-122.074711		37.161136
+939		2900 Central Avenue, Alameda		-122.233428		37.759271
+940		25200 Belhaven Street, Southgate, Hayward		-122.102380		37.647451
+941		900 Powell Avenue, Healdsburg		-122.856683		38.620392
+942		48500 Timperridge Trail, Covelo		-123.214240		39.704363
+943		30800 Middle Ridge Road, Albion		-123.656124		39.152923
+944		5200 Green Sands Avenue, Atwater		-120.588045		37.342259
+945		400 Santa Alicia Drive, Rohnert Park		-122.707324		38.341911
+946		1900 Yolo Court, Santa Rosa		-122.669493		38.435182
+947		Doud Road, Soledad		-121.234819		36.339506
+948		White Court, Marina		-121.762932		36.659382
+949		700 Santa Ray Avenue, Lakeshore, Oakland		-122.232725		37.812100
+950		Old Sled Trail, Bolinas		-122.592370		37.923601
+951		900 Towse Drive, Woodland		-121.751385		38.669401
+952		2500 Crowell Road, Turlock		-120.860491		37.515892
+953		3600 Citrus Avenue, Walnut Creek		-122.005032		37.943106
+954		2900 Willow Road, San Pablo		-122.338247		37.956703
+955		100 Powers Drive, El Dorado Hills		-121.083791		38.675396
+956		10000 Tanabe Road, Marysville		-121.444589		39.270663
+957		33200 Central Avenue, Union City		-122.041778		37.601776
+958		4900 Hildasue Terrace, Ardenwood, Fremont		-122.047134		37.565213
+959		7300 Shadow Place, Dublin		-121.944087		37.708649
+960		19200 American Flat Road, Fiddletown		-120.706980		38.486264
+961		5200 West Murray Creek Road, San Andreas		-120.556312		38.249649
+962		Reclamation Road, Meridian		-121.790009		38.969018
+963		600 Sutter Street, Lower Nob Hill, San Francisco		-122.412805		37.788690
+964		2900 Broderick Street, Cow Hollow, San Francisco		-122.441851		37.797715
+965		200 Topeka Avenue, Silver Terrace, San Francisco		-122.396136		37.732472
+966		200 Donner Avenue, Folsom Road, Roseville		-121.277013		38.746168
+967		1400 32nd Avenue, Sunset District, San Francisco		-122.491739		37.760442
+968		3200 Anza Street, Richmond District, San Francisco		-122.484197		37.778626
+969		600 South Ash Street, Park, Stockton		-121.260217		37.952404
+970		6400 Hemet Avenue, Lakeview, Stockton		-121.309280		38.015357
+971		6600 Mount Bachelor Court, Valley Oak, Stockton		-121.288692		38.015144
+972		Golden State Highway, Lodi		-121.252392		38.129720
+973		1400 Coolidge Avenue, Tracy		-121.444804		37.744073
+974		300 Mullet Court, Foster City		-122.251855		37.558157
+975		800 Kingfisher Drive, South San Jose, San Jose		-121.873559		37.285846
+976		2500 San Leandro Boulevard, Old San Leandro, San Leandro		-122.146324		37.715488
+977		2200 Terrena Valley Drive, East San Jose, San Jose		-121.788648		37.302351
+978		7600 Wilbur Way, Sacramento		-121.398418		38.477018
+979		4600 Birmingham Way, Pacific, Stockton		-121.296648		37.998173
+980		6600 Spruce Lane, Dublin		-121.918829		37.711539
+981		4900 Bernal Avenue, Pleasanton		-121.882643		37.657058
+982		4200 Cabernet Court, Pleasanton		-121.866269		37.659797
+983		4100 Fairlands Drive, Pleasanton		-121.865116		37.697543
+984		0 East Vineyard Avenue, Livermore		-121.789234		37.649751
+985		300 West Jack London Boulevard, Livermore		-121.814503		37.689360
+986		200 Quartz Circle, Livermore		-121.800301		37.666355
+987		9500 Mowry Avenue, Newark		-122.046989		37.460877
+988		17800 Kelly Ranch Court, Pioneer		-120.568449		38.465547
+989		39400 South Monterey Avenue, Coalinga		-120.366096		36.152535
+990		17000 Irish Hill Road, Ione		-120.921702		38.482913
+991		4600 Coal Mine Road, Ione		-120.880477		38.288668
+992		1100 Diablo Avenue, Chico		-121.836943		39.767592
+993		700 Lawn Drive, Chico		-121.860806		39.777958
+994		South Amador Avenue, Fresno County, California, United States		-120.162291		36.542190
+995		38100 West Nees Avenue, Firebaugh		-120.475880		36.874901
+996		7100 California 32, Orland		-122.198107		39.752708
+997		Catherine Court, Chico		-121.895243		39.766985
+998		900 Sequoyah Avenue, Chico		-121.864983		39.745102
+999		300 West 2nd Avenue, Chico		-121.850671		39.737532
+1000		800 Greenwich Drive, Chico		-121.856819		39.734941
+1001		2400 Potter Road, Chico		-121.767429		39.716895
+1002		200 Pinyon Hills Drive, Chico		-121.799284		39.750261
+1003		400 West 4th Street, Chico		-121.833708		39.728579
+1004		Esquon Road, Durham		-121.882136		39.601036
+1005		14100 Elmira Circle, Magalia		-121.599835		39.826179
+1006		Paradise Memorial Trailway, Paradise		-121.612189		39.786375
+1007		2400 Cherokee Road, Oroville		-121.525894		39.586170
+1008		100 Valley View Drive, Oroville		-121.523962		39.519239
+1009		400 Cottonwood Road, Oroville		-121.617050		39.508610
+1010		5300 Ebbetts Pass Highway, Murphys		-120.392604		38.193557
+1011		6500 Sellers Avenue, Oakley		-121.670682		37.994105
+1012		5900 Marina Road, Discovery Bay		-121.583911		37.908203
+1013		1300 August Way, Antioch		-121.800302		38.006476
+1014		Delta de Anza Regional Trail, Antioch		-121.836151		37.990005
+1015		800 East 3rd Street, Pittsburg		-121.870969		38.038532
+1016		2200 East Leland Road, Pittsburg		-121.926998		38.011157
+1017		Suisun Avenue, Bay Point		-121.947168		38.036385
+1018		LDU Drive, Martinez		-122.127518		38.017024
+1019		2800 Waterfront Road, Martinez		-122.104205		38.021893
+1020		300 Lindsey Drive, Martinez		-122.112397		37.971287
+1021		3100 Teigland Road, Lafayette		-122.089892		37.934306
+1022		4400 Prairie Willow Court, Concord		-121.986877		37.952385
+1023		1300 Cross Way, Monument Corridor, Concord		-122.034281		37.967476
+1024		1500 Orange Street, Concord		-122.043763		37.948438
+1025		Briones to Mount Diablo Regional Trail, Walnut Creek		-122.087436		37.912420
+1026		2000 San Miguel Drive, Walnut Creek		-122.044761		37.894092
+1027		200 Tangerine Court, San Ramon		-121.927241		37.740271
+1028		100 Sugar Creek Lane, Alamo		-121.972263		37.862343
+1029		200 La Questa Drive, Danville		-121.986480		37.821610
+1030		5300 Lawton Avenue, Shafter, Oakland		-122.255616		37.840975
+1031		1100 Cambridge Drive, Lafayette		-122.132476		37.905346
+1032		Shore Trail, Lafayette		-122.137988		37.877688
+1033		6500 Horsemans Canyon Drive, Rossmoor, Walnut Creek		-122.068780		37.856422
+1034		0 Tracy Court, Moraga		-122.106214		37.823986
+1035		100 Pinehurst Road, Canyon		-122.157375		37.828287
+1036		Wilder Road, Wilder, Orinda		-122.180384		37.856833
+1037		1900 Eagle Peak Avenue, Clayton		-121.930391		37.951676
+1038		Kestrel Loop Trail, Rodeo		-122.229724		38.021022
+1039		Stewartville Trail, Antioch		-121.843017		37.937526
+1040		1100 Empire Mine Road, Antioch		-121.802074		37.945181
+1041		600 Alumrock Drive, Antioch		-121.794667		37.976900
+1042		500 Bourne Lane, Danville		-121.904863		37.805308
+1043		Tassajara Ridge Trail, San Ramon		-121.883732		37.770348
+1044		Rosa Blanca Drive, Pittsburg		-121.975354		37.995667
+1045		100 Pearl Street, Oakland Ave - Harrison St, Oakland		-122.257690		37.815330
+1046		300 Grand Avenue, Adams Point, Oakland		-122.251939		37.809642
+1047		1700 Eastshore Boulevard, El Cerrito		-122.316539		37.923124
+1048		Upper Fire Trail, Berkeley		-122.230438		37.863975
+1049		6100 Harwood Avenue, Rockridge, Oakland		-122.250494		37.847532
+1050		3700 Towns Court, Pinole		-122.252644		37.983685
+1051		2600 Humphrey Avenue, North & East, Richmond		-122.339108		37.948600
+1052		200 Collins Street, Atchison Woods, Richmond		-122.359561		37.933442
+1053		500 Haddon Road, Cleveland Heights, Oakland		-122.243464		37.804661
+1054		0 Avon Road, Kensington		-122.284887		37.907162
+1055		6300 Konocti Road, Kelseyville		-122.749166		38.957213
+1056		100 Lakeside Drive, Downtown Oakland, Oakland		-122.258530		37.804889
+1057		6300 Brookside Avenue, Upper Rockridge, Oakland		-122.238747		37.845100
+1058		6700 Armour Drive, Montclair, Oakland		-122.200983		37.834537
+1059		900 East 22nd Street, Clinton, Oakland		-122.243411		37.799084
+1060		3600 East 8th Street, South Kennedy Tract, Oakland		-122.229370		37.775014
+1061		200 Linus Pauling Drive, Hercules		-122.273716		38.024497
+1062		3300 Davis Street, Peralta Hacienda, Oakland		-122.216750		37.787912
+1063		800 54th Avenue, Coliseum Industrial, Oakland		-122.212099		37.762302
+1064		2200 48th Avenue, Fremont, Oakland		-122.203843		37.776951
+1065		3400 Noyo Street, Woodminster, Oakland		-122.184323		37.804283
+1066		7200 Doolittle Drive, Oakland		-122.207183		37.730122
+1067		10200 E Street, North Stonehurst, Oakland		-122.172184		37.737724
+1068		1600 Poplar Street, West Oakland, Oakland		-122.289666		37.809377
+1069		700 Hillside Avenue, Albany		-122.309354		37.893062
+1070		1000 Cornell Avenue, Albany		-122.295301		37.887356
+1071		2000 Rose Street, North Berkeley, Berkeley		-122.270620		37.882174
+1072		1700 Chestnut Street, Northwest Berkeley, Berkeley		-122.287438		37.872944
+1073		100 Panoramic Way, Berkeley		-122.249979		37.868116
+1074		2300 Ninth Street, Southwest Berkeley, Berkeley		-122.293544		37.864543
+1075		0 Francisco Drive, El Dorado Hills		-121.073601		38.741989
+1076		1500 Kanaka Valley Road, Rescue		-121.007198		38.736067
+1077		2000 Hideaway Trail, Placerville		-120.900294		38.722815
+1078		2500 Gold Bug Lane, Placerville		-120.763729		38.757144
+1079		0 The Plaza Drive, Claremont, Berkeley		-122.245484		37.855399
+1080		Pier 2, Emeryville		-122.300300		37.839146
+1081		1300 Powell Street, Emeryville		-122.289697		37.843641
+1082		2000 Clement Avenue, Alameda		-122.248535		37.775758
+1083		3000 Calhoun Street, Alameda		-122.239253		37.754829
+1084		500 Tarryton Isle, West Alameda, Alameda		-122.272961		37.766989
+1085		22200 Eden Canyon Road, Castro Valley		-122.028339		37.721228
+1086		20900 Wilbeam Avenue, Castro Valley		-122.078180		37.693263
+1087		900 Dowling Boulevard, Broadmoor, San Leandro		-122.146834		37.736858
+1088		300 Dowling Boulevard, Broadmoor District, San Leandro		-122.156899		37.732926
+1089		1700 Wayne Avenue, Davis Tract, San Leandro		-122.168261		37.718622
+1090		200 Reva Avenue, Davis Tract, San Leandro		-122.174168		37.723775
+1091		3600 Pleasant Valley Road, Placerville		-120.705251		38.686770
+1092		5700 High Lonesome Trail, Placerville		-120.777462		38.654689
+1093		2500 Marineview Drive, Bay-O-Vista, San Leandro		-122.123880		37.721179
+1094		14900 Western Avenue, Lower Bal, San Leandro		-122.133139		37.703564
+1095		1100 143rd Avenue, Lower Bal, San Leandro		-122.138318		37.708508
+1096		15200 Wiley Street, Washington Manor - Bonaire, San Leandro		-122.155684		37.684283
+1097		15500 Tracy Street, San Lorenzo		-122.113168		37.687782
+1098		600 Elgin Street, San Lorenzo		-122.124786		37.698825
+1099		30600 Palomares Road, Castro Valley		-121.975228		37.644558
+1100		0 Via Diego, San Lorenzo		-122.112663		37.676155
+1101		15800 Corte Mariana, San Lorenzo		-122.147369		37.672116
+1102		22500 Lindberg Court, Mission - Foothill, Hayward		-122.068345		37.659511
+1103		27100 Patrick Avenue, Harder - Tennyson, Hayward		-122.080910		37.635958
+1104		31800 Veril Way, Fairway Prk, Hayward		-122.029492		37.621054
+1105		Unnamed Road, Castro Valley		-121.986908		37.620905
+1106		30100 Ahern Avenue, Union City		-122.074029		37.605845
+1107		36000 Cherry Street, Newark		-122.045054		37.543096
+1108		Lincoln Avenue, Kerman		-120.216301		36.767054
+1109		12100 Avenue 22, Chowchilla		-120.248056		37.104822
+1110		1000 Robertson Boulevard, Chowchilla		-120.265235		37.112571
+1111		John Slough, Novato		-122.542158		38.135948
+1112		700 Shoreside Drive, Southwestern Sacramento, Sacramento		-121.534177		38.507514
+1113		3500 Hicks Valley Road, Novato		-122.644921		38.116290
+1114		0 Bahama Reef, Novato		-122.494047		38.048684
+1115		Saint Vincents Drive, San Rafael		-122.520915		38.027715
+1116		100 Redwood Drive, Woodacre		-122.672239		38.015533
+1117		700 Redwood Road, San Anselmo		-122.565427		37.974719
+1118		0 South Ridgewood Road, Kentfield		-122.550003		37.947869
+1119		0 Locust Avenue, Larkspur		-122.535770		37.936469
+1120		0 Spindrift Passage, Corte Madera		-122.501640		37.930359
+1121		300 Ridgewood Avenue, Mill Valley		-122.548264		37.894761
+1122		4700 Shoreline Highway, Bolinas		-122.665831		37.925030
+1123		0 Glynis Falls Court, Southwestern Sacramento, Sacramento		-121.544128		38.490712
+1124		0 Princeville Circle, Pocket, Sacramento		-121.534089		38.490444
+1125		7300 L Arbre Way, Southwestern Sacramento, Sacramento		-121.522992		38.487052
+1126		1600 68th Avenue, Southwestern Sacramento, Sacramento		-121.498236		38.488709
+1127		2200 Matson Drive, Meadowview, Sacramento		-121.486532		38.488596
+1128		7800 Amherst Street, Meadowview, Sacramento		-121.492301		38.475803
+1129		5900 Dewey Boulevard, Sacramento		-121.446836		38.518853
+1130		3900 Shining Star Drive, Southwestern Sacramento, Sacramento		-121.461197		38.487994
+1131		300 Sun Shower Circle, Southwestern Sacramento, Sacramento		-121.460340		38.478320
+1132		8600 Folsom Boulevard, Southeastern Sacramento, Sacramento		-121.390531		38.550541
+1133		100 Bercut Drive, Central Sacramento, Sacramento		-121.477497		38.589455
+1134		200 Bittenbender Lane, Willits		-123.369606		39.418276
+1135		3200 Vichy Springs Road, Ukiah		-123.142530		39.130554
+1136		13800 Lombardy Avenue, Turlock		-120.690325		37.437269
+1137		11000 Olive Avenue, Livingston		-120.702785		37.408135
+1138		700 Mont Cliff Way, Livingston		-120.728609		37.386292
+1139		8800 Almond Avenue, Winton		-120.638133		37.364646
+1140		1000 Carolina Drive, Merced		-120.450650		37.312317
+1141		900 Martin Luther King Junior Way, Merced		-120.475281		37.291455
+1142		2500 East Childs Avenue, Merced		-120.448849		37.288203
+1143		14200 Le Grand Road, Le Grand		-120.182687		37.206078
+1144		500 Sunrise Street, Salinas		-121.610772		36.684691
+1145		4500 B Street, Central Sacramento, Sacramento		-121.441813		38.573668
+1146		1100 10th Street, Central Sacramento, Sacramento		-121.490626		38.576281
+1147		5400 M Street, Central Sacramento, Sacramento		-121.439458		38.563248
+1148		3800 1st Avenue, Southeastern Sacramento, Sacramento		-121.464048		38.553718
+1149		2400 Castro Way, Southeastern Sacramento, Sacramento		-121.482891		38.553594
+1150		5200 Riverside Boulevard, Southwestern Sacramento, Sacramento		-121.517691		38.531427
+1151		3200 Merced Falls Road, Snelling		-120.495197		37.443792
+1152		700 West Acacia Street, Salinas		-121.677940		36.669909
+1153		100 Sherwood Drive, Salinas		-121.656932		36.687811
+1154		16300 Castello Knolls Drive, Prunedale		-121.744661		36.744978
+1155		10600 Seymour Street, Castroville		-121.756074		36.766012
+1156		13000 Luber Street, Salinas		-121.651598		36.728706
+1157		18400 Northridge Drive, Salinas		-121.654556		36.725982
+1158		1200 Paseo Grande, Salinas		-121.601121		36.689669
+1159		1200 Nogal Drive, Salinas		-121.615346		36.692633
+1160		800 East Laurel Drive, Salinas		-121.621918		36.693848
+1161		23700 Parker Road, Salinas		-121.633452		36.550220
+1162		27700 River Road, Salinas		-121.507150		36.491961
+1163		100 11th Street, Greenfield		-121.245195		36.318246
+1164		400 Riverview Drive, Auburn		-121.062619		38.885518
+1165		4700 Knightswood Way, Johnson Ranch, Granite Bay		-121.206338		38.723391
+1166		600 Cinnabar Court, Diamond Oaks, Roseville		-121.279595		38.764457
+1167		1600 Corbridge Drive, Woodcreek Oaks, Roseville		-121.342277		38.762814
+1168		2500 Country Club Drive, Woodcreek Oaks, Roseville		-121.322269		38.758604
+1169		32300 Stonewall Canyon Road, Soledad		-121.287035		36.472081
+1170		0 Junipero Street, Northwest Carmel, Carmel-by-the-Sea		-121.922739		36.559240
+1171		3100 Forest Lake Road, Pebble Beach, Del Monte Forest		-121.945042		36.588391
+1172		100 Dewey Street, Pacific Grove		-121.912558		36.622444
+1173		500 Hawthorne Street, Monterey		-121.904597		36.610974
+1174		Indian Street, Marina		-121.785112		36.670780
+1175		Pleasant Grove Creek Trail (South Branch), Quail Glen, Roseville		-121.336934		38.784226
+1176		1000 South Bluff Drive, Kaseberg - Kingswood, Roseville		-121.305980		38.765745
+1177		5700 Foothill Road, Rocklin		-121.219328		38.778683
+1178		3900 Clover Valley Road, Rocklin		-121.235692		38.833568
+1179		6300 Rainier Avenue, Rocklin		-121.254651		38.778824
+1180		Cemetery Road, Yountville		-122.369260		38.393716
+1181		4100 Network Circle, Santa Clara		-121.951006		37.397274
+1182		1300 Dayton Street, Salinas		-121.637233		36.654199
+1183		700 Seymour Street, Napa		-122.298448		38.293519
+1184		2000 Seville Court, Napa		-122.259476		38.288688
+1185		1700 Action Avenue, Napa		-122.285905		38.303570
+1186		4000 Tall Grass Drive, Napa		-122.344812		38.309997
+1187		5500 King Road, Loomis		-121.200823		38.824675
+1188		6200 Butler Road, Penryn		-121.188204		38.862846
+1189		4900 Gladding Road, Lincoln		-121.272979		38.969315
+1190		300 Ferguson Road, Auburn		-121.056933		38.920873
+1191		Heather Glen Drive, Colfax		-120.988052		38.998819
+1192		100 Brookside Drive, Angwin		-122.423633		38.553308
+1193		23500 Shadow Drive, Auburn		-121.038152		39.068299
+1194		1400 Rose Glen Drive, East Roseville Parkway, Roseville		-121.239168		38.764558
+1195		6100 Big Bend Drive, Stanford, Roseville		-121.280278		38.789984
+1196		2100 Colonnade Drive, Lincoln		-121.257472		38.856337
+1197		400 Bullion Mine Court, Lincoln		-121.282649		38.873011
+1198		10900 Beacon Road, Truckee		-120.216157		39.355739
+1199		18900 Dry Gulch Draw, Grass Valley		-121.177316		39.110013
+1200		11100 Peaceful Valley Road, Nevada City		-121.027017		39.256086
+1201		Holesapple Road, Fairfield		-122.092143		38.292984
+1202		4600 Green Valley Road, Fairfield		-122.182766		38.245020
+1203		2500 Hilborn Road, Fairfield		-122.059295		38.274577
+1204		4900 Couples Circle, Fairfield		-122.025748		38.300290
+1205		2300 White Drive, Fairfield		-121.978400		38.296269
+1206		200 Beck Avenue, Fairfield		-122.065307		38.230910
+1207		42800 Newport Drive, Grimmer, Fremont		-121.952766		37.518977
+1208		3700 North Monitor Circle, Lincoln Village West, Stockton		-121.359192		38.000683
+1209		600 Woodside Drive, Woodside Hills, Woodside		-122.256583		37.445160
+1210		Cypress Ridge Road, Redwood City		-122.360131		37.446246
+1211		700 Coleman Avenue, Menlo Park		-122.160568		37.461816
+1212		1300 Gateway Boulevard, Fairfield		-122.049502		38.264899
+1213		2000 Thrush Way, Fairfield		-122.020855		38.265996
+1214		3800 Gum Tree Road, Suisun City		-121.950935		38.145531
+1215		0 Travis Avenue, Travis Air Force Base, Fairfield		-121.945502		38.273023
+1216		100 Carlton Avenue, Vacaville		-121.944030		38.340265
+1217		600 Youngsdale Drive, Vacaville		-121.965340		38.324422
+1218		5500 Vanden Road, Vacaville		-121.940798		38.321534
+1219		400 Shannon Drive, Vacaville		-121.972032		38.375057
+1220		1700 Balsa Avenue, Doerr - Steindorf, San Jose		-121.915980		37.273950
+1221		2300 Pamela Lane, Modesto		-121.037959		37.676165
+1222		2300 Stratford Drive, Cambrian, San Jose		-121.941837		37.257929
+1223		Redding Road, Sonoma		-122.453749		38.118402
+1224		200 Ely Road North, Petaluma		-122.647305		38.274198
+1225		0 Payran Street, Petaluma		-122.647543		38.250080
+1226		600 Cavanaugh Lane, Petaluma		-122.672127		38.251752
+1227		5400 Lichau Road, Penngrove		-122.630137		38.344343
+1228		2400 Payne Avenue, Modesto		-120.953323		37.618038
+1229		8500 Dusty Lane, Modesto		-120.856261		37.649172
+1230		1600 East Grayson Road, Ceres		-120.940013		37.564365
+1231		4500 South Central Avenue, Turlock		-120.942366		37.488885
+1232		0 West Hedding Street, Central San Jose, San Jose		-121.902465		37.347680
+1233		1600 Emory Street, Central San Jose, San Jose		-121.927662		37.328244
+1234		200 North 26th Street, Central San Jose, San Jose		-121.870506		37.351306
+1235		700 Banff Street, Central San Jose, San Jose		-121.858978		37.342258
+1236		700 Vine Street, Central San Jose, San Jose		-121.886860		37.323658
+1237		400 Lincoln Avenue, Central San Jose, San Jose		-121.909032		37.317798
+1238		7000 Blue Gum Avenue, Modesto		-121.157249		37.675825
+1239		3000 Caminito Avenue, Yuba City		-121.622248		39.088801
+1240		3200 Fruitridge Road, Yuba City		-121.677294		39.157921
+1241		4300 La Torre Avenue, South San Jose, San Jose		-121.814511		37.280978
+1242		Unnamed Road, Sutter		-121.851328		39.207383
+1243		3100 Oakbridge Drive, East San Jose, San Jose		-121.820788		37.312744
+1244		800 Jackson Street, Chinatown, San Francisco		-122.409536		37.794658
+1245		500 Geary Street, Tenderloin, San Francisco		-122.412210		37.787040
+1246		300 McAllister Street, Civic Center, San Francisco		-122.418141		37.779652
+1247		100 Magnolia Street, Marina District, San Francisco		-122.431400		37.800482
+1248		2800 Scottsdale Court, East San Jose, San Jose		-121.801396		37.318142
+1249		2400 Elkins Way, Evergreen, San Jose		-121.787203		37.306538
+1250		3700 Carick Place Way, East San Jose, San Jose		-121.809920		37.301344
+1251		2200 Lanai Avenue, East San Jose, San Jose		-121.838247		37.329239
+1252		2100 Cinderella Lane, East San Jose, San Jose		-121.839111		37.345839
+1253		500 Ripley Drive, Alum Rock, San Jose		-121.862044		37.364608
+1254		500 Rainwell Drive, Alum Rock, San Jose		-121.844588		37.377746
+1255		500 Dutton Avenue, Southwest Santa Rosa, Santa Rosa		-122.726447		38.427031
+1256		Unnamed Road, Caspar		-123.684731		39.324321
+1257		2400 Octavia Street, Pacific Heights, San Francisco		-122.427077		37.792539
+1258		2600 Broadway, Pacific Heights, San Francisco		-122.438542		37.793851
+1259		2100 Divisadero Street, Pacific Heights, San Francisco		-122.441629		37.789751
+1260		1800 Scott Street, Western Addition, San Francisco		-122.439849		37.786792
+1261		700 Presidio Avenue, Western Addition, San Francisco		-122.450653		37.784394
+1262		900 Remillard Court, Central San Jose, San Jose		-121.859513		37.325913
+1263		Eastern Route Trail, Santa Rosa		-122.685994		38.406502
+1264		5400 Alta Monte Drive, Santa Rosa		-122.659345		38.394218
+1265		0 Stoneybrook Avenue, Excelsior, San Francisco		-122.423539		37.728874
+1266		Spring Creek Trail, Santa Rosa		-122.665607		38.450865
+1267		6400 Cottage Ridge Road, Santa Rosa		-122.747565		38.531245
+1268		2300 Wyatt Court, Santa Rosa		-122.758799		38.461562
+1269		500 Yosemite Drive, Milpitas		-121.898827		37.421161
+1270		1500 Larkwood Court, Milpitas		-121.915545		37.449930
+1271		200 Bacon Street, Excelsior, San Francisco		-122.405270		37.728424
+1272		500 Moscow Street, Excelsior, San Francisco		-122.429021		37.719909
+1273		200 Naglee Avenue, Outer Mission, San Francisco		-122.454293		37.711600
+1274		13700 Westboro Drive, Alum Rock, San Jose		-121.827132		37.359320
+1275		0 McLaren Avenue, Sea Cliff, San Francisco		-122.485755		37.786721
+1276		1100 Golden Gate Avenue, Western Addition, San Francisco		-122.429141		37.779775
+1277		300 Hayes Street, Civic Center, San Francisco		-122.423732		37.777481
+1278		100 Noe Street, The Castro, San Francisco		-122.431448		37.767886
+1279		1100 Folsom Street, South of Market, San Francisco		-122.408537		37.776951
+1280		300 Church Street, Mission District, San Francisco		-122.429953		37.765156
+1281		700 Guerrero Street, Mission Dolores, San Francisco		-122.423775		37.759374
+1282		1600 Church Street, Noe Valley, San Francisco		-122.426613		37.745522
+1283		10700 Crothers Road, Alum Rock, San Jose		-121.784996		37.373941
+1284		1400 Bob White Place, North San Jose, San Jose		-121.877937		37.383798
+1285		1700 Bethany Avenue, North San Jose, San Jose		-121.871039		37.403632
+1286		1300 Chewpon Avenue, Milpitas		-121.876139		37.422423
+1287		1700 Vegas Avenue, Milpitas		-121.907065		37.458445
+1288		7500 Winona Lane, Sebastopol		-122.840929		38.411889
+1289		11600 Graton Road, Sebastopol		-122.881731		38.417893
+1290		17000 Sweetwater Springs Road, Guerneville		-123.003694		38.531123
+1291		1500 Balboa Street, Richmond District, San Francisco		-122.476094		37.777350
+1292		1300 Wright Loop, Presidio, San Francisco		-122.464495		37.795350
+1293		400 Moraga Street, Sunset District, San Francisco		-122.469565		37.756087
+1294		600 Panorama Drive, Midtown Terrace, San Francisco		-122.452385		37.751424
+1295		0 Avoca Alley, West of Twin Peaks, San Francisco		-122.450245		37.738102
+1296		1300 22nd Avenue, Sunset District, San Francisco		-122.480800		37.762484
+1297		100 Font Boulevard, Lakeshore, San Francisco		-122.478359		37.716681
+1298		200 3rd Avenue, Richmond District, San Francisco		-122.461724		37.785578
+1299		8700 Mission Rock Street, South of Market, San Francisco		-122.393861		37.772664
+1300		200 John F Kennedy Drive, Golden Gate Park, San Francisco		-122.473021		37.769805
+1301		2400 Delaware Avenue, Pacific, Stockton		-121.327689		37.967367
+1302		Tasman Drive, Santa Clara		-121.965189		37.400681
+1303		0 Rose Orchard Way, North San Jose, San Jose		-121.945210		37.414386
+1304		2300 Lafayette Street, Santa Clara		-121.959016		37.365332
+1305		1000 Morris Court, Central San Jose, San Jose		-121.934743		37.347099
+1306		2400 Moraine Drive, Santa Clara		-121.988097		37.368320
+1307		1100 Block Drive, Santa Clara		-121.961332		37.346420
+1308		2300 Kenwood Avenue, Central San Jose, San Jose		-121.941543		37.333246
+1309		300 Kiely Boulevard, West San Jose, San Jose		-121.983955		37.320835
+1310		1400 Essex Way, West San Jose, San Jose		-121.957937		37.298095
+1311		4600 Alex Drive, West San Jose, San Jose		-121.987048		37.279864
+1312		4200 Semallon Drive, Modesto		-121.003644		37.699347
+1313		3300 West Cherry Creek Road, Cloverdale		-123.098195		38.769236
+1314		1400 East G Street, Oakdale		-120.832692		37.771192
+1315		6100 Coffee Road, Modesto		-120.942271		37.726282
+1316		1200 Jill Lane, Modesto		-120.939985		37.654858
+1317		1900 Walnut Tree Drive, Modesto		-120.951266		37.672141
+1318		3100 East Fremont Street, Stockton		-121.256763		37.968202
+1319		1600 South B Street, Park, Stockton		-121.256297		37.930353
+1320		1900 South Monroe Street, Seaport, Stockton		-121.289119		37.928859
+1321		700 Houston Avenue, Seaport, Stockton		-121.307005		37.920808
+1322		500 North Gertrude Avenue, Stockton		-121.235538		37.964414
+1323		4100 Gibraltar Court, Park, Stockton		-121.254487		37.917567
+1324		1000 Porter Avenue, Lakeview, Stockton		-121.324231		38.006544
+1325		1500 Griffin Point, Lakeview, Stockton		-121.328123		37.996639
+1326		4500 Heron Lakes Drive, Brookside, Stockton		-121.359384		37.981221
+1327		1500 Barcelona Avenue, Stockton		-121.331856		38.024283
+1328		2000 Whistler Way, Spanos Park, Stockton		-121.335429		38.043030
+1329		1100 Archer Way, San Tomas, Campbell		-121.979938		37.270664
+1330		15700 Shannon Road, Los Gatos		-121.935959		37.227257
+1331		500 University Avenue, Los Gatos		-121.977380		37.237886
+1332		100 Los Patios, Los Gatos		-121.982847		37.255185
+1333		21800 Lomita Avenue, Cupertino		-122.055138		37.321244
+1334		1100 Danbury Drive, Alderbrook, San Jose		-122.019111		37.303687
+1335		19300 Greenwood Circle, Cupertino		-122.010805		37.315677
+1336		1400 Bobwhite Avenue, Sunnyvale		-122.026038		37.344019
+1337		1100 Jamestown Drive, Sunnyvale West, Sunnyvale		-122.057058		37.362653
+1338		700 East Evelyn Avenue, Sunnyvale		-122.008073		37.369313
+1339		700 San Juan Drive, San Miguel, Sunnyvale		-122.004582		37.390691
+1340		1800 Landini Way, Modesto		-120.968040		37.659510
+1341		800 El Terino Avenue, Modesto		-120.979122		37.655106
+1342		1300 Nelson Avenue, Modesto		-120.988324		37.663385
+1343		500 Grimes Avenue, Modesto		-121.032601		37.629627
+1344		1000 Carlos Court, Modesto		-121.017637		37.630358
+1345		Yvonne Lane, Modesto		-121.018533		37.617785
+1346		400 San Juan Drive, Modesto		-120.971792		37.643760
+1347		3200 Trudi Way, Modesto		-120.935664		37.644587
+1348		600 Waddell Way, Modesto		-120.925974		37.645632
+1349		600 Empire Avenue, Modesto		-120.963365		37.626943
+1350		100 Pueblo Avenue, Shackelford, Modesto		-121.003874		37.610470
+1351		6400 Everest Way, Sacramento		-121.349360		38.678752
+1352		5900 Crowder Way, Hillsdale, Sacramento		-121.361554		38.672180
+1353		2700 Alexa Way, Sherwoods Manor, Stockton		-121.355243		38.025370
+1354		6200 Raymond Court, Stockton		-121.251793		38.021503
+1355		5900 Carpenter Road, Stockton		-121.201152		37.938482
+1356		12600 West Highway 12, Acampo		-121.476396		38.159919
+1357		1300 Holly Avenue, Los Altos		-122.076617		37.359250
+1358		4100 Coulombe Drive, Green Acres, Palo Alto		-122.132165		37.409278
+1359		3000 Waverley Street, Midtown, Palo Alto		-122.130277		37.426313
+1360		300 Waverley Street, Downtown North, Palo Alto		-122.163335		37.449068
+1361		26200 Catharine Court, Los Altos Hills		-122.126158		37.376258
+1362		200 Poplar Street, Lodi		-121.268851		38.121051
+1363		Reservoir Road, Stanford		-122.164209		37.408179
+1364		1900 Maple Glen Road, Arden Oaks, Sacramento		-121.374638		38.603446
+1365		3200 Green Crest Court, Norwood Estates, Sacramento		-121.375409		38.624742
+1366		2600 Morse Avenue, Sacramento		-121.392655		38.613235
+1367		3200 Del Paso Boulevard, North Sacramento, Sacramento		-121.431558		38.622043
+1368		100 Commerce Circle, North Sacramento, Sacramento		-121.458504		38.601574
+1369		3000 Azevedo Drive, North Sacramento, Sacramento		-121.507594		38.618254
+1370		3600 Trefethen Way, North Sacramento, Sacramento		-121.543298		38.636924
+1371		Metro Air Parkway, North Natomas, Sacramento		-121.574077		38.697692
+1372		Dry Creek Bikeway, Rio Linda		-121.428011		38.707665
+1373		3700 Myrtle Avenue, North Highlands		-121.395106		38.640736
+1374		4100 West Turner Road, Lodi		-121.343805		38.151777
+1375		700 Golden Avenue, Lodi		-121.258785		38.145773
+1376		5800 Southgrove Drive, Skycrest Terrace, Citrus Heights		-121.289750		38.672682
+1377		1700 Creekside Drive, Folsom		-121.141870		38.670178
+1378		21700 East Kettleman Lane, Lodi		-121.106287		38.095914
+1379		1900 California Street, Escalon		-120.995458		37.796913
+1380		500 San Juan Street, Manteca		-121.223262		37.802416
+1381		April Trail, Almaden, San Jose		-121.869781		37.198846
+1382		8400 Cranford Way, Golden Oaks, Citrus Heights		-121.251620		38.690352
+1383		100 Tomlinson Drive, Folsom		-121.176041		38.702176
+1384		700 Ward Way, The Enclave, Folsom		-121.165000		38.666943
+1385		21800 Fortini Road, Almaden, San Jose		-121.808105		37.197341
+1386		5700 Beswick Drive, South San Jose, San Jose		-121.816932		37.248535
+1387		400 Fieldcrest Drive, South San Jose, San Jose		-121.811040		37.230992
+1388		100 Carling Court, South San Jose, San Jose		-121.814287		37.267056
+1389		8400 Zachis Way, Antelope Village, Antelope		-121.356161		38.722722
+1390		5500 Foothill Garden Court, Foothill Gardens, Sacramento		-121.342684		38.668780
+1391		9100 River Look Lane, Phoenix-sunset, Fair Oaks		-121.212780		38.653763
+1392		7700 Magnolia Avenue, Fair Oaks		-121.282777		38.638831
+1393		8100 Glen Creek Way, Hillcrest, Citrus Heights		-121.259158		38.714634
+1394		7100 Stanford Oak Drive, Larchmont Foothills, Sacramento		-121.330809		38.696206
+1395		6800 San Dimas Court, Citrus Heights		-121.307571		38.682925
+1396		Butterfield Boulevard, Morgan Hill		-121.630463		37.111513
+1397		16600 Glen Kanyon Court, Morgan Hill		-121.654944		37.116297
+1398		300 Heidi Court, Morgan Hill		-121.664470		37.124840
+1399		Levee, Gilroy		-121.571285		36.986525
+1400		5000 Cleveland Bay Way, Elk Grove		-121.441406		38.400724
+1401		800 Frewert Road, Lathrop		-121.303248		37.823085
+1402		500 Mulberry Circle, Manteca		-121.229322		37.793446
+1403		400 Monte Vista, Tracy		-121.435496		37.718614
+1404		300 Derecho Way, Tracy		-121.421808		37.752455
+1405		Lauriana Lane, Tracy		-121.444351		37.733865
+1406		600 Choctaw Drive, South San Jose, San Jose		-121.836273		37.237588
+1407		300 Kalana Avenue, Morgan Hill		-121.733423		37.176712
+1408		18300 Castle Hill Drive, Morgan Hill		-121.673441		37.118643
+1409		1900 Alpet Drive, Morgan Hill		-121.620982		37.155027
+1410		Gold Rush Drive, Gold River		-121.239769		38.626813
+1411		2500 Sarda Way, Rancho Cordova		-121.296994		38.598134
+1412		10900 Glenhaven Way, Walnut Woods, Rancho Cordova		-121.276951		38.607762
+1413		Jedediah Smith Memorial Trail, Rancho Cordova		-121.328199		38.585737
+1414		1900 Lewitt Drive, Rancho Cordova		-121.295906		38.613788
+1415		9900 Vanguard Drive, Lincoln Village, Sacramento		-121.326316		38.565405
+1416		11100 Jackson Road, Sacramento		-121.313349		38.547222
+1417		3400 Skyward Court, Ellenwood Court, Sacramento		-121.317617		38.572168
+1418		9500 River Rose Way, Premier Garden, Sacramento		-121.341501		38.555967
+1419		9200 Caspiane Way, College Greens East, Sacramento		-121.366580		38.565347
+1420		3500 Mignon Street, Sacramento		-121.355531		38.550382
+1421		8700 Leo Virgo Court, Elk Grove		-121.378111		38.401213
+1422		9400 Rogers Road, Sacramento		-121.356063		38.468779
+1423		900 Bateman Court, River Oaks, Galt		-121.285294		38.282927
+1424		Great Meadow Bike Path, Santa Cruz		-122.057954		36.989443
+1425		400 Frederick Street, Seabright, Santa Cruz		-122.003983		36.971727
+1426		900 Freedom Boulevard, Watsonville		-121.769881		36.922174
+1427		6500 Brockenhurst Drive, Elk Grove		-121.432270		38.437985
+1428		6500 Angus Ranch Way, Paso Robles		-120.970995		35.684763
+1429		100 Holm Road, Watsonville		-121.782146		36.931773
+1430		9300 Newington Way, Elk Grove		-121.429115		38.416849
+1431		2600 Highway 9, Felton		-122.059756		37.028092
+1432		1500 Nelson Road, Scotts Valley		-122.012188		37.078274
+1433		8100 Dunes Court, Sacramento		-121.401819		38.459495
+1434		8200 Grant Line Road, Elk Grove		-121.279744		38.413277
+1435		12500 Blake Road, Wilton		-121.151656		38.406450
+1436		5400 Kevinberg Drive, Southwestern Sacramento, Sacramento		-121.437558		38.454760
+1437		200 Knowles Avenue, Daly City		-122.462411		37.704822
+1438		300 87th Street, St. Francis, Daly City		-122.478858		37.692496
+1439		4000 Branciforte Drive, Santa Cruz		-121.991030		37.028373
+1440		200 Minto Road, Watsonville		-121.751177		36.949577
+1441		300 Thompson Road, Watsonville		-121.684859		36.936748
+1442		11600 Bruceville Road, Elk Grove		-121.399275		38.314901
+1443		100 Serramonte Boulevard, Serramonte, Daly City		-122.469784		37.669541
+1444		4300 Bolsa Road, Hollister		-121.339845		36.888360
+1445		1900 Meridian Street, Hollister		-121.389911		36.854498
+1446		700 Larch Avenue, Paradise Valley, South San Francisco		-122.419678		37.669138
+1447		200 9th Lane, Downtown, South San Francisco		-122.407028		37.661952
+1448		300 Baden Avenue, Downtown, South San Francisco		-122.418508		37.656619
+1449		500 Forbes Boulevard, The East Side, South San Francisco		-122.406967		37.650502
+1450		0 Brookhaven Court, Fairmont, Pacifica		-122.483788		37.658694
+1451		400 Loma Vista Terrace, Sharp Park, Pacifica		-122.484415		37.635699
+1452		200 Ramona Avenue, Vallemar, Pacifica		-122.482218		37.618122
+1453		2700 Campus Drive, Beresford Park, San Mateo		-122.324111		37.540255
+1454		300 East 28th Avenue, South San Mateo, San Mateo		-122.299576		37.546162
+1455		1800 Helene Court, East San Mateo, San Mateo		-122.303110		37.570221
+1456		Montara Mountain Trail, Pacifica		-122.486817		37.582694
+1457		1500 Donner Avenue, San Bruno		-122.415693		37.612816
+1458		0 Colorados Drive, Millbrae		-122.406650		37.593987
+1459		1400 Vancouver Avenue, Easton Addition, Burlingame		-122.379341		37.581597
+1460		400 Williams Place, Central San Mateo, San Mateo		-122.335361		37.572215
+1461		200 North Fremont Street, Central San Mateo, San Mateo		-122.321954		37.572830
+1462		1600 54th Avenue, Wentworth Holland, Oakland		-122.206661		37.771634
+1463		1000 Pensacola Street, Foster City		-122.269556		37.542397
+1464		200 Cupertino Way, South San Mateo, San Mateo		-122.289626		37.536190
+1465		Highgate Road, Vallejo		-122.187414		38.129490
+1466		1600 LemonTree Road, West Sacramento		-121.535741		38.549159
+1467		2600 Somerset Drive, Belmont		-122.303205		37.503765
+1468		0 Wessex Way, San Carlos		-122.278594		37.501762
+1469		0 Maloney Court, Oak Knoll - Redwood Park, Redwood City		-122.253110		37.471727
+1470		1500 Oxford Street, Palm Park, Redwood City		-122.225845		37.471371
+1471		3900 Farm Hill Boulevard, Farm Hills, Redwood City		-122.254628		37.459450
+1472		200 Oakhurst Place, Suburban Park - Lorelei Manor - Flood Park Triangle, Menlo Park		-122.170078		37.473637
+1473		2800 Fordham Street, East Palo Alto		-122.129497		37.476851
+1474		1900 Buchanan Street, Marysville		-121.574324		39.158224
+1475		1000 Greenmont Drive, Vallejo		-122.200355		38.089700
+1476		Clipper Drive, Vallejo		-122.203550		38.074475
+1477		1200 Sacramento Street, Vallejo		-122.262567		38.110609
+1478		400 Meadows Drive, Vallejo		-122.277984		38.149615
+1479		Bee Biology Road, Davis		-121.777393		38.537564
+1480		1100 Halifax Avenue, Stonegate, Davis		-121.793658		38.551192
+1481		Unnamed Road, Benicia		-122.120826		38.102496
+1482		700 Mockingbird Place, Northstar, Davis		-121.758581		38.571162
+1483		1000 Mesquite Drive, Davis		-121.722728		38.556105
+1484		29300 Lassen Street, Tennyson - Alquire, Hayward		-122.061554		37.626638
+1485		1700 6th Avenue, Olivehurst		-121.553091		39.100206
+1486		0 West Cross Street, Woodland		-121.791128		38.672106
+1487		100 Hays Street, Woodland		-121.791185		38.666763
+1488		Unnamed Road, Woodland		-121.755682		38.678743
+1489		1900 Algodon Road, Olivehurst		-121.562319		39.001596
+1490		6600 B Street, Beale Air Force Base		-121.397512		39.116088
+1491		Mount Watson Road, Olympic Valley		-120.168763		39.168955
+1492		33500 7th Street, Union City		-122.022951		37.600499
+1493		11400 Racetrack Road, Sonora		-120.397607		37.988915
+1494		0 Sports Parkway, North Sacramento, Sacramento		-121.520284		38.644112
+1495		1600 Tremont Drive, Santa Cruz		-121.989652		36.965553
+1496		1600 Cottonwood Street, Woodland		-121.795158		38.659524
+1497		500 East Pleasant Street, Coalinga		-120.354796		36.138985
+1498		1100 Park Avenue, Emeryville		-122.281215		37.832791
+1499		900 Atlantic Avenue, Alameda		-122.266362		37.780418
+1500		South Jerrold Avenue, Firebaugh		-120.563614		36.547469
+1501		Unnamed Road, Firebaugh		-120.639937		36.892021
+1502		California 162, Elk Creek		-122.483610		39.611233
+1503		Peach Avenue, Glenn		-121.964652		39.526107
+1504		5800 Christie Avenue, Emeryville		-122.294697		37.838779
+1505		5100 Diane Lane, Livermore		-121.728513		37.684005
+1506		Unnamed Road, Avenal		-120.159787		35.876866
+1507		4200 Lakeshore Boulevard, Nice		-122.853379		39.107800
+1508		Pond Road, Clearlake		-122.655128		38.987491
+1509		22000 Morgan Valley Road, Lower Lake		-122.545158		38.882369
+1510		500 Buena Vista Avenue, West Alameda, Alameda		-122.284694		37.777640
+1511		2300 Oregon Street, South Berkeley, Berkeley		-122.259391		37.858663
+1512		2000 Essex Street, South Berkeley, Berkeley		-122.268178		37.851040
+1513		Dwight D. Eisenhower Highway, Berkeley		-122.301952		37.864249
+1514		1700 McGee Avenue, North Berkeley, Berkeley		-122.278243		37.874489
+1515		1700 Scenic Avenue, Northside, Berkeley		-122.260440		37.877742
+1516		1300 Ward Street, Southwest Berkeley, Berkeley		-122.283831		37.857773
+1517		1000 Central Avenue, West Alameda, Alameda		-122.269789		37.771453
+1518		1300 67th Street, Southwest Berkeley, Berkeley		-122.281586		37.850226
+1519		2600 99th Avenue, Toler Heights, Oakland		-122.152310		37.747114
+1520		10600 Voltaire Avenue, Las Palmas, Oakland		-122.155961		37.745298
+1521		1700 105th Avenue, Iveywood, Oakland		-122.162846		37.741053
+1522		700 Ramona Avenue, Albany		-122.291306		37.895304
+1523		1000 Neilson Street, Albany		-122.287380		37.887019
+1524		1700 Portland Avenue, Berkeley Hills, Berkeley		-122.281984		37.890143
+1525		1400 Edith Street, North Berkeley, Berkeley		-122.278035		37.881111
+1526		500 Weldon Avenue, Grand Lake, Oakland		-122.241798		37.814784
+1527		200 John Street, Piedmont Avenue, Oakland		-122.249611		37.829787
+1528		6400 Gwin Road, Merriewood, Oakland		-122.216586		37.847115
+1529		6100 Estates Drive, Montclair, Piedmont		-122.217123		37.827616
+1530		0 Blachford Court, Piedmont Pines, Oakland		-122.189364		37.820909
+1531		3800 Elston Avenue, Glenview, Oakland		-122.220586		37.805459
+1532		600 East 18th Street, Clinton, Oakland		-122.249822		37.796853
+1533		1600 11th Avenue, Clinton, Oakland		-122.246009		37.793517
+1534		600 East 8th Street, Downtown Oakland, Oakland		-122.250590		37.787866
+1535		1900 Irving Avenue, Meadow Brook, Oakland		-122.231333		37.785483
+1536		2900 Sheffield Avenue, Reservoir Hills, Oakland		-122.222019		37.795123
+1537		3200 Suter Street, Upper Peralta Creek, Oakland		-122.208317		37.793072
+1538		1500 35th Avenue, Fruitvale, Oakland		-122.219053		37.778555
+1539		4600 Reinhardt Drive, Redwood Heights, Oakland		-122.185197		37.789145
+1540		6500 Outlook Avenue, Millsmont, Oakland		-122.175701		37.774812
+1541		6200 Foothill Boulevard, Bancroft Business, Oakland		-122.188708		37.769182
+1542		1100 77th Avenue, Fitchburg, Oakland		-122.188538		37.754057
+1543		1700 Auseon Avenue, Webster, Oakland		-122.173013		37.753067
+1544		8600 Dowling Street, Castlemont, Oakland		-122.166794		37.756159
+1545		1300 Willow Avenue, Hercules		-122.254900		38.007621
+1546		5400 Sobrante Avenue, El Sobrante		-122.285769		37.980992
+1547		2600 Brian Road, San Pablo		-122.317020		37.994384
+1548		27800 Manon Avenue, Harder - Tennyson, Hayward		-122.070888		37.635640
+1549		200 Revere Avenue, Fairway Prk, Hayward		-122.038956		37.619127
+1550		30800 San Clemente Street, Hayward		-122.060502		37.617589
+1551		100 Palm Drive, Union City		-122.048181		37.591783
+1552		2000 H Street, Union City		-122.029200		37.590052
+1553		32500 Union City Boulevard, Union City		-122.085991		37.580005
+1554		Fox Avenue, Centerville, Fremont		-122.004355		37.571383
+1555		3600 Johnson Court, Northgate, Fremont		-122.040062		37.574946
+1556		3400 Beard Road, Northgate, Fremont		-122.039486		37.582180
+1557		7000 Auto Mall Parkway, Fremont		-122.008567		37.489450
+1558		2700 Provence Court, Livermore		-121.764089		37.673220
+1559		500 Embarcadero West, Downtown Oakland, Oakland		-122.277631		37.795824
+1560		Unnamed Road, Ione		-120.892491		38.369088
+1561		13000 Tabeaud Road, Pine Grove		-120.653266		38.393330
+1562		1100 Stevenson Boulevard, Central District, Fremont		-121.964986		37.553633
+1563		38000 Glendale Drive, Centerville, Fremont		-122.005268		37.548352
+1564		1300 Tolteca Court, Weibel, Fremont		-121.927742		37.508403
+1565		Spring Valley Trail, Fremont		-121.904862		37.527242
+1566		48800 Semillon Drive, Warm Springs, Fremont		-121.913183		37.472928
+1567		Lake Boulevard, Newark		-122.035802		37.549743
+1568		8400 Central Avenue, Newark		-122.055045		37.511408
+1569		1200 Calla Lane, Chico		-121.825340		39.758223
+1570		0 Tehan Canyon Road, Pleasanton		-121.936920		37.652263
+1571		500 Stonebridge Court, Pleasant Hill		-122.060594		37.952566
+1572		14000 Hamilton Nord Cana Highway, Chico		-121.954435		39.745403
+1573		1500 Elliott Road, Paradise		-121.581446		39.758100
+1574		4200 Dublin Boulevard, Dublin		-121.887489		37.705987
+1575		7600 Brighton Drive, Dublin		-121.931554		37.710797
+1576		2800 Louis Avenue, Oroville		-121.526075		39.436894
+1577		800 West Tower Avenue, Alameda		-122.301194		37.785417
+1578		Maguire Peaks Loop Trail, Sunol		-121.802772		37.574455
+1579		3100 タンジェマン・トレイル, Paradise		-121.662822		39.697957
+1580		2400 A Street, Oroville		-121.540237		39.493683
+1581		2900 South 5th Avenue, Oroville		-121.570753		39.473082
+1582		Riley Ridge Road, Castro Valley		-122.094019		37.759780
+1583		17900 Lake Chabot Road, Castro Valley		-122.106401		37.722076
+1584		2700 Jennifer Drive, Castro Valley		-122.097447		37.704042
+1585		20000 Lake Chabot Road, Castro Valley		-122.082044		37.698587
+1586		2500 Civic Avenue, Hayward Highland, Hayward		-122.046288		37.654763
+1587		29200 Bodega Street, Mission - Garin, Hayward		-122.035413		37.636952
+1588		Lilienthal Road, Livermore		-121.837661		37.661131
+1589		3400 Croak Road, Pleasanton		-121.848723		37.719446
+1590		6900 Crane Ridge Road, Livermore		-121.668041		37.594326
+1591		Biggs-Willows Road, Oroville		-121.771876		39.445266
+1592		4800 Northridge Road, Martinez		-122.101272		37.988337
+1593		Little John Road, Copperopolis		-120.643791		37.990028
+1594		400 Pamela Court, Burbank, Hayward		-122.092319		37.667010
+1595		0 Austin Avenue, Jackson Triangle, Hayward		-122.085387		37.651273
+1596		24700 Mohr Drive, Mount Eden, Hayward		-122.112896		37.642114
+1597		26200 Regal Avenue, Harder - Tennyson, Hayward		-122.087952		37.642766
+1598		600 Parkhaven Court, Pleasant Hill		-122.094729		37.975989
+1599		400 Monti Circle, Pleasant Hill		-122.071576		37.951623
+1600		4800 Messing Road, Valley Springs		-120.836652		38.205599
+1601		2100 Mokelumne Drive East, Arnold		-120.318786		38.235309
+1602		0 Carquinez Scenic Drive, Martinez		-122.160452		38.019564
+1603		900 Pinon Drive, Martinez		-122.121930		38.006092
+1604		200 John Glenn Drive, Concord		-122.056844		37.979449
+1605		2900 Esperanza Drive, Concord		-122.024064		37.990246
+1606		1700 Landana Drive, Dana Estates, Concord		-121.999899		37.981341
+1607		Tule Road, Arbuckle		-121.982325		39.024362
+1608		1100 Studebaker Road, Saranap, Walnut Creek		-122.084129		37.884654
+1609		500 Lakewood Circle, Walnut Creek		-122.038059		37.903515
+1610		1100 Eden Plains Road, Brentwood		-121.673904		37.935180
+1611		Unnamed Road, Arbuckle		-122.004194		39.191462
+1612		Big Break Regional Trail, Oakley		-121.718643		38.016316
+1613		1800 Castle Gate Road, Walnut Creek		-122.052003		37.869084
+1614		1500 Detroit Avenue, Monument Corridor, Concord		-122.041077		37.966582
+1615		1000 Irwin Court, Concord		-122.017329		37.958454
+1616		1400 Bentley Street, Concord		-122.046402		37.941687
+1617		1000 Norwich Place, Ygnacio Valley, Walnut Creek		-122.031679		37.930627
+1618		500 North San Carlos Drive, Walnut Creek		-122.047954		37.920013
+1619		600 Castle Rock Road, Walnut Creek		-122.018752		37.907686
+1620		14800 Byron Highway, Byron		-121.604113		37.847380
+1621		1900 Dolphin Place, Discovery Bay		-121.608223		37.905889
+1622		2500 Pittsburg-Antioch Highway, Antioch		-121.827749		38.014035
+1623		2900 Los Altos Way, Antioch		-121.831621		37.994726
+1624		2900 Roosevelt Lane, Antioch		-121.796825		37.990545
+1625		1900 Cardiff Drive, Pittsburg		-121.867531		38.014106
+1626		3200 Harbor Street, Pittsburg		-121.882025		38.004797
+1627		Briones to Mount Diablo Regional Trail, Walnut Creek		-122.032208		37.887428
+1628		800 Orange Blossom Way, Danville		-121.977306		37.795092
+1629		500 Peru Avenue, Excelsior, San Francisco		-122.427563		37.726385
+1630		800 Bacon Street, Excelsior, San Francisco		-122.410542		37.722696
+1631		0 Bangor Court, San Ramon		-121.928156		37.765751
+1632		1300 Dutch Mill Drive, Danville		-121.964129		37.797600
+1633		2800 Fountainhead Drive, San Ramon		-121.991776		37.781622
+1634		500 Hemme Avenue, Alamo		-122.034102		37.834510
+1635		1800 Lackland Drive, Alamo		-121.965996		37.845247
+1636		2300 Range Road, Pittsburg		-121.926877		38.016803
+1637		1100 Willow Pass Road, Bay Point		-121.916415		38.032131
+1638		Port Chicago Highway, Bay Point		-121.968433		38.042446
+1639		0 Curtis Street, Crocker-Amazon, San Francisco		-122.439593		37.713864
+1640		Sand Hill Trail, Danville		-121.953750		37.821296
+1641		South Monarch Road, San Ramon		-121.916682		37.765619
+1642		Rolling Hills Trail, San Ramon		-121.893827		37.747203
+1643		1000 Barkwood Court, Concord		-121.966931		37.938391
+1644		5700 Alhambra Valley Road, Martinez		-122.212784		37.951488
+1645		100 Zephyr, Hercules		-122.285481		38.014065
+1646		100 Murray Street, Bernal Heights, San Francisco		-122.420209		37.734193
+1647		500 Brunswick Street, Crocker-Amazon, San Francisco		-122.444589		37.709681
+1648		Historic Trail, Inner Sunset, San Francisco		-122.455895		37.758529
+1649		1300 10th Avenue, Inner Sunset, San Francisco		-122.467854		37.763050
+1650		1900 16th Avenue, Inner Sunset, San Francisco		-122.470177		37.752124
+1651		600 39th Street, North & East, Richmond		-122.330338		37.940684
+1652		900 18th Street, Belding Woods, Richmond		-122.355258		37.948571
+1653		Petrolite Street, Richmond		-122.388218		37.940210
+1654		Regatta Boulevard, Marina Bay, Richmond		-122.342309		37.912182
+1655		100 South 35th Street, Pullman, Richmond		-122.335052		37.930903
+1656		1300 Contra Costa Drive, El Cerrito		-122.295596		37.923829
+1657		1200 Norvell Street, El Cerrito		-122.306790		37.917124
+1658		6800 Fairmount Avenue, El Cerrito		-122.298070		37.901644
+1659		200 Trinity Avenue, Kensington		-122.276302		37.909719
+1660		2400 Arden Way, Cassell, San Jose		-121.827564		37.343669
+1661		7400 Latrobe Road, Shingle Springs		-120.970586		38.582254
+1662		3100 Carlson Drive, Shingle Springs		-120.958684		38.688281
+1663		1400 Sheridan Avenue, South Cirby, Roseville		-121.255172		38.724311
+1664		1000 Windermere Avenue, Cresthaven, Roseville		-121.295068		38.728567
+1665		500 Cascade Drive, Highland Reserve, Roseville		-121.299283		38.783310
+1666		500 Twain Court, Pleasant Grove, Roseville		-121.319808		38.767195
+1667		1200 High Street, Auburn		-121.076920		38.892425
+1668		6400 Sunset Boulevard West, Roseville		-121.379966		38.864318
+1669		3900 Witt Road, Auburn		-121.065614		38.982528
+1670		5000 Deloris Road, Shingle Springs		-120.940508		38.631266
+1671		100 Purple Martin Court, El Dorado Hills		-121.010513		38.676771
+1672		1200 Tree Top Court, Placerville		-120.934100		38.774116
+1673		3200 Lincoln Highway, Camino		-120.687457		38.751566
+1674		200 Hyde Street, Tenderloin, San Francisco		-122.415807		37.783144
+1675		1000 Oak Court, Meadow Vista		-121.021817		39.009012
+1676		4600 Pinita Court, Pollock Pines		-120.625884		38.731465
+1677		200 Funston Road, Marina District, San Francisco		-122.431704		37.806828
+1678		6200 Moabite Court, El Dorado, El Dorado County, California, United States, 95623, 4858		-120.877170		38.591666
+1679		4100 Borders Drive, El Dorado Hills		-121.047830		38.667549
+1680		100 Electric Street, Auburn		-121.072425		38.907240
+1681		7800 Fox Hill Lane, Newcastle		-121.143574		38.889840
+1682		700 Haight Street, Lower Haight, San Francisco		-122.438956		37.769557
+1683		Park Road, Granite Bay		-121.124361		38.786392
+1684		1300 Meadowvista Way, Maidu, Roseville		-121.241547		38.729069
+1685		0 Dwinelle Court, Alameda		-122.237882		37.738843
+1686		0 The Embarcadero, North Beach, San Francisco		-122.399294		37.799689
+1687		1400 Powell Street, Russian Hill, San Francisco		-122.410215		37.799144
+1688		1100 Taylor Street, Nob Hill, San Francisco		-122.413442		37.793177
+1689		200 Sutter Street, Financial District, San Francisco		-122.404929		37.790316
+1690		900 Pine Street, Lower Nob Hill, San Francisco		-122.409916		37.791087
+1691		200 O'Farrell Street, Tenderloin, San Francisco		-122.411948		37.785734
+1692		800 Mission Street, South of Market, San Francisco		-122.410909		37.779699
+1693		900 Wembley Way, Manteca		-121.229219		37.818911
+1694		700 Folsom Street, South of Market, San Francisco		-122.401823		37.782116
+1695		5th Street, Treasure Island, San Francisco		-122.330981		37.784420
+1696		4700 18th Street, Eureka Valley, San Francisco		-122.444054		37.758993
+1697		400 Burnett Avenue, Twin Peaks, San Francisco		-122.445208		37.752307
+1698		3500 20th Street, Mission District, San Francisco		-122.419153		37.759496
+1699		900 Sanchez Street, Dolores Heights, San Francisco		-122.430425		37.754265
+1700		3900 25th Street, Noe Valley, San Francisco		-122.429408		37.749387
+1701		600 28th Street, Noe Valley, San Francisco		-122.438464		37.745335
+1702		100 Randall Street, Glen Park, San Francisco		-122.429867		37.737365
+1703		2600 21st Street, Mission District, San Francisco		-122.406246		37.759216
+1704		2900 24th Street, Mission District, San Francisco		-122.410747		37.751426
+1705		0 Conkling Street, Silver Terrace, San Francisco		-122.402073		37.734257
+1706		700 Bernal Heights Boulevard, Bernal Heights, San Francisco		-122.414468		37.743892
+1707		100 Appleton Avenue, Bernal Heights, San Francisco		-122.421551		37.737591
+1708		300 Osage Place, Lathrop		-121.288451		37.818449
+1709		22100 East Mariposa Road, Escalon		-121.028218		37.776338
+1710		100 Morningside Drive, Lakeshore, San Francisco		-122.487043		37.732139
+1711		24500 South Union Road, Manteca		-121.248743		37.716223
+1712		California 120, Manteca		-121.224701		37.782825
+1713		25600 South Lammers Road, Tracy		-121.495387		37.717762
+1714		20400 El Rancho Road, Tracy		-121.365700		37.785423
+1715		1600 Etta Way, Tracy		-121.443785		37.750614
+1716		200 East 6th Street, Tracy		-121.421969		37.731682
+1717		25700 South Kasson Road, Tracy		-121.285257		37.719181
+1718		300 Arballo Drive, Lakeshore, San Francisco		-122.479755		37.719314
+1719		31500 South Corral Hollow Road, Tracy		-121.473835		37.602365
+1720		2200 47th Avenue, Sunset District, San Francisco		-122.504795		37.742048
+1721		Bayfront Expressway, Menlo Park		-122.165755		37.487701
+1722		200 9th Avenue, Richmond District, San Francisco		-122.469235		37.784567
+1723		600 Burrows Avenue, San Bruno		-122.421915		37.622417
+1724		2200 Euclid Avenue, East Palo Alto		-122.146014		37.467027
+1725		1200 San Mateo Drive, Menlo Park		-122.186082		37.443701
+1726		1700 Oakdell Drive, Menlo Park		-122.194161		37.435071
+1727		100 Fifth Avenue, South Fair Oaks, Redwood City		-122.210497		37.472262
+1728		800 Easton Avenue, San Bruno		-122.409885		37.623598
+1729		1500 Adrian Road, Ingold - Milldale, Burlingame		-122.371269		37.592005
+1730		0 Park Lane, Brisbane		-122.416428		37.687487
+1731		0 Orange Court, Hillside, Daly City		-122.456161		37.697532
+1732		0 Longview Drive, Westlake, Daly City		-122.491143		37.677029
+1733		0 Barry Lane, West Atherton, Atherton		-122.215623		37.445104
+1734		0 Flood Circle, Lindenwood, Atherton		-122.186631		37.466754
+1735		100 Clark Drive, Central San Mateo, San Mateo		-122.344940		37.567675
+1736		2500 Sand Hill Road, Sharon Heights, Menlo Park		-122.205007		37.423604
+1737		700 Westridge Drive, Central Portola Valley, Portola Valley		-122.216238		37.376926
+1738		1000 Wildwood Avenue, Westlake, Daly City		-122.488241		37.690917
+1739		0 Reiner Street, Daly City		-122.465667		37.687704
+1740		800 Campus Drive, Serramonte, Daly City		-122.478627		37.669026
+1741		200 Morton Drive, Serramonte, Daly City		-122.470723		37.657554
+1742		Junipero Serra Boulevard, Serra Highlands, South San Francisco		-122.455581		37.662673
+1743		600 San Bruno Avenue East, San Bruno		-122.406448		37.628033
+1744		1200 Helen Drive, Millbrae		-122.418731		37.601238
+1745		Ed Taylor Trail, Burlingame Hills, Burlingame		-122.387677		37.579458
+1746		600 North Delaware Street, Central San Mateo, San Mateo		-122.331795		37.581375
+1747		1700 Coyote Point Drive, Shoreview, San Mateo		-122.293934		37.572573
+1748		500 Carmel Circle, Baywood - Aragon, San Mateo		-122.326385		37.562430
+1749		1600 Parrott Drive, South San Mateo, San Mateo		-122.338780		37.528460
+1750		1700 Yorktown Road, San Mateo		-122.345319		37.523002
+1751		400 31st Avenue, Beresford Park, San Mateo		-122.312061		37.532812
+1752		200 West 25th Avenue, South San Mateo, San Mateo		-122.313714		37.544192
+1753		100 Yawl Court, Foster City		-122.259472		37.551835
+1754		100 Sea Cloud Drive, Foster City		-122.262880		37.541465
+1755		3000 Los Prados Street, East San Mateo, San Mateo		-122.284146		37.545720
+1756		2400 Casa Bona Avenue, Belmont		-122.311310		37.516922
+1757		1100 Saint Francis Street, Palm Park, Redwood City		-122.234508		37.467685
+1758		100 Queens Court, San Carlos		-122.283183		37.497465
+1759		600 Sylvan Way, Emerald Hills		-122.269055		37.463246
+1760		100 Nevada Street, Mount Carmel, Redwood City		-122.248619		37.480231
+1761		100 Fulton Street, Mount Carmel, Redwood City		-122.242172		37.484518
+1762		500 Summit Spring Road, Woodside		-122.278003		37.408733
+1763		Pomponio Truck Trail, Pescadero		-122.294931		37.326955
+1764		300 26th Avenue, Central Richmond, San Francisco		-122.488786		37.782562
+1765		100 Deep Springs Court, Lincoln		-121.265642		38.856846
+1766		2700 Penny Lane, Lincoln		-121.260901		38.875182
+1767		2300 Fiddyment Road, Lincoln		-121.315895		38.859334
+1768		800 Balboa Street, Richmond District, San Francisco		-122.468492		37.777376
+1769		Vrona Avenue, Quincy		-120.942861		39.935874
+1770		1800 32nd Avenue, Sunset District, San Francisco		-122.491327		37.753211
+1771		0 Lopez Avenue, West of Twin Peaks, San Francisco		-122.466901		37.748332
+1772		0 Rockaway Avenue, West of Twin Peaks, San Francisco		-122.456780		37.743492
+1773		0 Majestic Avenue, Ingleside, San Francisco		-122.453361		37.719216
+1774		200 Byxbee Street, Oceanview, San Francisco		-122.468507		37.719215
+1775		100 Farallones Street, Oceanview, San Francisco		-122.456728		37.715132
+1776		1800 25th Avenue, Sunset District, San Francisco		-122.482154		37.752696
+1777		7100 Geary Boulevard, Richmond District, San Francisco		-122.496623		37.777032
+1778		7700 Geary Boulevard, Richmond District, San Francisco		-122.504673		37.779552
+1779		500 John Muir Drive, Lakeshore, San Francisco		-122.491768		37.725047
+1780		1600 McKinnon Avenue, Bayview, San Francisco		-122.390871		37.736915
+1781		1100 Carolina Street, Potrero Hill, San Francisco		-122.398812		37.753886
+1782		Unnamed Road, San Francisco		-123.006848		37.698481
+1783		1500 Mansell Street, Visitacion Valley, San Francisco		-122.418494		37.717308
+1784		Miners Levee, Civic Center, Stockton		-121.298937		37.952464
+1785		900 South Van Buren Street, Seaport, Stockton		-121.290130		37.943984
+1786		1000 South Fresno Avenue, Seaport, Stockton		-121.319050		37.939805
+1787		2200 Christina Avenue, Stockton		-121.327516		37.978197
+1788		4000 North El Dorado Street, Pacific, Stockton		-121.299618		37.985564
+1789		2800 Lewis Street, August, Stockton		-121.256882		37.975839
+1790		1800 California Street, Seaport, Stockton		-121.279386		37.926174
+1791		3000 Dorchester Court, Lakeview, Stockton		-121.356474		38.023593
+1792		200 Mc Kelvey Avenue, Bear Creek, Stockton		-121.317327		38.023914
+1793		200 Coventry Drive, Pacific, Stockton		-121.301750		37.996534
+1794		800 Dupont Drive, Valley Oak, Stockton		-121.301486		38.025344
+1795		7300 North West Lane, Valley Oak, Stockton		-121.294907		38.006642
+1796		10700 East Fairchild Road, Stockton		-121.178209		38.021109
+1797		500 West Lucas Road, Lodi		-121.315965		38.168383
+1798		2000 West Vine Street, Lodi		-121.297987		38.122947
+1799		West Century Boulevard, Lodi		-121.298788		38.107273
+1800		11700 California 4, Stockton		-121.467009		37.911602
+1801		13100 California 88, Lockeford		-121.146784		38.164920
+1802		16500 Liberty Road, Galt		-121.106938		38.244528
+1803		22400 Copperopolis Road, Linden		-121.051111		38.038220
+1804		3800 Mission Drive, Santa Cruz		-121.978590		36.997283
+1805		500 30th Avenue, Opal Cliffs, Santa Cruz		-121.970280		36.964376
+1806		7200 Glen Haven Road, Soquel		-121.918703		37.026297
+1807		7300 Viewpoint Road, Aptos		-121.930618		36.986580
+1808		2100 Wallace Avenue, Aptos		-121.876156		36.980028
+1809		Harkins Slough Lane, Watsonville		-121.810768		36.903044
+1810		4600 Y Street, Southeastern Sacramento, Sacramento		-121.442909		38.552226
+1811		1300 Sonnys Way, Hollister		-121.364410		36.805996
+1812		6500 Holiday Way, Larchmont Village, North Highlands		-121.376752		38.687092
+1813		1300 Travers Lane, Corralitos		-121.805883		37.010871
+1814		Uptown Alley, Central Sacramento, Sacramento		-121.476553		38.562228
+1815		2200 Sierra Boulevard, Walnut View Estates, Sacramento		-121.410230		38.577588
+1816		2400 Larkspur Lane, Sacramento		-121.406716		38.585184
+1817		4600 Ashton Drive, Wilhaggin East, Sacramento		-121.358979		38.581379
+1818		1200 Los Rios Drive, Del Dayo Riviera, Carmichael		-121.341716		38.586199
+1819		3100 Pope Avenue, Sacramento		-121.390749		38.625413
+1820		2900 Glacier Street, Bohemian Village, Sacramento		-121.408372		38.620130
+1821		200 Majestic Lane, North Sacramento, Sacramento		-121.419822		38.642707
+1822		1100 Arcade Boulevard, North Sacramento, Sacramento		-121.442457		38.623073
+1823		2700 Norwood Avenue, North Sacramento, Sacramento		-121.455532		38.616446
+1824		800 Flin Way, Sunnyvale		-122.017370		37.344397
+1825		1500 Dominion Avenue, Sunnyvale		-122.058318		37.343073
+1826		1100 Hollenbeck Avenue, Sunnyvale West, Sunnyvale		-122.041587		37.355535
+1827		800 Hanover Avenue, Sunnyvale West, Sunnyvale		-122.041317		37.364942
+1828		4500 Don Julio Boulevard, Sacramento		-121.359553		38.687069
+1829		1000 Hedera Court, Ponderosa Park, Sunnyvale		-122.002588		37.361297
+1830		300 South Sunnyvale Avenue, Heritage District, Sunnyvale		-122.030838		37.372898
+1831		1100 East Arques Avenue, Sunnyvale		-122.006362		37.380537
+1832		500 Sullivan Drive, Mountain View		-122.061214		37.379454
+1833		500 Logue Avenue, Mountain View		-122.056913		37.398982
+1834		500 Castro Street, Old Mountain View, Mountain View		-122.079773		37.389867
+1835		2700 San Luis Court, Southwestern Sacramento, Sacramento		-121.509745		38.555384
+1836		100 Pinedale Avenue, North Sacramento, Sacramento		-121.446194		38.660869
+1837		6500 Marysville Boulevard, Rio Linda		-121.460840		38.682336
+1838		500 Chesley Avenue, Waverly Park, Mountain View		-122.072083		37.369616
+1839		300 Cleveland Avenue, North Sacramento, Sacramento		-121.473745		38.629728
+1840		4100 Garden Highway, Sacramento		-121.553067		38.644875
+1841		Bryte Bend Road, Sacramento		-121.542423		38.621719
+1842		1500 North Market Boulevard, North Sacramento, Sacramento		-121.492574		38.644116
+1843		5200 East Commerce Way, North Sacramento, Sacramento		-121.526633		38.673467
+1844		5500 Jerry Litell Way, North Sacramento, Sacramento		-121.503091		38.676283
+1845		4600 Garden Highway, North Natomas, Sacramento		-121.571814		38.660444
+1846		2500 7th Avenue, Southeastern Sacramento, Sacramento		-121.482953		38.548227
+1847		1000 Barbara Avenue, Blossom Valley, Mountain View		-122.094501		37.383973
+1848		600 Campbell Avenue, Los Altos		-122.100999		37.371684
+1849		300 South San Antonio Road, North Los Altos, Los Altos		-122.115923		37.375290
+1850		200 Vernal Court, North Los Altos, Los Altos		-122.121451		37.392660
+1851		100 Primrose Way, Duveneck - St. Francis, Palo Alto		-122.133493		37.446637
+1852		0 Ryan Court, Stanford		-122.158091		37.422517
+1853		1400 Club View Terrace, Country Club, Los Altos		-122.098537		37.353856
+1854		5900 Marlin Circle, Western Hills, Carmichael		-121.317306		38.673054
+1855		3400 55th Street, Southeastern Sacramento, Sacramento		-121.435162		38.543039
+1856		2500 Ocala Avenue, East San Jose, San Jose		-121.815021		37.343470
+1857		3000 Angus Way, Antelope		-121.393877		38.714127
+1858		8300 Lonely Hill Way, California Homestead, Antelope		-121.376761		38.720929
+1859		7800 Titan Drive, Antelope		-121.355865		38.712198
+1860		5400 Engle Road, Carmichael		-121.337717		38.631455
+1861		2000 Ansley Court, Shelfield Estates, Carmichael		-121.336117		38.601344
+1862		4300 Hussey Drive, Carmichael		-121.302746		38.642977
+1863		8300 Ascolano Avenue, Rolling Hills Estates, Fair Oaks		-121.259117		38.659410
+1864		7100 Dolan Way, Peterson, Citrus Heights		-121.302367		38.698489
+1865		5700 Greenback Lane, Sacramento		-121.326637		38.681743
+1866		5400 Hackberry Lane, Sacramento		-121.332561		38.666323
+1867		8600 Glenroy Way, Southeastern Sacramento, Sacramento		-121.395156		38.560306
+1868		900 North 9th Street, Central San Jose, San Jose		-121.892079		37.359189
+1869		12900 Tripoli Court, Los Altos Hills		-122.129597		37.353562
+1870		6700 Heathfield Drive, South San Jose, San Jose		-121.855020		37.221189
+1871		1400 Calle Alegre, South San Jose, San Jose		-121.891223		37.228287
+1872		1200 Ashcroft Lane, Cambrian, San Jose		-121.884441		37.244177
+1873		400 Piercy Road, Edenvale, San Jose		-121.767951		37.255246
+1874		4900 Minas Drive, South San Jose, San Jose		-121.868800		37.260516
+1875		Guadalupe River Trail, Edenvale, San Jose		-121.858934		37.252950
+1876		500 Cozy Drive, South San Jose, San Jose		-121.824515		37.230315
+1877		6100 Encinal Drive, Edenvale, San Jose		-121.794289		37.233117
+1878		300 37th Street, East Sacramento, Sacramento		-121.454933		38.579274
+1879		Carriage Path, Central Sacramento, Sacramento		-121.487878		38.572203
+1880		1300 37th Street, East Sacramento, Sacramento		-121.459549		38.568207
+1881		7600 18th Avenue, Southeastern Sacramento, Sacramento		-121.432680		38.535805
+1882		5600 Cazadero Way, Southwestern Sacramento, Sacramento		-121.489870		38.524133
+1883		4200 Arlington Avenue, Southeastern Sacramento, Sacramento		-121.478504		38.533619
+1884		100 North Jackson Avenue, East San Jose, San Jose		-121.846741		37.361920
+1885		800 Point Creek Drive, Alum Rock, San Jose		-121.849838		37.383724
+1886		3600 Madeline Drive, Alum Rock, San Jose		-121.828379		37.374106
+1887		10300 Chrisland Avenue, Alum Rock, San Jose		-121.814907		37.364710
+1888		4100 Golf Drive, Alum Rock, San Jose		-121.819531		37.382692
+1889		3000 Berryessa Road, Alum Rock, San Jose		-121.854830		37.388993
+1890		2200 Charger Drive, North San Jose, San Jose		-121.871996		37.386519
+1891		800 Jury Court, North San Jose, San Jose		-121.892346		37.376342
+1892		2000 Commodore Drive, East San Jose, San Jose		-121.868535		37.372686
+1893		2200 Shade Tree Lane, North San Jose, San Jose		-121.882699		37.399370
+1894		600 Shetland Court, Milpitas		-121.898175		37.441130
+1895		2100 Glenview Drive, Milpitas		-121.870404		37.425633
+1896		9200 Dove Court, Gilroy		-121.629184		37.030269
+1897		1600 Exposition Boulevard, North Sacramento, Sacramento		-121.429292		38.587245
+1898		2100 Surrey Road, North Sacramento, Sacramento		-121.427523		38.603644
+1899		1200 58th Avenue, Southwestern Sacramento, Sacramento		-121.512493		38.501054
+1900		6900 Westmoreland Way, Pocket, Sacramento		-121.524871		38.509262
+1901		7400 Center Parkway, Parkway Estates, Sacramento		-121.448396		38.486463
+1902		White Poplar Way, Central Sacramento, Sacramento		-121.420503		38.561796
+1903		Spring Street, Central San Jose, San Jose		-121.906679		37.340453
+1904		100 East San Fernando Street, Central San Jose, San Jose		-121.883757		37.335032
+1905		700 East Saint James Street, Central San Jose, San Jose		-121.878642		37.347626
+1906		0 South 21st Street, Central San Jose, San Jose		-121.866221		37.345671
+1907		500 Margaret Street, Central San Jose, San Jose		-121.875796		37.330111
+1908		400 Vista Ridge Drive, Milpitas		-121.847235		37.430929
+1909		Agua Caliente Trail, Milpitas		-121.865941		37.458622
+1910		2200 Royal Drive, Santa Clara		-121.964569		37.359550
+1911		3400 Flora Vista Avenue, Santa Clara		-121.991330		37.360983
+1912		900 Pepper Tree Lane, Santa Clara		-121.986023		37.342217
+1913		1200 Washington Street, Santa Clara		-121.946463		37.351020
+1914		200 Westridge Drive, Central San Jose, Santa Clara		-121.956294		37.330324
+1915		2600 Estella Drive, Santa Clara		-121.971971		37.331031
+1916		1200 Collins Lane, West San Jose, San Jose		-121.991871		37.301764
+1917		4900 Moorpark Avenue, Strawberry Park, San Jose		-121.986179		37.313894
+1918		3700 Rhoda Drive, West San Jose, San Jose		-121.974764		37.303598
+1919		300 Mac Arthur Avenue, Central San Jose, San Jose		-121.931153		37.321983
+1920		1800 Fruitdale Avenue, Central San Jose, San Jose		-121.925143		37.312953
+1921		1700 Blackford Lane, Willow Glen, San Jose		-121.920654		37.298569
+1922		1800 Hurst Avenue, Willow Glen, San Jose		-121.915770		37.289879
+1923		100 North Midway Street, Pruneyard / Dry Creek, Campbell		-121.926982		37.286960
+1924		2200 Curtner Avenue, Campbell		-121.938618		37.271200
+1925		4200 Leigh Avenue, Cambrian, San Jose		-121.923186		37.256191
+1926		3800 Willowood Drive, South San Jose, San Jose		-121.898504		37.263750
+1927		0 Almaden Plaza Way, South San Jose, San Jose		-121.885597		37.251225
+1928		1300 Bryan Avenue, South San Jose, San Jose		-121.884512		37.268192
+1929		800 Monica Lane, Campbell		-121.945703		37.302469
+1930		0 North 1st Street, Downtown, Campbell		-121.949436		37.275326
+1931		1200 Latimer Avenue, Campbell		-121.970698		37.289545
+1932		600 Laura Drive, San Tomas, Campbell		-121.963202		37.276103
+1933		16300 Los Gatos Almaden Road, Los Gatos		-121.954589		37.241926
+1934		16700 Madrone Avenue, Los Gatos		-121.988473		37.218858
+1935		100 Arroyo Grande Way, Los Gatos		-121.967420		37.248335
+1936		14400 Chester Avenue, Saratoga		-122.005593		37.259506
+1937		19500 Dorchester Drive, Golden Triangle, Saratoga		-122.017395		37.288622
+1938		3300 Brodie Drive, South San Jose, San Jose		-121.821736		37.290505
+1939		2500 Loomis Drive, South San Jose, San Jose		-121.833551		37.311458
+1940		700 Overland Way, South San Jose, San Jose		-121.837284		37.302079
+1941		4400 Bella Madeira Lane, Alum Rock, San Jose		-121.769699		37.353151
+1942		3500 Slopeview Drive, East San Jose, San Jose		-121.774261		37.332043
+1943		4200 Chaboya Hills Court, Evergreen, San Jose		-121.763982		37.326431
+1944		700 Girard Street, Visitacion Valley, San Francisco		-122.402249		37.721503
+1945		5300 Canyon Hills Lane, East San Jose, San Jose		-121.772226		37.282141
+1946		1800 Loch Ness Way, Evergreen, San Jose		-121.804682		37.306911
+1947		21800 Vía Regina, Saratoga		-122.058203		37.272075
+1948		21700 Rainbow Drive, Cupertino		-122.063853		37.297992
+1949		7100 Rainbow Drive, West San Jose, San Jose		-122.029388		37.302764
+1950		1500 June Avenue, Alum Rock, San Jose		-121.840093		37.333023
+1951		400 Delta Street, Visitacion Valley, San Francisco		-122.412392		37.713140
+1952		200 Parmer Avenue, Alum Rock, San Jose		-121.853121		37.344961
+1953		2500 Troy Road, Emigrant Gap		-120.374468		39.235251
+1954		12000 West Ripon Road, Ripon		-121.156167		37.727044
+1955		Liccicitos Road, Moss Beach		-122.494314		37.541794
+1956		7700 Guenivere Way, Larchmont Northridge, Citrus Heights		-121.277513		38.671990
+1957		7600 Colony Way, Citrus Heights		-121.283947		38.716329
+1958		6400 Gingham Court, Summerhill, Orangevale		-121.255321		38.686965
+1959		8600 Indian Hill Court, Orangevale		-121.235936		38.700376
+1960		7600 Granite Avenue, Orangevale		-121.205078		38.703254
+1961		300 Flower Drive, Willow Creek Estates, Folsom		-121.151905		38.681334
+1962		200 Mormon Street, Folsom		-121.174599		38.675317
+1963		Folsom Parkway Rail Trail, Folsom		-121.182312		38.651657
+1964		1100 Souza Way, The Parkway, Folsom		-121.124915		38.677041
+1965		6200 Frazier Lake Road, Gilroy		-121.516292		37.009689
+1966		300 Ioof Avenue, Gilroy		-121.571332		37.015594
+1967		400 Upper Park Road, Santa Cruz		-121.996635		36.998087
+1968		700 Meder Street, Santa Cruz		-122.064562		36.974169
+1969		700 Broadway, Seabright, Santa Cruz		-122.016050		36.974180
+1970		100 Jenne Street, Santa Cruz		-122.027041		36.966848
+1971		500 Vivienne Drive, Watsonville		-121.742121		36.921761
+1972		700 West Beach Street, Watsonville		-121.770409		36.906196
+1973		300 Fayette Way, Willow Creek Estates South, Folsom		-121.120385		38.667968
+1974		11600 Melones Circle, Gold River		-121.247709		38.630069
+1975		11800 Cobble Brook Drive, Anatolia Village, Rancho Cordova		-121.236276		38.552052
+1976		8200 Chester Drive, Sacramento		-121.297161		38.470921
+1977		7800 Tigerwoods Drive, Wildhawk, Sacramento		-121.316776		38.468199
+1978		1700 Freedom Boulevard, Freedom		-121.769572		36.931105
+1979		300 Buena Vista Drive, Watsonville		-121.792383		36.938096
+1980		600 Big Creek Road, Davenport		-122.160476		37.087446
+1981		600 Crest Drive, Ben Lomond		-122.087213		37.078625
+1982		100 Monte Verde Drive, Vacaville		-122.001246		38.352440
+1983		12100 Kirkwood Road, Herald		-121.133739		38.293797
+1984		13400 Cherokee Lane, Galt		-121.271069		38.261650
+1985		9700 Ellsmere Way, Elk Grove		-121.428810		38.402597
+1986		6700 Branca Way, Elk Grove		-121.428448		38.387893
+1987		8100 Laguna Brook Way, Elk Grove		-121.408108		38.429392
+1988		1600 Sausalito Drive, Hollister		-121.375427		36.831930
+1989		11200 Visitar Street, Felton		-122.036779		37.098060
+1990		7700 Pitt School Road, Dixon		-121.847926		38.442692
+1991		Ragsdale Street, Fairfield		-121.939671		38.260105
+1992		13700 Long Ridge Road, Los Gatos		-121.899200		37.084458
+1993		700 Village Drive, Suisun City		-122.031033		38.247292
+1994		800 Bobolink Court, Suisun City		-121.999778		38.248518
+1995		7600 Pleasants Valley Road, Vacaville		-122.035863		38.426245
+1996		200 Riverview Drive, Vallejo		-122.233433		38.136331
+1997		17200 Gehricke Road, Sonoma		-122.439668		38.320688
+1998		2300 Grove Street, Sonoma		-122.527814		38.308180
+1999		Road 107A, West Sacramento		-121.604370		38.694925
+2000		200 Genoa Court, Vallejo		-122.227662		38.148419
+2001		900 Telford Lane, Petaluma		-122.641207		38.265881
+2002		2600 I Street, Petaluma		-122.630512		38.202458
+2003		800 West Street, Petaluma		-122.654590		38.243310
+2004		9100 California 116, Forestville		-122.905677		38.478114
+2005		25400 County Road 29, Winters		-122.046566		38.576643
+2006		Estero Trail, Inverness		-122.808316		38.048855
+2007		7700 Walsh Lane, Smartsville		-121.421576		39.150014
+2008		3100 Calistoga Road, Santa Rosa		-122.642779		38.518446
+2009		21600 Highland Terrace, Monte Rio		-123.012527		38.478045
+2010		Pepperwood Preserve Road, Santa Rosa		-122.741601		38.579655
+2011		Mc Near Road, Healdsburg		-122.826754		38.616148
+2012		100 1st Street, Benicia		-122.177745		38.058994
+2013		300 Southport Way, Vallejo		-122.194526		38.105312
+2014		1600 Salmon Creek Road, Occidental		-122.987737		38.377329
+2015		0 Cantera Run, Carmel-by-the-Sea		-121.879663		36.495520
+2016		200 Raymond Drive, Benicia		-122.166765		38.062509
+2017		Unnamed Road, Chualar		-121.384006		36.573685
+2018		6500 Vivian Road, Modesto		-121.081012		37.545072
+2019		2600 Harden Avenue, Corning		-122.105874		39.901166
+2020		200 Kirkland Ranch Road, American Canyon		-122.221065		38.234600
+2021		4600 Saint Helena Highway, Napa		-122.351021		38.378088
+2022		200 Clearview Drive, Vallejo		-122.217463		38.072369
+2023		0 Midway Street, Vallejo		-122.243671		38.088829
+2024		300 Georgia Street, Vallejo		-122.258202		38.101804
+2025		1400 South Whitehall Lane, Saint Helena		-122.472707		38.475511
+2026		3700 Old Lawley Toll Road, Calistoga		-122.544918		38.606871
+2027		1400 El Dorado Street, Vallejo		-122.250243		38.112155
+2028		0 Johnson Lane, Vallejo		-122.267777		38.117347
+2029		4900 Ridgefield Circle, Fairfield		-122.141055		38.156966
+2030		14800 South Ponderosa Way, Grass Valley		-121.110939		39.169229
+2031		17600 Buttercup Circle, Sonora		-120.322731		37.928010
+2032		1700 Seattle Street, Modesto		-121.007950		37.601953
+2033		1800 Crestmoor Court, Ceres		-120.966034		37.604479
+2034		1000 Winepress Lane, Modesto		-120.966709		37.616062
+2035		22000 Barnett Road, Waterford		-120.639189		37.684822
+2036		2800 Faith Home Road, Ceres		-120.919430		37.603401
+2037		1000 Sperry Avenue, Patterson		-121.144944		37.468321
+2038		5700 East Monte Vista Avenue, Denair		-120.789480		37.512163
+2039		4000 West Harding Road, Turlock		-120.861908		37.471562
+2040		1800 Brier Road, Turlock		-120.834196		37.491299
+2041		1700 East Tuolumne Road, Turlock		-120.834965		37.513352
+2042		900 Oakview Drive, Yuba City		-121.621379		39.156982
+2043		300 Bridge Street, Yuba City		-121.612047		39.134576
+2044		0 Wilbur Avenue, Yuba City		-121.612809		39.121563
+2045		1600 Cherry Street, Yuba City		-121.656982		39.119812
+2046		2200 South George Washington Boulevard, Yuba City		-121.655409		39.099124
+2047		2300 Eckhart Road, Yuba City		-121.637071		39.167974
+2048		6100 Broadway, Live Oak		-121.677019		39.234479
+2049		2600 Goodwin Avenue, Penngrove		-122.703153		38.314878
+2050		8800 Poplar Avenue, Cotati		-122.707064		38.321130
+2051		5600 State Farm Drive, Rohnert Park		-122.699184		38.357485
+2052		7100 Camino Colegio, Rohnert Park		-122.684873		38.338497
+2053		1500 Marlin Place, Rohnert Park		-122.681665		38.327295
+2054		California 99 Frontage Road, Pleasant Grove		-121.538721		38.884144
+2055		Sour Grass Road, Corning		-122.214106		39.921591
+2056		600 Palamino Drive, Santa Rosa		-122.731775		38.439169
+2057		4700 Woodview Drive, Fairway View Estates Homeowners Association, Santa Rosa		-122.624679		38.414413
+2058		1300 Lawndale Road, Kenwood		-122.598762		38.421796
+2059		5000 Morocco Drive, Santa Rosa		-122.655979		38.463635
+2060		5000 Flightline Drive, Santa Rosa		-122.775521		38.498160
+2061		2600 Pomo Trail, Santa Rosa		-122.749244		38.457172
+2062		3100 Piner Road, Santa Rosa		-122.803497		38.474622
+2063		400 Country Club Drive, Santa Rosa		-122.799205		38.430583
+2064		2000 Burbank Avenue, Southwest Santa Rosa, Santa Rosa		-122.734254		38.418665
+2065		1600 Ludwig Avenue, Santa Rosa		-122.775297		38.390580
+2066		1000 El Centro Avenue, Napa		-122.304409		38.335672
+2067		3100 Linda Vista Avenue, Napa		-122.319113		38.315097
+2068		5900 Fredricks Road, Sebastopol		-122.801779		38.383818
+2069		2400 Vine Hill Drive, Napa		-122.331540		38.332517
+2070		1100 Thompson Avenue, Napa		-122.326135		38.295138
+2071		5500 Volkerts Road, Sebastopol		-122.794675		38.340043
+2072		10600 Moonshine Road, Sebastopol		-122.881187		38.343488
+2073		Kelly Road, Cloverdale		-123.016771		38.809442
+2074		1500 Green Island Road, American Canyon		-122.280449		38.203429
+2075		15900 28 Mile Road, Oakdale		-120.795008		37.840530
+2076		5400 Stoddard Road, Modesto		-121.058461		37.737440
+2077		2500 Stone Crop Lane, Modesto		-120.949070		37.659617
+2078		1800 Park Street, Saint Helena		-122.478840		38.507866
+2079		16900 Lawrence Way, Grass Valley		-121.051693		39.120025
+2080		10700 Shady South Lane, Grass Valley		-121.098936		39.075290
+2081		200 Arcadia Drive, Grass Valley		-121.069833		39.236110
+2082		1600 McKinley Avenue, Woodland		-121.766356		38.659532
+2083		11500 East Bennett Road, Grass Valley		-121.030470		39.215683
+2084		10400 Teton Way, Truckee		-120.261070		39.337370
+2085		8000 Estates Drive, Truckee		-120.179978		39.343211
+2086		Homestead Way, Woodland		-121.740738		38.671193
+2087		800 Lemon Street, Marysville		-121.594081		39.148515
+2088		5200 Feather River Boulevard, Olivehurst		-121.587581		39.106947
+2089		1700 Griego Avenue, Olivehurst		-121.544703		39.087267
+2090		2100 California 65, Wheatland		-121.404566		39.034638
+2091		1000 West 19th Street, Merced		-120.494411		37.308784
+2092		300 West 24th Street, Merced		-120.477447		37.305433
+2093		2400 Piedmont Drive, Merced		-120.451755		37.305483
+2094		1100 East Gerard Avenue, Merced		-120.478371		37.282221
+2095		3900 Lake Road, Merced		-120.419841		37.347948
+2096		Reese Road, Le Grand		-120.353936		37.380364
+2097		14400 Santa Fe Grade, Los Banos		-120.822425		37.061707
+2098		2100 Wood Court, Dos Palos		-120.621570		36.979415
+2099		Tower Road, Merced		-120.423356		37.293953
+2100		San Juan Grade Road, Salinas		-121.622863		36.729860
+2101		1600 Cambrian Drive, Salinas		-121.620767		36.714424
+2102		700 Saint Charles Way, Salinas		-121.633039		36.682304
+2103		700 Kilbreth Avenue, Salinas		-121.609541		36.687409
+2104		0 West Gabilan Street, Salinas		-121.655782		36.675390
+2105		300 Olive Avenue, Novato		-122.540259		38.104853
+2106		1000 Madison Lane, Salinas		-121.669307		36.688958
+2107		200 Jensen Road, Moss Landing		-121.768617		36.875215
+2108		17200 Tamara Lane, Royal Oaks, Prunedale		-121.693504		36.844433
+2109		18000 Lillian Lane, Prunedale		-121.675194		36.816598
+2110		2700 Ribera Road, Carmel-by-the-Sea		-121.918775		36.551278
+2111		200 Locust Street, Pacific Grove		-121.913836		36.619224
+2112		1100 Jewell Avenue, Pacific Grove		-121.929965		36.625444
+2113		Cabrillo Highway, Marina		-121.800029		36.711201
+2114		0 Black Oak Lane, Novato		-122.584460		38.097185
+2115		100 Sequoia Glen Lane, Novato		-122.560679		38.089919
+2116		0 Waterbury Lane, Novato		-122.518935		38.055286
+2117		0 Oxford Drive, San Rafael		-122.496407		38.003640
+2118		2500 Lucas Valley Road, San Rafael		-122.589790		38.035371
+2119		300 California Avenue, San Rafael		-122.550286		37.984192
+2120		0 Reservoir Road, San Rafael		-122.537231		37.969948
+2121		2900 Kerner Boulevard, San Rafael		-122.501421		37.960072
+2122		900 Monterey Salinas Highway, Salinas		-121.818813		36.576487
+2123		0 Fern Street, Monterey		-121.855713		36.594656
+2124		3700 Divarty Street, Seaside		-121.798244		36.653033
+2125		7200 Highway, Moss Landing		-121.749575		36.837087
+2126		300 Soscol Avenue, Napa		-122.274750		38.288226
+2127		0 Hamilton Drive, Mill Valley		-122.522474		37.901559
+2128		3000 Promenade Street, West Sacramento		-121.572596		38.545705
+2129		4200 Jefferson Boulevard, West Sacramento		-121.556289		38.512867
+2130		300 Bolinas Road, Fairfax		-122.593319		37.972497
+2131		700 Vía Casitas, Greenbrae, Larkspur		-122.530657		37.945496
+2132		300 Vista Grande, Greenbrae, Kentfield		-122.522087		37.950875
+2133		600 Manzanita Avenue, Corte Madera		-122.524204		37.925107
+2134		300 San Rafael Avenue, Belvedere, Belvedere Tiburon		-122.463675		37.874548
+2135		0 Fairway Drive, Mill Valley		-122.541224		37.912869
+2136		300 Carrera Drive, Mill Valley		-122.530260		37.870966
+2137		0 West Harbor Drive, Sausalito		-122.500051		37.866830
+2138		500 South Whipple Street, Fort Bragg		-123.800327		39.429474
+2139		0 Lookout Drive, Ukiah		-123.232535		39.144767
+2140		17000 Bloss Avenue, Delhi		-120.785491		37.406677
+2141		20300 Lyons Bald Mountain Road, Sonora		-120.373715		37.994806
+2142		600 West Olive Avenue, Merced		-120.478735		37.318572
+2143		3600 Bronco Lane, Atwater		-120.555571		37.327396
+2144		300 Fairview Way, Lakeport		-122.915693		39.050410
+2145		500 Downing Avenue, Central San Jose, San Jose		-121.935687		37.305973
+2146		200 Union Avenue, Campbell		-121.939506		37.280421
+2147		1400 Clemence Avenue, South San Jose, San Jose		-121.851525		37.327289
+2148		2900 McLaughlin Avenue, South San Jose, San Jose		-121.831111		37.305611
+2149		2200 Vista Verde Drive, East San Jose, San Jose		-121.797473		37.341762
+2150		3300 San Rivas Drive, Evergreen, San Jose		-121.792499		37.334028
+2151		6000 Running Springs Road, Evergreen, San Jose		-121.743600		37.284015
+2152		600 Lenfest Road, Alum Rock, San Jose		-121.867823		37.358593
+2153		3300 Holly Drive, Alum Rock, San Jose		-121.835741		37.382815
+2154		4200 Sierra Road, Berryessa, San Jose		-121.827585		37.412804
+2155		3100 North Shoreline Boulevard, Mountain View		-122.091441		37.437321
+2156		Serres Lane, Sonoma		-122.491259		38.321641
+2157		6200 Smith Avenue, Newark		-122.018102		37.528855
+2158		17000 Park Avenue, Sonoma		-122.467647		38.342835
+2159		Unnamed Road, Santa Rosa		-122.556295		38.467315
+2160		6900 Montecito Boulevard, Santa Rosa		-122.664158		38.478140
+2161		300 Westbrook Drive, Santa Rosa		-122.734268		38.434857
+2162		7500 Oxford Circle, Dublin		-121.913950		37.723531
+2163		1700 Bollinger Road, Sebastopol		-122.828784		38.384348
+2164		6200 Lockwood Drive, Windsor		-122.780612		38.533485
+2165		700 Claratina Avenue, Modesto		-120.986282		37.699172
+2166		3300 Blue Gum Avenue, Modesto		-121.048947		37.662299
+2167		3100 Tuxford Lane, Modesto		-120.985045		37.683583
+2168		300 Kimble Street, Modesto		-120.993194		37.650938
+2169		1000 Liege Terrace, Morse Park, Sunnyvale		-122.021904		37.401541
+2170		2500 Junction Avenue, North San Jose, San Jose		-121.923353		37.390913
+2171		1400 Airport Boulevard, North San Jose, San Jose		-121.924413		37.365580
+2172		3900 West Rincon Avenue, West San Jose, Campbell		-121.971074		37.281902
+2173		4900 Elester Drive, Cambrian, San Jose		-121.937710		37.246951
+2174		7600 Terrace Drive, El Cerrito		-122.293843		37.913957
+2175		1600 Victoria Drive, Modesto		-121.023224		37.616998
+2176		1500 Ridgewood Road, Pleasanton		-121.882963		37.671834
+2177		4700 2nd Street, Empire		-120.917382		37.641838
+2178		1900 5th Street, Ceres		-120.953264		37.603019
+2179		500 Hannah Drive, Patterson		-121.126089		37.474289
+2180		1200 Highland Avenue, Yuba City		-121.629961		39.118394
+2181		1400 Queens Avenue, Yuba City		-121.639136		39.153600
+2182		26900 Vina Road, Vina		-122.087888		39.983566
+2183		3100 Royal Drive, Cameron Park		-120.986812		38.663038
+2184		1000 Serpentine Lane, Pleasanton		-121.869697		37.671559
+2185		700 Reuter Drive, West Sacramento		-121.519646		38.591645
+2186		1200 Rincon Avenue, Livermore		-121.784370		37.691132
+2187		4200 Middle Harbor Road, Oakland		-122.316559		37.803922
+2188		7300 French Bar Road, Jackson		-120.752924		38.323387
+2189		700 Luther Drive, Paradise		-121.644123		39.757082
+2190		0 Butte Woods Drive, Oroville		-121.506479		39.489144
+2191		9000 Hogan Dam Road, Valley Springs		-120.759492		38.101418
+2192		3100 Briones Valley Road, Brentwood		-121.740169		37.894763
+2193		0 East Lake Drive, Antioch		-121.787517		38.009120
+2194		3100 Milner Road, Antioch		-121.815509		37.986663
+2195		1400 Mondana Place, Pittsburg		-121.864486		38.004042
+2196		Unnamed Road, Pittsburg		-121.925313		37.993632
+2197		1700 Monsanto Way, Concord		-122.027721		38.034521
+2198		0 Bartlett Court, Pleasant Hill		-122.077495		37.960524
+2199		1900 Hughes Drive, Monument Corridor, Concord		-122.048331		37.958161
+2200		2500 Cedro Lane, Ygnacio Valley, Walnut Creek		-122.018796		37.919342
+2201		Mezue Trail, Richmond		-122.291190		37.943403
+2202		Bollinger Estates Court, San Ramon		-122.022285		37.809100
+2203		Spengler Trail, Lafayette		-122.120675		37.930154
+2204		2600 Saklan Indian Drive, Rossmoor, Walnut Creek		-122.064766		37.864567
+2205		0 Ashbrook Place, Corliss, Moraga		-122.140156		37.855361
+2206		600 Sunflower Court, San Ramon		-121.907984		37.788829
+2207		C Street, Rodeo		-122.256611		38.043270
+2208		100 South Wildwood, Hercules		-122.278647		38.010340
+2209		2900 Barkley Drive, Fairmede - Hilltop, Richmond		-122.331036		37.971847
+2210		200 South 17th Street, Coronado, Richmond		-122.357276		37.929098
+2211		4500 Blanchard Road, Placerville		-120.808944		38.693365
+2212		500 63rd Street, Upper Telegraph, Oakland		-122.265884		37.848445
+2213		800 40th Street, Longfellow, Oakland		-122.273573		37.831222
+2214		1900 Melvin Road, Oakmore, Oakland		-122.208582		37.811888
+2215		1500 East 31st Street, Tuxedo, Oakland		-122.230610		37.798070
+2216		2800 Morgan Avenue, Lincoln Highlands, Oakland		-122.200851		37.802896
+2217		5600 Holway Street, Oakland		-122.197171		37.769618
+2218		5300 Underwood Avenue, Mills College, Oakland		-122.186452		37.781681
+2219		2500 Church Street, Bancroft Business, Oakland		-122.182966		37.766002
+2220		9400 Dunbar Drive, Elmhurst Park, Oakland		-122.179267		37.745421
+2221		15900 Glen Una Drive, Los Gatos		-122.030776		37.236846
+2222		Junipero Serra Freeway, Cupertino		-122.055565		37.334644
+2223		1900 Scott Lane, Woodland Acres - The Highlands, Los Altos		-122.080500		37.339381
+2224		600 Arlington Avenue, Berkeley Hills, Berkeley		-122.276124		37.898044
+2225		200 Greenbank Avenue, Piedmont		-122.241910		37.824219
+2226		1800 Cedar Street, Upper B Street, Hayward		-122.066397		37.681115
+2227		200 Willow Avenue, Hayward		-122.101444		37.674791
+2228		24300 Israel Court, Hayward		-122.065329		37.671621
+2229		0 Kirby Place, Crescent Park, Palo Alto		-122.149600		37.452190
+2230		4200 North Livermore Avenue, Livermore		-121.765547		37.724462
+2231		100 Garden Lane, Millbrae		-122.393935		37.607220
+2232		Loma Almaden Road, Los Gatos		-121.930665		37.167330
+2233		5800 Hillview Avenue, South San Jose, San Jose		-121.866727		37.245678
+2234		15200 Watsonville Road, Morgan Hill		-121.637325		37.098985
+2235		Harvard Drive, Dixon		-121.823728		38.450750
+2236		San Francisco Bay Trail, Hayward		-122.112489		37.611213
+2237		43300 Jerome Avenue, Mission San Jose, Fremont		-121.929252		37.531065
+2238		0 Cordevalle Club Drive, San Martin		-121.605870		37.063846
+2239		1900 Ballybunion Court, Gilroy		-121.590069		36.981288
+2240		600 Campus Drive, Stanford		-122.164900		37.428082
+2241		1400 McAllister Way, Santa Cruz		-122.061844		36.956252
+2242		700 Boulder Brook Drive, Boulder Creek		-122.138051		37.133393
+2243		200 Vía Novella, Aptos		-121.878409		36.956986
+2244		0 Crystal Springs Terrace, Hillsborough Park, Hillsborough		-122.346899		37.545708
+2245		1400 Crestwood Court, South San Mateo, San Mateo		-122.323218		37.523231
+2246		900 Baker Way, East San Mateo, San Mateo		-122.288602		37.562597
+2247		J. Arthur Younger Freeway, Foster City		-122.276124		37.558672
+2248		1600 Notre Dame Avenue, Belmont		-122.287636		37.520458
+2249		2000 Arroyo Avenue, San Carlos		-122.263778		37.495810
+2250		Hassler Trail, Redwood City		-122.281538		37.483743
+2251		2100 Camino De Los Robles, University Heights, Menlo Park		-122.203537		37.431372
+2252		Elmira Road, Vacaville		-121.967263		38.353138
+2253		7000 Highway 12, Rio Vista		-121.783893		38.186095
+2254		1200 Farragut Circle, Davis		-121.723385		38.540710
+2255		300 West Woodland Avenue, Woodland		-121.788991		38.689464
+2256		5900 Lindhurst Avenue, Marysville		-121.571421		39.128560
+2257		800 Chamise Drive, Salinas		-121.605906		36.697098
+2258		900 Petra Lane, Pacific Grove		-121.926055		36.612221
+2259		Fishnet Road, Monterey		-121.886695		36.591242
+2260		22000 Avenue 24, Chowchilla		-120.126548		37.104334
+2261		21300 Avenue 16, Madera		-120.155856		36.988387
+2262		0 Nova Lane, Novato		-122.590902		38.115877
+2263		0 Snowden Lane, Oak Manor, Fairfax		-122.602197		38.006388
+2264		900 Mazzoni Street, Ukiah		-123.201471		39.154759
+2265		Toyon, Salinas		-121.674120		36.585523
+2266		4700 Shaw Avenue, Winton		-120.572063		37.432805
+2267		2000 Wardrobe Avenue, Merced		-120.513550		37.297525
+2268		8600 Santa Rita Grade, Dos Palos		-120.646809		37.065255
+2269		500 Elder Avenue, Sand City		-121.849184		36.614245
+2270		Trail 91, Seaside		-121.754569		36.617045
+2271		Unnamed Road, Salinas		-121.774049		36.703574
+2272		600 Montecito Boulevard, Napa		-122.271967		38.312094
+2273		600 Dowdell Lane, Saint Helena		-122.456940		38.503257
+2274		10700 Holyrood Lane, Grass Valley		-121.082528		39.209598
+2275		0 Potomac Drive, Antioch		-121.847540		38.002309
+2276		700 Rose Creek Court, Sun City, Roseville		-121.346088		38.778009
+2277		3500 Farron Street, Rocklin		-121.231741		38.794364
+2278		5700 Cobblestone Drive, Rocklin		-121.261074		38.804882
+2279		900 East Avenue, Downtown Lincoln, Lincoln		-121.285762		38.896462
+2280		22100 Smuthers Ravine Road, Colfax		-120.952637		39.067535
+2281		0 Corte Palos Verdes, Tiburon, Belvedere Tiburon		-122.492381		37.906565
+2282		9200 Lakepoint Drive, Elk Grove		-121.475131		38.422891
+2283		3400 40th Street, Southeastern Sacramento, Sacramento		-121.459819		38.542834
+2284		800 West Cove Way, Southwestern Sacramento, Sacramento		-121.525499		38.481200
+2285		7400 29th Street, Southwestern Sacramento, Sacramento		-121.476525		38.490052
+2286		6600 63rd Street, Southeastern Sacramento, Sacramento		-121.423800		38.505445
+2287		6000 Seyferth Way, Southwestern Sacramento, Sacramento		-121.441389		38.478949
+2288		8200 Alpine Avenue, Southeastern Sacramento, Sacramento		-121.398627		38.543764
+2289		4500 Edison Avenue, Sacramento		-121.359943		38.637852
+2290		2500 New Market Drive, North Sacramento, Sacramento		-121.520723		38.663542
+2291		4000 Heather Hill Way, Scotland, North Highlands		-121.377418		38.679969
+2292		7900 Ivy Hill Way, Antelope Ranch, Antelope		-121.379338		38.712452
+2293		14100 White Rock Road, Folsom		-121.134935		38.641839
+2294		11100 Morgan River Court, Larchmont Sunriver, Rancho Cordova		-121.277505		38.622012
+2295		10400 Abington Way, Cordova Towne, Rancho Cordova		-121.304807		38.574305
+2296		8700 Sturgeon Way, Glenbrook East, Sacramento		-121.371176		38.562895
+2297		5400 Marconi Avenue, Carmichael		-121.337537		38.616513
+2298		6300 Saint James Drive, Barrett Meadows, Carmichael		-121.316837		38.657315
+2299		8100 Winding Way, Fair Oaks		-121.260715		38.645067
+2300		8000 Peppertree Way, Summerplace, Citrus Heights		-121.318562		38.711622
+2301		9000 Central Avenue, Orangevale		-121.208403		38.685005
+2302		9400 Winding River Way, Elk Grove		-121.345445		38.416793
+2303		600 Vorden Road, Walnut Grove		-121.551436		38.254211
+2304		700 Gail Avenue, Sunnyvale		-122.020330		37.362053
+2305		1900 Hackett Avenue, Mountain View		-122.092442		37.406181
+2306		3900 Five Mile Drive, Lincoln Village West, Stockton		-121.362978		38.009310
+2307		6500 Addition Road, Newark		-122.004385		37.507969
+2308		300 Fremont Street, South of Market, San Francisco		-122.393696		37.787289
+2309		1700 Monte Diablo Avenue, Pacific, Stockton		-121.330324		37.958135
+2310		2700 East 8th Street, Park, Stockton		-121.244409		37.936570
+2311		2700 Larkin Street, Russian Hill, San Francisco		-122.422864		37.805269
+2312		2100 Webster Street, Pacific Heights, San Francisco		-122.433327		37.791008
+2313		1300 Webster Street, Western Addition, San Francisco		-122.429552		37.783447
+2314		300 Waller Street, Western Addition, San Francisco		-122.429281		37.771806
+2315		0 Duboce Avenue, South of Market, San Francisco		-122.420357		37.769630
+2316		2800 Folsom Street, Mission District, San Francisco		-122.413962		37.751279
+2317		100 Coleridge Street, Bernal Heights, San Francisco		-122.420684		37.743632
+2318		100 Santa Rosa Avenue, Outer Mission, San Francisco		-122.436198		37.728285
+2319		300 Lisbon Street, Excelsior, San Francisco		-122.432352		37.723291
+2320		300 Argonaut Avenue, Visitacion Valley, San Francisco		-122.416388		37.709426
+2321		400 Irving Street, Inner Sunset, San Francisco		-122.459834		37.763834
+2322		100 Eastwood Drive, West of Twin Peaks, San Francisco		-122.458022		37.728479
+2323		2600 40th Avenue, Sunset District, San Francisco		-122.497499		37.742462
+2324		1100 El Monte Street, Pacific, Stockton		-121.325900		37.983188
+2325		Unnamed Road, Stockton		-121.382103		38.027432
+2326		5500 Claremont Avenue, Lakeview, Stockton		-121.307438		38.002349
+2327		2800 White Lane, Stockton		-121.219988		37.989364
+2328		19200 Murphy Road, Ripon		-121.106553		37.771351
+2329		21000 Mountain House Parkway, Tracy		-121.475717		37.784847
+2330		0 Peoria Street, Crocker, Daly City		-122.452989		37.705035
+2331		Old Chico Canyon Road, Chico		-121.628058		39.920715
+2332		2700 Adeline Street, South Berkeley, Berkeley		-122.268127		37.859559
+2333		9500 Shumway Drive, Arden Bluff, Orangevale		-121.199111		38.668199
+2334		8600 Orr Road, Galt		-121.372850		38.269807
+2335		700 Rosedale Avenue, Capitola		-121.945615		36.980228
+2336		1300 California Drive, Vacaville		-121.983256		38.324327
+2337		200 The Alameda, San Anselmo		-122.585525		38.005222
+2338		21600 3rd Avenue, Stevinson		-120.909624		37.335055
+2339		Frenchmans Creek Road, Half Moon Bay		-122.415605		37.535932
+2340		0 Mason Street, Tenderloin, San Francisco		-122.411034		37.783069
+2341		2800 Fern Flat Road, Aptos		-121.860787		37.026565
+2342		4200 Maybelle Avenue, Redwood Heights, Oakland		-122.189933		37.794031
+2343		West Point Road, Bayview, San Francisco		-122.376106		37.735049
+2344		600 3rd Avenue, Richmond District, San Francisco		-122.461523		37.777791
+2345		1400 Howard Avenue, Downtown, Burlingame		-122.349706		37.576660
+2346		0 Glen Avenue, Piedmont Avenue, Oakland		-122.251741		37.826369
+2347		1500 3rd Avenue, East Lake, Oakland		-122.255505		37.798448
+2348		7700 Sunkist Drive, Eastmont Hills, Oakland		-122.166257		37.771239
+2349		1600 Ward Street, South Berkeley, Berkeley		-122.276746		37.859334
+2350		400 Central Avenue, West Alameda, Alameda		-122.284479		37.771494
+2351		4700 Sorani Way, Castro Valley		-122.085033		37.722475
+2352		600 Shasta Street, Staumbaugh Heller, Redwood City		-122.224238		37.479299
+2353		27600 Melbourne Avenue, Glen Eden, Hayward		-122.089507		37.627894
+2354		400 School Street, Niles, Fremont		-121.987998		37.577988
+2355		38600 Cherry Lane, Cherry - Guardino, Fremont		-121.974915		37.563715
+2356		6200 Madigan Road, Dublin		-121.890415		37.719656
+2357		6500 Doolan Road, Livermore		-121.840057		37.725979
+2358		1500 De Leon Way, Livermore		-121.776592		37.672080
+2359		1200 Oak Ridge Road, Pinole		-122.292539		38.004487
+2360		13400 Roan Court, Sutter Creek		-120.734213		38.402526
+2361		4800 Kenneth Avenue, Greenwood Highlands, Carmichael		-121.351299		38.614463
+2362		100 Greentree Way, Milpitas		-121.900027		37.407964
+2363		18800 Barnhart Avenue, Rancho Rinconada, Cupertino		-122.001809		37.316302
+2364		1800 Buena Vista Road, Hollister		-121.425064		36.859825
+2365		3200 Dry Creek Road, Oroville		-121.584595		39.693433
+2366		Gridley Road, Colusa		-121.971271		39.277952
+2367		0 Los Norrabos, El Toyonal, Orinda		-122.222140		37.886595
+2368		8100 Morgan Territory Road, Livermore		-121.826414		37.843511
+2369		2100 East Green Springs Road, Rescue		-121.046378		38.695840
+2370		1500 Partridge Avenue, Birdland Neighbors, Sunnyvale		-122.006195		37.346402
+2371		2300 Edison Trail, Pollock Pines		-120.574480		38.766224
+2372		300 County Road G, Willows		-122.193746		39.518694
+2373		Unnamed Road, Orland		-122.005641		39.729298
+2374		200 Fanyon Street, Milpitas		-121.882305		37.440138
+2375		1100 Manchester Drive, Santa Clara		-121.943639		37.343059
+2376		Kennedy Trail, Los Gatos		-121.955468		37.211896
+2377		2400 Hospital Drive, Cuesta Park, Mountain View		-122.086187		37.369003
+2378		700 Welch Road, Palo Alto		-122.174463		37.438562
+2379		21300 Phoenix Lake Road, Sonora		-120.301737		38.027450
+2380		13000 River Road, Guerneville		-122.911847		38.513094
+2381		7900 Rocky Point Court, Edgewood, Citrus Heights		-121.266710		38.669815
+2382		100 Oak Ravine Way, American River Canyon, Folsom		-121.188717		38.687141
+2383		11600 White Rock Road, Rancho Cordova		-121.214210		38.572665
+2384		10000 Hampton Oak Drive, Elk Grove		-121.364362		38.394829
+2385		8300 Laporte Way, Elk Grove		-121.391583		38.448831
+2386		10600 Arno Road, Galt		-121.297086		38.362416
+2387		800 California 37, Vallejo		-122.267759		38.136812
+2388		400 Ofarrell Drive, Benicia		-122.166684		38.075769
+2389		500 Morningstar Way, Vacaville		-121.950142		38.357508
+2390		0 Brennan Street, Watsonville		-121.754540		36.911434
+2391		1500 Sandy Lane, Lakeport		-122.966262		39.047706
+2392		7200 Highland Springs Road, Lakeport		-122.879435		38.977609
+2393		North Peak Road, Clayton		-121.929814		37.891275
+2394		Deer Gulch Loop Trail, Canyon Heights - Vallejo Mills, Fremont		-121.953844		37.583871
+2395		39200 Farwell Drive, 28 Palms, Fremont		-121.992733		37.529266
+2396		46700 Bradley Street, Warm Springs, Fremont		-121.924484		37.490043
+2397		5100 Sly Park Road, Pollock Pines		-120.575506		38.712978
+2398		Sikes Road, Dixon		-121.808717		38.464527
+2399		12000 Highway 12, Glen Ellen		-122.537857		38.386033
+2400		100 Dublin Court, Petaluma		-122.666137		38.209385
+2401		1400 Queens Road, Berkeley Hills, Berkeley		-122.256196		37.884644
+2402		3700 Old Yerba Buena Road, Evergreen, San Jose		-121.745527		37.311216
+2403		2800 Forest Avenue, Berkeley		-122.248955		37.862051
+2404		500 Fairway Drive, Novato		-122.566393		38.062797
+2405		0 Upper Ames Avenue, Ross		-122.565050		37.963896
+2406		1700 Vistazo Street West, Tiburon, Belvedere Tiburon		-122.431126		37.862268
+2407		1400 Carmel Drive, Willow Glen, San Jose		-121.893989		37.304598
+2408		1900 Crinan Drive, South San Jose, San Jose		-121.841593		37.324247
+2409		4300 Hacienda Drive, Pleasanton		-121.894538		37.692785
+2410		13400 Nimshew Road, Magalia		-121.626445		39.815964
+2411		1400 Jonas Avenue, Sacramento		-121.395866		38.593181
+2412		3800 Edison Avenue, Sacramento		-121.374252		38.634631
+2413		10400 State Highway 99w, Red Bluff		-122.168604		40.083592
+2414		800 Marylin Avenue, Livermore		-121.780889		37.686450
+2415		3000 Old Soda Springs Road, Napa		-122.271898		38.390448
+2416		Lougher Ridge Trail, Antioch		-121.873323		37.980814
+2417		North Helm Canal Road, Firebaugh		-120.381422		36.793211
+2418		600 7th Street, Iron Triangle, Richmond		-122.361650		37.939612
+2419		900 Larkin Road, Gridley		-121.649932		39.353683
+2420		5200 Cleek Court, Richmond		-122.343812		37.991154
+2421		0 Lakeview Avenue, Piedmont		-122.227880		37.822417
+2422		18500 Madison Avenue, Castro Valley		-122.061549		37.722644
+2423		21800 Tanglewood Drive, Castro Valley		-122.083050		37.684428
+2424		17200 Via La Jolla, San Lorenzo		-122.137795		37.669626
+2425		3200 Rose Avenue, Ceres		-120.947055		37.587403
+2426		2100 3rd Street, Hughson		-120.875490		37.615643
+2427		3700 Crowell Road, Turlock		-120.857170		37.525751
+2428		Levee Road, Yuba City		-121.605401		39.095972
+2429		1600 El Centro Avenue, Napa		-122.312844		38.332683
+2430		2200 Streblow Drive, Napa		-122.272454		38.270531
+2431		27700 Mission Boulevard, Mission - Garin, Hayward		-122.061165		37.643676
+2432		14400 Shelley Place, Grass Valley		-121.069625		39.146658
+2433		14900 Honey Hollow Road, Grass Valley		-121.008684		39.160599
+2434		1000 18th Street, West Oakland, Oakland		-122.282173		37.811929
+2435		4700 Clarewood Drive, Upper Rockridge, Oakland		-122.234991		37.835627
+2436		2100 East 19th Street, Rancho San Antonio, Oakland		-122.235142		37.788113
+2437		3200 38th Avenue, Allendale, Oakland		-122.202869		37.788025
+2438		Margie Lane, Oakland		-122.159511		37.787654
+2439		900 Delaware Street, Fairfield		-122.045415		38.245639
+2440		2100 Hammonton Smartsville Road, Linda		-121.542327		39.133422
+2441		100 Octavia Street, Western Addition, San Francisco		-122.425321		37.773491
+2442		2800 Mission Street, Mission District, San Francisco		-122.418842		37.752273
+2443		500 22nd Street, Potrero Hill, San Francisco		-122.387902		37.760548
+2444		700 William Moss Boulevard, Weston Ranch, Stockton		-121.294755		37.905798
+2445		1100 Orangewood Drive, Lodi		-121.286252		38.149020
+2446		500 South Stockton Avenue, Ripon		-121.120897		37.733985
+2447		12600 Union Road, Manteca		-121.244450		37.840780
+2448		200 Shorebird Circle, Redwood Shores, Redwood City		-122.256154		37.528047
+2449		9000 Stockhorse Lane, Granite Bay		-121.194653		38.727271
+2450		11400 Blue Fox Court, Auburn		-121.113310		38.951920
+2451		700 Westlake Center, Westlake, Daly City		-122.479638		37.700195
+2452		400 Verducci Drive, Serramonte, Daly City		-122.460848		37.655670
+2453		0 Orange Court, Country Club Manor, Hillsborough		-122.372718		37.566756
+2454		0 16th Avenue, Hayward Park, San Mateo		-122.317782		37.552569
+2455		1300 Holly Street, San Carlos		-122.267222		37.507167
+2456		300 Sherwood Way, Linfield Oaks, Menlo Park		-122.180167		37.456985
+2457		700 Thomas Street, Woodland		-121.761525		38.667825
+2458		300 San Juan Avenue, Half Moon Bay		-122.464945		37.523414
+2459		4300 Howard Road, Livingston		-120.757968		37.365248
+2460		1300 Montgomery Street, North Beach, San Francisco		-122.407975		37.802289
+2461		Tahoe Rim Trail, Olympic Valley		-120.203440		39.114108
+2462		900 Airport Road, Lincoln		-121.327662		38.906851
+2463		200 Moncada Way, Oceanview, San Francisco		-122.467995		37.727221
+2464		1700 47th Avenue, Sunset District, San Francisco		-122.506583		37.756240
+2465		Diamond Cove Terrace, Bayview, San Francisco		-122.393696		37.713334
+2466		400 Amador Street, Bayview, San Francisco		-122.390475		37.744490
+2467		3100 West Mendocino Avenue, Stockton		-121.350421		37.966902
+2468		400 Mendocino Avenue, Santa Rosa		-122.712597		38.441633
+2469		4200 Thomas Lake Harris Drive, Santa Rosa		-122.701142		38.479627
+2470		2000 Waltzer Road, Santa Rosa		-122.760418		38.470384
+2471		3300 Juniper Avenue, Santa Rosa		-122.724917		38.391411
+2472		800 Colorado Avenue, Los Banos		-120.856306		37.064581
+2473		6700 3rd Street, Riverbank		-120.931369		37.737179
+2474		Virginia Corridor Trail, Modesto		-121.002570		37.679823
+2475		3300 Floyd Avenue, Modesto		-120.943008		37.678264
+2476		0 Ragsdale Court, Salinas		-121.631352		36.676863
+2477		1300 Primavera Street, Salinas		-121.673014		36.660390
+2478		San Carlos Street, Golden Rectangle, Carmel-by-the-Sea		-121.922712		36.547423
+2479		200 Bonifacio Place, Monterey		-121.896964		36.600733
+2480		2100 Canyon Lakes Drive, San Ramon		-121.949316		37.773144
+2481		Barney Creek Road, Placerville		-120.849418		38.754792
+2482		800 Palisade Drive, Martinez		-122.109506		37.998822
+2483		100 Burns Court, Pleasant Hill		-122.071981		37.933362
+2484		1300 Sumac Circle, Concord		-121.980154		37.955261
+2485		0 Jolie Lane, Walnut Creek		-122.067528		37.924576
+2486		Diablo Trail, Walnut Creek		-122.011684		37.877756
+2487		5400 Amend Road, El Sobrante Hills, Richmond		-122.268172		37.968437
+2488		200 Azucar Avenue, Edenvale, San Jose		-121.804949		37.262899
+2489		300 Marylinn Drive, Milpitas		-121.912353		37.437261
+2490		22600 Alcalde Road, Cupertino		-122.075348		37.314406
+2491		400 Belfast Avenue, Modesto		-120.940128		37.650091
+2492		North Walker Slough Levee Road, Seaport, Stockton		-121.284848		37.917126
+2493		2400 West Benjamin Holt Drive, Lakeview, Stockton		-121.340638		38.006062
+2494		7400 Woodside Drive, Lakeview, Stockton		-121.334104		38.017038
+2495		100 Shrader Street, San Francisco		-122.448253		37.774373
+2496		100 Diamond Street, The Castro, San Francisco		-122.436880		37.759763
+2497		600 Tompkins Avenue, Bernal Heights, San Francisco		-122.413016		37.736802
+2498		700 Rolph Street, Crocker-Amazon, San Francisco		-122.432077		37.711328
+2499		400 Faxon Avenue, Ingleside, San Francisco		-122.457113		37.722086
+2500		1900 East Sikorsky Street, Stockton		-121.277953		37.889749
+2501		700 Spreckels Avenue, Manteca		-121.202028		37.800436
+2502		Old Guadalupe Trail, Daly City		-122.434430		37.702918
+2503		3700 Callan Boulevard, Westborough, South San Francisco		-122.460594		37.646549
+2504		5900 Cabrillo Highway, Pacifica		-122.503196		37.590026
+2505		1000 Commodore Drive, San Bruno		-122.425308		37.633806
+2506		0 Maryal Drive, Salinas		-121.651472		36.693485
+2507		1900 Ord Grove Avenue, Seaside		-121.831552		36.618534
+2508		5000 Laird Road, Loomis		-121.170245		38.797693
+2509		Capital City Freeway, North Sacramento, Sacramento		-121.421628		38.616943
+2510		400 Nevada Avenue, Baywood - Aragon, San Mateo		-122.330176		37.553205
+2511		100 Alberta Avenue, San Carlos		-122.252955		37.489783
+2512		300 Genoa Drive, Redwood Shores, Redwood City		-122.241424		37.539847
+2513		300 O' Connor Street, The Willows, Menlo Park		-122.142706		37.457996
+2514		4500 Thornhaven Way, Edenvale, San Jose		-121.816931		37.273050
+2515		6000 Chesbro Avenue, Edenvale, San Jose		-121.844206		37.240122
+2516		1800 Barrett Avenue, Morgan Hill		-121.602678		37.134917
+2517		4400 West Nichols Avenue, Isabel Park, Sacramento		-121.460335		38.533319
+2518		6400 18th Street, Rio Linda		-121.429133		38.678281
+2519		3700 35th Avenue, Redwood Heights, Oakland		-122.194808		37.799212
+2520		3200 Shawn Way, Hayward		-122.053118		37.687833
+2521		1500 Marietta Drive, South San Jose, San Jose		-121.902657		37.249381
+2522		2900 Stevens Lane, East San Jose, San Jose		-121.789167		37.320636
+2523		3300 Rocky Mountain Drive, Alum Rock, San Jose		-121.802820		37.349284
+2524		100 South Cragmont Avenue, Alum Rock, San Jose		-121.820661		37.368925
+2525		1200 Elko Drive, Sunnyvale		-121.991950		37.400813
+2526		3500 North 1st Street, North San Jose, San Jose		-121.945206		37.406171
+2527		Harvey Bear Trail, San Martin		-121.568601		37.103426
+2528		10800 Love Creek Road, Ben Lomond		-122.096392		37.097351
+2529		200 Poplar Street, Aptos		-121.922966		36.977752
+2530		3200 Blandon Road, Oak Knoll Golf Links, Oakland		-122.157101		37.761368
+2531		Calaveras Ridge Regional Trail, Dublin		-121.957213		37.708270
+2532		100 Dana Highlands Court, Danville		-121.944063		37.793949
+2533		5500 Forbes Drive, Newark		-122.028118		37.534183
+2534		600 Shaver Court, Prewett Ranch, Brentwood		-121.706849		37.957348
+2535		3300 Walton Way, West San Jose, San Jose		-121.957744		37.308410
+2536		200 Alvarado Avenue, North Los Altos, Los Altos		-122.106133		37.392189
+2537		600 Catalina Circle, Vallejo		-122.286684		38.108417
+2538		2500 Cordelia Road, Fairfield		-122.104291		38.213328
+2539		2400 Edwards Avenue, El Cerrito		-122.313888		37.934168
+2540		400 Duperu Drive, Crockett		-122.198399		38.037278
+2541		4400 Tolenas Road, Fairfield		-122.002554		38.259824
+2542		200 Madrone Street, Vacaville		-121.997182		38.361738
+2543		100 Hahn Way, Cotati		-122.695562		38.323083
+2544		4400 Culebra Avenue, Santa Rosa		-122.674795		38.469266
+2545		1400 Range Avenue, Santa Rosa		-122.738262		38.452016
+2546		1400 Woody Creek Lane, Windsor		-122.854676		38.523254
+2547		11200 Willms Road, Oakdale		-120.769318		37.763530
+2548		1300 Del Vale Avenue, Modesto		-121.023984		37.664534
+2549		500 14th Street, Downtown Modesto, Modesto		-120.991394		37.637713
+2550		Roen Road, Hickman		-120.671628		37.619973
+2551		700 South Avenue, Turlock		-120.857861		37.484787
+2552		0 Sunsweet Boulevard, Yuba City		-121.669172		39.134266
+2553		700 Rowland Boulevard, Novato		-122.560991		38.077850
+2554		0 Oliver Lane, Mill Valley		-122.507570		37.893637
+2555		200 East 20th Street, Merced		-120.459758		37.297327
+2556		20100 Capri Avenue, Los Banos		-120.853333		37.078700
+2557		1900 San Juan Road, Aromas		-121.686647		36.891998
+2558		200 Lualan Lane, Theiles Manor, Roseville		-121.295387		38.736137
+2559		7500 Goose Meadows Way, Sun City, Roseville		-121.350848		38.785121
+2560		2800 Club Drive, Rocklin		-121.268941		38.810454
+2561		800 Downing Circle, Lincoln Crossing, Lincoln		-121.317669		38.876065
+2562		400 Crazy Horse Canyon Road, Prunedale		-121.622513		36.796051
+2563		Via Quintana, Carmel-by-the-Sea		-121.826407		36.532827
+2564		14200 Shaffi Lane, Castroville		-121.707413		36.809410
+2565		4000 Hagen Road, Napa		-122.230242		38.326585
+2566		River Otter Loop, Auburn		-121.168114		38.980550
+2567		13400 Forest Park Circle, Penn Valley		-121.171791		39.241424
+2568		Lincoln Highway, Central Sacramento, Sacramento		-121.505841		38.569332
+2569		4200 35th Street, Southeastern Sacramento, Sacramento		-121.469522		38.534470
+2570		1200 Grand River Drive, Southwestern Sacramento, Sacramento		-121.522305		38.476496
+2571		3200 Port Pacific Lane, Elk Grove		-121.467784		38.410567
+2572		4200 Candle Court, Merced		-120.497212		37.335658
+2573		44000 County Road 28H, Woodland		-121.741562		38.588618
+2574		1600 Tamarack Lane, Central Davis, Davis		-121.756045		38.552768
+2575		4500 McDonald Drive, Parkland Estates, Sacramento		-121.357381		38.620084
+2576		800 Sotano Drive, North Sacramento, Sacramento		-121.486202		38.608937
+2577		8000 Tyne Fell Court, Antelope		-121.335139		38.714485
+2578		2700 Royal Palm Way, Palm Drive Estates, Carmichael		-121.319540		38.614770
+2579		7600 Cook Avenue, Citrus Heights		-121.282921		38.703771
+2580		Green Valley Road, Folsom		-121.132379		38.698103
+2581		11000 Woodring Drive, Mather, Sacramento County, California, United States, 95655		-121.281765		38.554572
+2582		1200 Manzanita Drive, Millbrae		-122.399123		37.589201
+2583		10900 Gold Center Drive, Rancho Cordova		-121.284433		38.585790
+2584		9300 Elder Creek Road, Sacramento		-121.331635		38.497867
+2585		10500 Cornell Road, Galt		-121.297906		38.247373
+2586		200 Richardson Road, Hollister		-121.411672		36.833047
+2587		14800 Latrobe Road, Sloughhouse		-121.138173		38.482693
+2588		300 Gardenia Circle, Fairfield		-122.037057		38.278126
+2589		6500 Rogers Lane, Vacaville		-122.008808		38.369651
+2590		400 Hopper Street, Petaluma		-122.629598		38.231355
+2591		26100 Clover Road, Hayward Highland, Hayward		-122.043895		37.667236
+2592		40100 Leslie Street, Central District, Fremont		-121.968112		37.542111
+2593		5500 Stoneridge Mall Road, Pleasanton		-121.911199		37.666269
+2594		1900 Lundy Avenue, North San Jose, San Jose		-121.893111		37.394297
+2595		1800 Shamrock Avenue, Santa Clara		-121.972696		37.361274
+2596		15400 Vía Caballero, Monte Sereno		-121.983814		37.243546
+2597		3000 Telegraph Avenue, Pill Hill, Oakland		-122.268408		37.817748
+2598		3700 Road J, Redwood Valley		-123.222195		39.327779
+2599		5900 40th Street, Sacramento		-121.460733		38.519032
+2600		5000 Plumbago Place, Rocklin		-121.251014		38.795394
+2601		800 Cole Street, Ashbury Heights, San Francisco		-122.450766		37.765472
+2602		2000 Morse Avenue, Sacramento		-121.393740		38.605214
+2603		11200 Kerrigan Drive, Chabot Park, Oakland		-122.131900		37.740782
+2604		3700 Kentucky Avenue, Riverbank		-120.928089		37.725768
+2605		0 Cable Roadway, Sausalito		-122.487519		37.850820
+2606		2100 Beach Street, Marina District, San Francisco		-122.444771		37.803643
+2607		100 Campus Drive, Stanford		-122.175982		37.429686
+2608		3000 Heidorn Ranch Road, Antioch		-121.762471		37.947303
+2609		7300 Dieppe Way, Sacramento		-121.348543		38.700245
+2610		Unnamed Road, Soledad		-121.481027		36.338590
+2611		2000 Evergreen Avenue, Assumption Parish, San Leandro		-122.133890		37.714430
+2612		4500 Utah Drive, May Valley, Richmond		-122.295046		37.968285
+2613		1700 Eisenhower Street, Shoreview, San Mateo		-122.293378		37.561899
+2614		100 West Portal Avenue, West of Twin Peaks, San Francisco		-122.466543		37.739172
+2615		Unnamed Road, Lassen County, California, United States		-120.249920		40.241628
+2616		0 Donna Way, Sequoyah, Oakland		-122.138612		37.762354
+2617		8200 Oakbriar Circle, Elk Grove		-121.400451		38.415756
+2618		1800 Ganges Avenue, El Cerrito		-122.309441		37.927644
+2619		Dwight Road, Elk Grove		-121.464973		38.443741
+2620		2200 McGee Avenue, Central Berkeley, Berkeley		-122.278471		37.866656
+2621		4000 Rose Avenue, Oakley		-121.706348		37.989386
+2622		300 Langton Street, South of Market, San Francisco		-122.403860		37.773723
+2623		1600 Claycord Avenue, Concord		-121.969024		37.965304
+2624		1300 16th Avenue, Inner Sunset, San Francisco		-122.474167		37.763095
+2625		400 Alpha Street, Visitacion Valley, San Francisco		-122.406317		37.711410
+2626		14th Alley, Downtown Lincoln, Lincoln		-121.303103		38.889274
+2627		300 Towt Street, Salinas		-121.618852		36.679605
+2628		36700 Mulberry Street, Newark		-122.034820		37.537254
+2629		Cochrane Street, Bayview, San Francisco		-122.375320		37.724968
+2630		1600 12th Avenue, Southwestern Sacramento, Sacramento		-121.500081		38.544809
+2631		400 Ginkgo Court, South San Jose, San Jose		-121.829981		37.286121
+2632		700 Campbell Village Court, West Oakland, Oakland		-122.299154		37.808784
+2633		2600 79th Avenue, Eastmont, Oakland		-122.172149		37.764308
+2634		Dwight D. Eisenhower Highway, Albany		-122.309918		37.886394
+2635		2300 Industrial Parkway West, Hayward		-122.082884		37.619576
+2636		1300 San Anselmo Avenue, San Anselmo		-122.575679		37.978389
+2637		3300 Janet Drive, Modesto		-121.020611		37.685718
+2638		3500 Golden Chain Highway, San Andreas		-120.562430		38.072649
+2639		1100 Blythe Street, Foster City		-122.266779		37.549018
+2640		0 Regency Circle, Salinas		-121.649146		36.713178
+2641		1200 North Mitchell Avenue, Turlock		-120.842292		37.505842
+2642		Forest Route 17, Nevada City		-120.745157		39.377233
+2643		1300 Egbert Avenue, Bayview, San Francisco		-122.389649		37.721389
+2644		1000 Roseville Parkway, Harding, Roseville		-121.291137		38.780288
+2645		700 West Magnolia Street, Civic Center, Stockton		-121.306889		37.961124
+2646		7800 Arthur Street, Arroyo Viejo, Oakland		-122.179033		37.760569
+2647		900 B Street, Hayward		-122.083544		37.674485
+2648		2300 Lemontree Way, Antioch		-121.828991		38.003941
+2649		2100 Angels View, El Dorado Hills		-121.009047		38.664798
+2650		400 Palm Avenue, Millbrae		-122.398601		37.599352
+2651		6700 Park Riviera Way, Southwestern Sacramento, Sacramento		-121.547573		38.502123
+2652		2500 Glen Dundee Way, East San Jose, San Jose		-121.807416		37.331122
+2653		Indian Springs Drive, South San Jose, San Jose		-121.811400		37.254867
+2654		Robert Dollar Drive, San Rafael		-122.532260		37.982417
+2655		3100 Flower Circle, Marina		-121.791220		36.681071
+2656		7500 Hollanderry Place, Cupertino		-122.037242		37.303177
+2657		9000 Pershing Avenue, Madison Oaks, Orangevale		-121.209348		38.672414
+2658		400 Mariposa Avenue, Shoreline West, Mountain View		-122.090531		37.394063
+2659		700 Volz Lane, Santa Cruz		-121.995331		36.973632
+2660		0 Burgess Court, Sausalito		-122.512873		37.870148
+2661		500 S Street, Merced		-120.499493		37.292152
+2662		200 Hillcrest Avenue, Marina		-121.795907		36.677443
+2663		Upper Mad River Road, Mad River		-123.216988		40.304721
+2664		16300 Stent Cut Off Road, Jamestown		-120.444403		37.937594
+2665		39600 Trinity Way, Sundale, Fremont		-121.978612		37.540596
+2666		700 McClarren Road, Southwood Homes, Brentwood		-121.708053		37.931226
+2667		1500 El Pinal Drive, Pacific, Stockton		-121.279017		37.983522
+2668		1800 20th Street, Oroville		-121.602229		39.518998
+2669		2600 Yorkshire Drive, Antioch		-121.776189		37.979599
+2670		500 North Jackson Avenue, East San Jose, San Jose		-121.856015		37.369205
+2671		4700 Shannondale Drive, Antioch		-121.770389		37.969120
+2672		100 Greenwich Circle, Vacaville		-121.957810		38.343578
+2673		100 Rutledge Street, Bernal Heights, San Francisco		-122.407991		37.744174
+2674		2100 Lucile Avenue, Sherwoods Manor, Stockton		-121.347779		38.031897
+2675		200 Sandpiper Court, Foster City		-122.258199		37.564888
+2676		3000 Silver Estates, East San Jose, San Jose		-121.757847		37.295275
+2677		1600 Fallbrook Avenue, Castro, San Jose		-121.981659		37.291988
+2678		1800 Dutton Avenue, Southwest Santa Rosa, Santa Rosa		-122.721362		38.420724
+2679		2000 East Canal Drive, Turlock		-120.828639		37.499139
+2680		3500 Hiawatha Way, North Country, Antelope		-121.380973		38.709601
+2681		Unnamed Road, Beckwourth		-120.507657		39.954168
+2682		Middle Burdell Fire Road, Novato		-122.586859		38.130724
+2683		2000 Applegate Road, Atwater		-120.606112		37.332792
+2684		400 3rd Street, Greenfield		-121.242455		36.328097
+2685		9600 Shanks Road, Delhi		-120.787748		37.432601
+2686		8100 Merion Drive, Newark		-122.058326		37.536211
+2687		3900 Seven Trees Boulevard, South San Jose, San Jose		-121.829261		37.280581
+2688		3800 Valley Vista Road, Walnut Creek		-121.998146		37.920986
+2689		1000 Hayes Street, Fairfield		-122.059391		38.252833
+2690		2200 Northridge Drive, Modesto		-121.040974		37.686252
+2691		800 Hacienda Way, Millbrae		-122.410617		37.606951
+2692		Parkington Court, Sacramento		-121.413580		38.585044
+2693		2600 Los Amigos Drive, Cordova Meadows, Rancho Cordova		-121.312219		38.592733
+2694		1900 Buchanan Street, Western Addition, San Francisco		-122.431030		37.787978
+2695		2200 Rivera Street, Sunset District, San Francisco		-122.490628		37.746474
+2696		600 West Vine Street, Lodi		-121.279926		38.122167
+2697		200 F Street, Centennial, Redwood City		-122.240884		37.493961
+2698		6200 Lonetree Boulevard, Rocklin		-121.294489		38.804280
+2699		9400 South Wales Way, Elk Grove		-121.438373		38.416561
+2700		300 Ponderosa Road, Avalon, South San Francisco		-122.437818		37.645135
+2701		6300 Little Uvas Road, Morgan Hill		-121.712769		37.055097
+2702		7500 Bernice Avenue, Rohnert Park		-122.701570		38.333976
+2703		100 South Washington Street, Downtown Modesto, Modesto		-121.008471		37.637474
+2704		Forest Route 6N96, Tuolumne County, California, United States		-120.227365		38.171734
+2705		2800 Canvasback Way, West Sacramento		-121.553818		38.541334
+2706		10000 Bobbell Drive, Elk Grove		-121.466920		38.394662
+2707		400 Ericwood Court, Manteca		-121.221936		37.819952
+2708		200 Westview Drive, Sunshine Gardens, South San Francisco		-122.441149		37.662688
+2709		1200 Halyard Drive, West Sacramento		-121.563389		38.567786
+2710		2500 Clubhouse Drive West, Whitney Oaks, Rocklin		-121.243640		38.829312

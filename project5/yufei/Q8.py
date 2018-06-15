@@ -32,34 +32,25 @@ def readJson(fn):
         return json.load(f)
 
 
+def triangle_inequality_satisfy(w1, w2, w3):
+    if (w1 + w2 > w3 and w1 + w3 > w2 and w2 + w3 > w1):
+        return True
+    else:
+        return False
+
+
+verticeList = set()
 weights = OrderedDict()
 edgeNums = OrderedDict()
-file_uberGraph = open("./data/uber/uberGraph.txt", "w")
-file_uberGraph_info = open("./data/uber/uberGraph_info.txt", "w")
 data = readCSV('./data/uber/san_francisco-censustracts-2017-4-All-MonthlyAggregate.csv')
-info = readJson('./data/uber/san_francisco_censustracts.json')
-info = info['features']
 
 
-print("Writing to uberGraph_info.txt...")
-idx = 0
-for row in info:
-    progressBar(idx, len(info))
-    idx += 1
-    ID = int(row['properties']['MOVEMENT_ID'])
-    streetName = row['properties']['DISPLAY_NAME']
-    coordinates = np.array(row['geometry']['coordinates'][0][0])
-    coordinate = np.mean(coordinates, axis=0)
-    file_uberGraph_info.write("{:d}\t\t{:s}\t\t{:f}\t\t{:f}\n".format(ID, streetName, coordinate[0], coordinate[1]))
-file_uberGraph_info.close()
-
-
-print("\nFilling weights...")
-idx = 0
+print("Filling weights...")
 for row in data[1:]:
-    progressBar(idx, len(data) - 1)
-    idx += 1
     if row[2] == '12':
+        verticeList.add(row[0])
+        verticeList.add(row[1])
+
         key_forward = row[0] + '-' + row[1]
         key_backward = row[1] + '-' + row[0]
         weight = float(row[3])
@@ -76,14 +67,45 @@ for row in data[1:]:
             edgeNums[key_forward] = 1
 
 
-print("\nWriting to uberGraph.txt...")
-idx = 0
-for row in weights.items():
-    progressBar(idx, len(weights) - 1)
-    idx += 1
-    key = row[0].split('-')
-    source = int(key[0])
-    dest = int(key[1])
-    weight = float(row[1])
-    file_uberGraph.write("{:d}\t\t{:d}\t\t{:f}\n".format(source, dest, weight))
-file_uberGraph.close()
+print("Finding satisfied triangles...")
+i = 0
+num_sample = 1000
+memo = list()
+verticeList = list(verticeList)
+num_satisfied = 0
+
+while(i < num_sample):
+
+    progressBar(i, num_sample)
+    idxsList = np.random.choice(verticeList, 3, replace=False)
+    idxsSet = set()
+    idxsSet.add(idxsList[0])
+    idxsSet.add(idxsList[1])
+    idxsSet.add(idxsList[2])
+
+    if idxsSet not in memo:
+        memo.append(idxsSet)
+        v1 = idxsList[0]
+        v2 = idxsList[1]
+        v3 = idxsList[2]
+
+        e1_forward = v1 + '-' + v2
+        e1_backward = v2 + '-' + v1
+        e2_forward = v1 + '-' + v3
+        e2_backward = v3 + '-' + v1
+        e3_forward = v2 + '-' + v3
+        e3_backward = v3 + '-' + v2
+
+        if e1_forward in weights or e1_backward in weights:
+            e1 = e1_forward if e1_forward in weights else e1_backward
+            if e2_forward in weights or e2_backward in weights:
+                e2 = e2_forward if e2_forward in weights else e2_backward
+                if e3_forward in weights or e3_backward in weights:
+                    e3 = e3_forward if e3_forward in weights else e3_backward
+                    i += 1
+                    w1 = weights[e1]
+                    w2 = weights[e2]
+                    w3 = weights[e3]
+                    if triangle_inequality_satisfy(w1, w2, w3):
+                        num_satisfied += 1
+print('\n{:.3f}% of the {} sampled triangles satisfy the triangle inequality'.format(num_satisfied * 100.0 / i, i))
